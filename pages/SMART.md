@@ -4,7 +4,7 @@ You can create Smart Collections to organize bookmarks by criteria you specify, 
 
 ## Create a Smart Collection
 
-You can create a custom Smart Collection to organize bookmarks by the criteria that you specify. Smart Collections cannot contain subfolders; bookmarks cannot be added manually to them. they can only contain bookmarks derived from the criteria you specify.
+You can create a custom Smart Collection to organize bookmarks by the criteria that you specify. Smart Collections cannot contain subfolders; bookmarks cannot be added manually to them. They can only contain bookmarks derived from the criteria you specify.
 
 To create a Smart Collection:
 
