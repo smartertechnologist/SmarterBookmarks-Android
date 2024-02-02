@@ -8,6 +8,10 @@ SmarterBookmarks lets you save your favorite bookmarks and return to them whenev
 
 It is an advanced bookmark manager that lets you quickly save any digital content from any app or browser. With SmarterBookmarks, you can collect, organize, and read your favorite articles, blogs, web pages, or other digital content. You can also import existing bookmarks from other services/browsers.
 
+## Need help?
+
+- [Getting Started](GETTINGSTARTED.md)
+
 ## Features
 
 ### Collect bookmarks
@@ -64,7 +68,3 @@ It is an advanced bookmark manager that lets you quickly save any digital conten
 - Custom Bookmark Status
 - Unlimited floating bubbles
 - Unlimited Dashboard widgets
-
-## Need help?
-
-- [Getting Started](GETTINGSTARTED.md)
