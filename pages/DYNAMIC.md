@@ -19,10 +19,10 @@ When we're done visiting this page, we can navigate to another URL similar to th
 
 This update will work because it matches the specified regex.
 
-![Creating a dynamic bookmark](../assets/1.gif "Creating a dynamic bookmark")
+<img src="../assets/1.gif" alt="Creating a dynamic bookmark" width="100"/>
 
 ## Removing a Dynamic Bookmark
 
 To unset a dynamic bookmark, simply click on the bookmark options and select "Clear dynamic bookmark."
 
-![Clear a dynamic bookmark](../assets/12.png "Clear a dynamic bookmark")
+<img src="../assets/12.png" alt="Clear a dynamic bookmark" width="100"/>
