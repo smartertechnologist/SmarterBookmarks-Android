@@ -17,8 +17,8 @@ To create a Smart Collection:
 
 Upon creation, the new Smart Collection will appear in the list of Collections.
 
-![Creating a smart collection](../assets/3.png "Creating a smart collection")
-
-![List with a smart collection](../assets/4.png "List with a smart collection")
-
-![Contents of a smart collection](../assets/5.png "Contents of a smart collection")
+<p float="left">
+    <img src="../assets/3.png" alt="Creating a smart collection" width="100"/>
+    <img src="../assets/4.png" alt="List with a smart collection" width="100"/>
+    <img src="../assets/5.png" alt="Contents of a smart collection" width="100"/>
+</p>
