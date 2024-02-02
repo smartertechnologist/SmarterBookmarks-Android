@@ -21,6 +21,14 @@ This update will work because it matches the specified regex.
 
 <img src="../assets/1.gif" alt="Creating a dynamic bookmark" width="300"/>
 
+#### Further example
+
+<p float="left">
+    <img src="../assets/8.png" alt="Creating a smart collection" width="300"/>
+    <img src="../assets/9.png" alt="List with a smart collection" width="300"/>
+    <img src="../assets/10.png" alt="Contents of a smart collection" width="300"/>
+</p>
+
 ## Removing a Dynamic Bookmark
 
 To unset a dynamic bookmark, simply click on the bookmark options and select "Clear dynamic bookmark."
