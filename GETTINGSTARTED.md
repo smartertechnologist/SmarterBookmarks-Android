@@ -81,4 +81,4 @@ Encountering issues? Here are some tips:
 That's it! You're all set to make the most of SmarterBookmarks. Happy bookmarking!
 
 [^1]: You can also add bookmarks by sharing links from other apps or by importing them via HTML exports from browsers
-[^2]: Bookmark info includes adding as a favorite, adding tags, adding to a collection, setting a status, configuring how to auto-refresh bookmark metadata, adding a reminder (Pro feature), and setting a bookmark as dynamic.
+[^2]: Bookmark info includes adding as a favorite, adding tags, adding to a collection, setting a status, configuring how to auto-refresh bookmark metadata, adding a reminder (Pro feature), and setting a bookmark as [dynamic](pages/DYNAMIC.md).
