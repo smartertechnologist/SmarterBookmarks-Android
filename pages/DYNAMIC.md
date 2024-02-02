@@ -19,7 +19,7 @@ When we're done visiting this page, we can navigate to another URL similar to th
 
 This update will work because it matches the specified regex.
 
-<img src="../assets/1.gif" alt="Creating a dynamic bookmark" width="300"/>
+[![Watch the video](https://img.youtube.com/vi/FbvFdItx-_g/hqdefault.jpg)](https://www.youtube.com/embed/FbvFdItx-_g)
 
 #### Further example
 
