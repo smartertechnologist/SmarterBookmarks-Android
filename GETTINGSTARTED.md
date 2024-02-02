@@ -28,8 +28,10 @@ There are various ways to add bookmarks[^1]. The default way is through the app 
 4. Add a title and other bookmark info[^2] if desired.
 5. Click "Create."
 
-![Clicking the + button](assets/1.png "Clicking the + button to add a bookmark")
-![Creating a bookmark](assets/2.png "Creating a bookmark")
+<p float="left">
+    <img src="assets/1.png" alt="Clicking the + button to add a bookmark" width="250"/>
+    <img src="assets/2.png" alt="Creating a bookmark" width="250"/>
+</p>
 
 ## Organizing Bookmarks
 
@@ -38,8 +40,10 @@ Keep your bookmarks organized for easy access:
 1. Create collections to categorize your bookmarks.
 2. [Smart Collections](pages/SMART.md) (Pro feature) allow you to specify a set of criteria for bookmarks to be contained in the collections, to make keeping track of bookmarks much easier
 3. Use tags to label bookmarks with keywords, making them easily searchable.
-![Sample collections](assets/6.png "Sample collections")
-![Sample bookmarks](assets/11.png "Sample bookmarks")
+<p float="left">
+    <img src="assets/6.png" alt="Sample collections" width="250"/>
+    <img src="assets/11.png" alt="Sample bookmarks" width="250"/>
+</p>
 
 ## Searching and Filtering
 
