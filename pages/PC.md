@@ -29,17 +29,17 @@ The Connect to PC Pro feature in SmarterBookmarks lets you conveniently view and
 
 3. **Approve the Connection:** A confirmation request will appear on your mobile device. Simply approve the request to establish the connection.
 <p float="left"  style="margin-left: 40px;">
-    <img src="../assets/16.png" alt="Connecting to the assigned URL" width="500"/>
+    <img src="../assets/16.png" alt="Approving the connection on PC" width="500"/>
 </p>
 <p float="left"  style="margin-left: 40px;">
-    <img src="../assets/16.jpg" alt="Clicking the Connect to PC icon" width="250"/>
-    <img src="../assets/17.jpg" alt="Setting up the WiFi connection to PC" width="250"/>
+    <img src="../assets/16.jpg" alt="Approving the connection on Android" width="250"/>
+    <img src="../assets/17.jpg" alt="Connection approved" width="250"/>
 </p>
    
 
 **Congratulations!** Your bookmarks are now accessible for viewing on your PC. Utilize the search function and pagination features to navigate your collection with ease.
 <p float="left"  style="margin-left: 40px;">
-    <img src="../assets/18.png" alt="Connecting to the assigned URL" width="500"/>
+    <img src="../assets/18.png" alt="Successfully connected to PC"/>
 </p>
 
 [^1]: **Note:** Currently, Connect to PC Pro operates in read-only mode. Editing features for bookmarks will be added in a future update. Stay tuned!
