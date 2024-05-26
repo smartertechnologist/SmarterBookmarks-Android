@@ -62,7 +62,7 @@ It is an advanced bookmark manager that lets you quickly save any digital conten
 
 ## Pro features
 
-- Connect to PC
+- [Connect to PC](pages/PC.md)
 - [Smart Collections](pages/SMART.md)
 - Reminders
 - Custom Bookmark Status
