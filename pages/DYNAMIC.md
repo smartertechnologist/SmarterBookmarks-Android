@@ -1,8 +1,8 @@
 # Dynamic Bookmarks
 
-You can create dynamic bookmarks that can be auto-updated based on the criteria that you specify based on the URL.
+You can create dynamic bookmarks that can be auto-updated based on the criteria you specify based on the URL.
 
-This is especially useful if you do not want to create a lot of bookmarks about a particular topic when all you require is just **ONE** up-to-date bookmark. For example, comics, weekly podcasts, TV shows, documentation pages you last read, YouTube playlists, articles in blogs your last read, etc. This feature lets you track your journey through a website.
+This is especially useful if you do not want to create a lot of bookmarks about a particular topic when all you require is just **ONE** up-to-date bookmark. For example, comics, weekly podcasts, TV shows, documentation pages you last read, YouTube playlists, articles in blogs you last read, etc. This feature lets you track your journey through a website.
 
 ## Creating/Setting a Dynamic Bookmark
 
@@ -11,7 +11,7 @@ There are currently two criteria when setting up dynamic bookmarks:
 * ANY
 * EXACT
 
-ANY simply matches any URL while EXACT uses Regular expressions to match a URL.
+ANY matches any URL while EXACT uses Regular expressions to match a URL.
 
 For example, given the following URL <https://www.tutorialspoint.com/cplusplus/index.htm> as a starting point, we can create this bookmark using the EXACT match. This is done by highlighting a portion of the URL as shown below. Then select Regex from the popup menu which creates the following regex `https://www.tutorialspoint.com/cplusplus/(.*)`.
 
