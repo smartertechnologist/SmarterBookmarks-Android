@@ -24,12 +24,12 @@ The Connect to PC Pro feature in SmarterBookmarks lets you conveniently view and
 
 2. **Access App-Provided URL:** Open a web browser on your PC and navigate to the specific URL displayed within the SmarterBookmarks app.
 <p float="left"  style="margin-left: 40px;">
-    <img src="../assets/15.png" alt="Connecting to the assigned URL" width="500"/>
+    <img src="../assets/15.png" alt="Connecting to the assigned URL"/>
 </p>
 
 3. **Approve the Connection:** A confirmation request will appear on your mobile device. Simply approve the request to establish the connection.
 <p float="left"  style="margin-left: 40px;">
-    <img src="../assets/16.png" alt="Approving the connection on PC" width="500"/>
+    <img src="../assets/16.png" alt="Approving the connection on PC"/>
 </p>
 <p float="left"  style="margin-left: 40px;">
     <img src="../assets/16.jpg" alt="Approving the connection on Android" width="250"/>
