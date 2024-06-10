@@ -1,3 +1,9 @@
+# Changelog
+### Version 0.9.2 - June 10, 2024
+- Pro: Updated the rules for smart collections to filter bookmarks by tags, collection, status, note title, note content, opened count, and last opened date
+- Added 'Opened count' and 'Last opened date' to the list of Bookmark sort options
+- Updated bookmark items to have optional counters for the number of times opened and the count of notes attached to the bookmark
+- Bug fixes and other enhancements
 ### Version 0.9.1 - May 17, 2024
 - Improved consistency of the bookmark views, dropdowns, and menus
 ### Version 0.9.0 - April 15, 2024
