@@ -2,7 +2,7 @@
 ### Version 0.9.2 – 10 juin 2024
 - Pro: Mise à jour des règles des collections intelligentes pour filtrer les signets par balises, collection, statut, titre de note, contenu de note, nombre d'ouvertures et date de dernière ouverture.
 - Ajout de « Nombre d'ouvertures » et « Date de la dernière ouverture » à la liste des options de tri des signets
-- Éléments de signet mis à jour pour avoir des compteurs facultatifs pour le nombre de fois ouverts et le nombre de notes attachées au signet
+- Éléments de signet mis à jour pour avoir des compteurs facultatifs pour le nombre de fois ouverts, le nombre de notes attachées au signet et d'autres métadonnées du site Web.
 - Corrections de bugs et autres améliorations
 ### Version 0.9.1 – 17 mai 2024
 - Cohérence améliorée des vues de signets, des listes déroulantes et des menus
