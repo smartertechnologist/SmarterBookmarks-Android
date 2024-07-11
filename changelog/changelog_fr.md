@@ -1,4 +1,9 @@
 # Journal des modifications
+### Version 0.9.3 – 11 juillet 2024
+- Mise à jour de la boîte de dialogue Nouveau signet pour mémoriser son dernier état
+- Ajout d'options de tri de signets distinctes pour l'onglet Collections
+- Ajout d'une option dans les paramètres des signets pour définir un format de date et d'heure personnalisé pour la liste des signets
+- Ajout d'une option dans les paramètres d'apparence pour afficher le nombre total d'éléments de la liste
 ### Version 0.9.2 – 10 juin 2024
 - Pro: Mise à jour des règles des collections intelligentes pour filtrer les signets par balises, collection, statut, titre de note, contenu de note, nombre d'ouvertures et date de dernière ouverture.
 - Ajout de « Nombre d'ouvertures » et « Date de la dernière ouverture » à la liste des options de tri des signets

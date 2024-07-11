@@ -1,4 +1,9 @@
 # Changelog
+### Version 0.9.3 - July 11, 2024
+- Updated the New Bookmark dialog to remember its last state
+- Added a separate bookmark sort options for the Collections tab
+- Added an option in Bookmark settings to set custom date time format for the list of bookmarks
+- Added an option in Appearance settings to show the total number of list items
 ### Version 0.9.2 - June 10, 2024
 - Pro: Updated the rules for smart collections to filter bookmarks by tags, collection, status, note title, note content, opened count, and last opened date
 - Added 'Opened count' and 'Last opened date' to the list of Bookmark sort options
