@@ -1,4 +1,8 @@
 # Changelog
+### Version 0.9.4 - July 21, 2024
+- Added advanced search operators (Exact Match, Exclude, Regex) to refine search results
+- Added Boolean search filters (AND, OR) to specify relationships between search terms
+- Launched a Telegram channel to gather feedback and support the project
 ### Version 0.9.3 - July 11, 2024
 - Updated the New Bookmark dialog to remember its last state
 - Added a separate bookmark sort options for the Collections tab

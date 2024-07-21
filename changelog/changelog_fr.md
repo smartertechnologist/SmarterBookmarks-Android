@@ -1,4 +1,8 @@
 # Journal des modifications
+### Version 0.9.4 – 21 juillet 2024
+- Ajout d'opérateurs de recherche avancés (Exact Match, Exclude, Regex) pour affiner les résultats de recherche
+- Ajout de filtres de recherche booléens (AND, OR) pour spécifier les relations entre les termes de recherche
+- Lancement d'une chaîne Telegram pour recueillir des commentaires et soutenir le projet
 ### Version 0.9.3 – 11 juillet 2024
 - Mise à jour de la boîte de dialogue Nouveau signet pour mémoriser son dernier état
 - Ajout d'options de tri de signets distinctes pour l'onglet Collections
