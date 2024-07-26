@@ -1,4 +1,9 @@
 # Journal des modifications
+### Version 0.9.5 – 25 juillet 2024
+- Mise à jour de la boîte de dialogue Nouveau signet pour définir l'expiration du signet
+- Pro : notifications d'expiration des signets
+- Mise à jour de la boîte de dialogue Nouveau signet pour épingler un signet en haut de la liste
+- Ajout d'une nouvelle option dans les paramètres des favoris pour mettre à jour un favori existant s'il existe déjà
 ### Version 0.9.4 – 21 juillet 2024
 - Ajout d'opérateurs de recherche avancés (Exact Match, Exclude, Regex) pour affiner les résultats de recherche
 - Ajout de filtres de recherche booléens (AND, OR) pour spécifier les relations entre les termes de recherche

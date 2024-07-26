@@ -1,4 +1,9 @@
 # Changelog
+### Version 0.9.5 - July 25, 2024
+- Updated the New Bookmark dialog to set bookmark expiry
+- Pro: Bookmark expiry notifications
+- Updated the New Bookmark dialog to pin a bookmark to the top of the list
+- Added a new option in Bookmark settings to update an existing bookmark if it already exists
 ### Version 0.9.4 - July 21, 2024
 - Added advanced search operators (Exact Match, Exclude, Regex) to refine search results
 - Added Boolean search filters (AND, OR) to specify relationships between search terms
