@@ -1,9 +1,10 @@
 # Journal des modifications
 ### Version 0.9.6 – 5 août 2024
+- Interface utilisateur des collections mise à jour
 - Paramètre d'apparence mis à jour pour afficher les icônes des options du menu de débordement et des éléments du menu contextuel
 - Ajout d'options de menu de tri et d'affichage lors de l'affichage des signets et des notes attachés à une balise
 - Mise à jour de l'action de clic par défaut du signet dans les paramètres pour inclure une option de copie dans le presse-papiers
-- Mise à jour de la récupération des métadonnées pour X.com
+- Mise à jour de la récupération des métadonnées pour x.com
 ### Version 0.9.5 – 25 juillet 2024
 - Mise à jour de la boîte de dialogue Nouveau signet pour définir l'expiration du signet
 - Pro : notifications d'expiration des signets
