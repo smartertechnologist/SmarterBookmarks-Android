@@ -1,4 +1,9 @@
 # Changelog
+### Version 0.9.6 - August 5, 2024
+- Updated Appearance setting to display icons for the overflow menu options and popup menu items
+- Added sort and view menu options when viewing bookmarks and notes attached to a tag
+- Updated Bookmark default click action in Settings to include an option to copy to the clipboard
+- Updated metadata fetch for X.com
 ### Version 0.9.5 - July 25, 2024
 - Updated the New Bookmark dialog to set bookmark expiry
 - Pro: Bookmark expiry notifications
