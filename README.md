@@ -31,6 +31,7 @@ It is an advanced bookmark manager that lets you quickly save any digital conten
 - Pin bookmarks, notes & collections
 - Define states for your bookmarks for example *UNREAD/READ*, *PENDING/IN PROGRESS/DONE*, etc
 - Option to set [dynamic bookmarks](pages/DYNAMIC.md) that auto-update based on specified criteria
+- Option to set bookmark expiry
 
 ### Manage your data
 
@@ -64,7 +65,10 @@ It is an advanced bookmark manager that lets you quickly save any digital conten
 
 - [Connect to PC](pages/PC.md)
 - [Smart Collections](pages/SMART.md)
+- Locked Collections
+- Custom Pagination
 - Reminders
+- Expiring Bookmark Notifications
 - Custom Bookmark Status
 - Unlimited floating bubbles
 - Unlimited Dashboard widgets
