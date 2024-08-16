@@ -1,4 +1,8 @@
 # Changelog
+### Version 0.9.7 - August 16, 2024
+- Added Chinese translation
+- Added text-to-speech (TTS) for reading articles
+- New option in Behaviour Settings to opt out of anonymous sharing of app usage statistics
 ### Version 0.9.6 - August 5, 2024
 - Updated Collections UI
 - Updated Appearance setting to display icons for the overflow menu options and popup menu items

@@ -1,4 +1,8 @@
 # Journal des modifications
+### Version 0.9.7 – 16 août 2024
+- Ajout de la traduction en chinois
+- Ajout de la synthèse vocale (TTS) pour la lecture d'articles
+- Nouvelle option dans les paramètres de comportement pour désactiver le partage anonyme des statistiques d'utilisation des applications
 ### Version 0.9.6 – 5 août 2024
 - Interface utilisateur des collections mise à jour
 - Paramètre d'apparence mis à jour pour afficher les icônes des options du menu de débordement et des éléments du menu contextuel
