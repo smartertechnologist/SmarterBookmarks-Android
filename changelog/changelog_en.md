@@ -1,4 +1,9 @@
 # Changelog
+### Version 0.9.8 - August 20, 2024
+- Reorganized AI Classification as a subset of AI Features
+- Added optional LLM model: Gemini 1.5 Flash. API keys are required to use this model
+- You can now select an AI model, configure AI Classification, and set up AI Summarization
+- Continued support for the inbuilt naive URL classifier
 ### Version 0.9.7 - August 16, 2024
 - Added Chinese translation
 - Added text-to-speech (TTS) for reading articles

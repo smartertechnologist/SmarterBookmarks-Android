@@ -1,4 +1,9 @@
 # Journal des modifications
+### Version 0.9.8 - 20 août 2024
+- Classification IA réorganisée en tant que sous-ensemble de fonctionnalités IA
+- Ajout d'un modèle LLM optionnel : Gemini 1.5 Flash. Des clés API sont requises pour utiliser ce modèle
+- Vous pouvez désormais sélectionner un modèle IA, configurer la classification IA et configurer la synthèse IA
+- Prise en charge continue du classificateur d'URL naïf intégré.
 ### Version 0.9.7 – 16 août 2024
 - Ajout de la traduction en chinois
 - Ajout de la synthèse vocale (TTS) pour la lecture d'articles
