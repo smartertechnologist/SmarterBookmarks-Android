@@ -1,4 +1,10 @@
 # Changelog
+### Version 0.9.9 - August 25, 2024
+- Added more translations - العربية, Bahasa Indonesia and Português
+- Fixed issue with search filters when no query is entered
+- Optimized WebViews and floating bubbles for better performance
+- Optimized favicon loading implementation
+- Bug fixes and other enhancements
 ### Version 0.9.8 - August 20, 2024
 - Reorganized AI Classification as a subset of AI Features
 - Added optional LLM model: Gemini 1.5 Flash. API keys are required to use this model

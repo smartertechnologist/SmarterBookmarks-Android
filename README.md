@@ -41,6 +41,7 @@ It is an advanced bookmark manager that lets you quickly save any digital conten
 - Import bookmarks from your browser
 - Export bookmarks to external apps or services
 - Multiple view options
+- AI categorization & summarization of bookmarks
 
 ### Share & collaborate
 

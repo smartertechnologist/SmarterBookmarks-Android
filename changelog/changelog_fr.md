@@ -1,4 +1,10 @@
 # Journal des modifications
+### Version 0.9.9 – 25 août 2024
+- Ajout de traductions supplémentaires - العربية, Bahasa Indonesia et Português
+- Problème résolu avec les filtres de recherche lorsqu'aucune requête n'est saisie
+- Vues Web optimisées et bulles flottantes pour de meilleures performances
+- Implémentation optimisée du chargement des favicons
+- Corrections de bugs et autres améliorations
 ### Version 0.9.8 - 20 août 2024
 - Classification IA réorganisée en tant que sous-ensemble de fonctionnalités IA
 - Ajout d'un modèle LLM optionnel : Gemini 1.5 Flash. Des clés API sont requises pour utiliser ce modèle
