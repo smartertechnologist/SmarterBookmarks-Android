@@ -6,7 +6,7 @@ Take your bookmarks to the next level with our Connect to PC Pro feature. This p
 
 ## Features
 - **Local Wi-Fi Network:** Access bookmarks directly on your computer, no internet connection needed!
-- **Read-Only Mode (for now):** View your saved bookmarks, archived content, and organized collections [^1].
+- **Manage Your Data:** View & edit your saved bookmarks, archived content, and organized collections.
 - **Powerful Search:** Easily find what you're looking for within your bookmark collection.
 - **Seamless Navigation:** Utilize pagination for effortless browsing through your saved items.
 
@@ -41,5 +41,3 @@ The Connect to PC Pro feature in SmarterBookmarks lets you conveniently view and
 <p float="left"  style="margin-left: 40px;">
     <img src="../assets/18.png" alt="Successfully connected to PC"/>
 </p>
-
-[^1]: **Note:** Currently, Connect to PC Pro operates in read-only mode. Editing features for bookmarks will be added in a future update. Stay tuned!

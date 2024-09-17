@@ -1,4 +1,9 @@
 # Changelog
+### Version 1.0.0 - September 17, 2024
+- Pro: Added edit capabilities to the Connect to PC feature
+- Removed the 20-year base period for the one-time purchase
+- Updated the navigation bar color to match the app theme
+- Added batch expiry to bookmarks
 ### Version 0.9.9 - August 25, 2024
 - Added more translations - العربية, Bahasa Indonesia and Português
 - Fixed issue with search filters when no query is entered

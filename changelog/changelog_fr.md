@@ -1,4 +1,9 @@
 # Journal des modifications
+### Version 1.0.0 – 17 septembre 2024
+- Pro : ajout de fonctionnalités d'édition à la fonction Se connecter au PC
+- Suppression de la période de base de 20 ans pour l'achat unique
+- Mise à jour de la couleur de la barre de navigation pour correspondre au thème de l'application
+- Ajout de l'expiration du lot aux signets
 ### Version 0.9.9 – 25 août 2024
 - Ajout de traductions supplémentaires - العربية, Bahasa Indonesia et Português
 - Problème résolu avec les filtres de recherche lorsqu'aucune requête n'est saisie
