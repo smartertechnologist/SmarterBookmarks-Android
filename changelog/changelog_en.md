@@ -1,4 +1,6 @@
 # Changelog
+### Version 1.0.1 - September 19, 2024
+- New: Updated the New bookmark dialog to scan QR codes
 ### Version 1.0.0 - September 17, 2024
 - Pro: Added edit capabilities to the Connect to PC feature
 - Removed the 20-year base period for the one-time purchase

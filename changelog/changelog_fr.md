@@ -1,4 +1,6 @@
 # Journal des modifications
+### Version 1.0.1 – 19 septembre 2024
+- Nouveau : mise à jour de la boîte de dialogue Nouveau signet pour scanner les codes QR
 ### Version 1.0.0 – 17 septembre 2024
 - Pro : ajout de fonctionnalités d'édition à la fonction Se connecter au PC
 - Suppression de la période de base de 20 ans pour l'achat unique
