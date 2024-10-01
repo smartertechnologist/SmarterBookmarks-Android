@@ -1,4 +1,8 @@
 # Journal des modifications
+### Version 1.0.2 – 1er octobre 2024
+- Nouveau : les signets peuvent désormais être regroupés par domaine et par date de création
+- Ajout de la reclassification de l'IA pour les signets existants ou importés
+- Ajout d'un filtre de recherche pour rechercher dans une collection et ses sous-collections
 ### Version 1.0.1 – 19 septembre 2024
 - Nouveau : mise à jour de la boîte de dialogue Nouveau signet pour scanner les codes QR
 ### Version 1.0.0 – 17 septembre 2024
