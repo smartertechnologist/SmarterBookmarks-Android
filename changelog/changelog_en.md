@@ -1,4 +1,11 @@
 # Changelog
+### Version 1.0.3 - October 22, 2024
+- New: Added a Dashboard analytics widget to track app statistics and view expiring bookmarks (Pro)
+- Updated the app to use the title of URLs (if available) when shared from external apps
+- Added batch edit capabilities to bookmarks and options to clear or reset metadata
+- Added more custom status colors
+- Fixed a bug with custom statuses not being displayed in the UI
+- Optimized card and grid layouts for collections, bookmarks, and notes especially on devices with large screens
 ### Version 1.0.2 - October 1, 2024
 - New: Bookmarks can now be grouped by domain and date created
 - Added AI reclassification for existing or imported bookmarks

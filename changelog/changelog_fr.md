@@ -1,5 +1,11 @@
 # Journal des modifications
-### Version 1.0.2 – 1er octobre 2024
+### Version 1.0.3 - 22 octobre 2024
+- Nouveau : Ajout d'un widget d'analyse du tableau de bord pour suivre les statistiques des applications et afficher les signets expirés (Pro)
+- Mise à jour de l'application pour utiliser le titre des URL (si disponible) lorsqu'elles sont partagées à partir d'applications externes
+- Ajout de fonctionnalités d'édition par lots aux signets et d'options pour effacer ou réinitialiser les métadonnées
+- Correction d'un bug avec les statuts personnalisés qui ne s'affichaient pas dans l'interface utilisateur
+- Dispositions de cartes et de grilles optimisées pour les collections, les signets et les notes, en particulier sur les appareils dotés de grands écrans
+### Version 1.0.2 – 1 octobre 2024
 - Nouveau : les signets peuvent désormais être regroupés par domaine et par date de création
 - Ajout de la reclassification de l'IA pour les signets existants ou importés
 - Ajout d'un filtre de recherche pour rechercher dans une collection et ses sous-collections
