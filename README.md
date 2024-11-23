@@ -17,7 +17,7 @@ It is an advanced bookmark manager that lets you quickly save any digital conten
 ### Collect bookmarks
 
 - Create and manage bookmarks (single or batch)
-- Collect bookmarks from browsers or other apps
+- Collect bookmarks from browsers, other apps or sources like Google Drive or RSS
 - Organise bookmarks in nested collections
 - Save new bookmarks automatically (a pre-defined collection) or manually
 - Organize your bookmarks using Dashboard widgets for quicker access
@@ -73,3 +73,4 @@ It is an advanced bookmark manager that lets you quickly save any digital conten
 - Custom Bookmark Status
 - Unlimited floating bubbles
 - Unlimited Dashboard widgets
+- Trash/Restore

@@ -1,4 +1,9 @@
 # Changelog
+### Version 1.0.4 - November 23, 2024
+- New: Added Sources tab to sync bookmarks with Google Drive or RSS
+- Pro: Implemented Trash feature
+- New: Added backup and restore for TXT and CSV files
+- Updated the bookmark and collection views
 ### Version 1.0.3 - October 22, 2024
 - New: Added a Dashboard analytics widget to track app statistics and view expiring bookmarks (Pro)
 - Updated the app to use the title of URLs (if available) when shared from external apps

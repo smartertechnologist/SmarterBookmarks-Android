@@ -1,4 +1,9 @@
 # Journal des modifications
+### Version 1.0.4 – 23 novembre 2024
+- Nouveau : Ajout de l'onglet Sources pour synchroniser les signets avec Google Drive ou RSS
+- Pro : fonctionnalité Corbeille implémentée
+- Nouveau : Ajout de la sauvegarde et de la restauration des fichiers TXT et CSV
+- Mise à jour des vues des signets et des collections
 ### Version 1.0.3 - 22 octobre 2024
 - Nouveau : Ajout d'un widget d'analyse du tableau de bord pour suivre les statistiques des applications et afficher les signets expirés (Pro)
 - Mise à jour de l'application pour utiliser le titre des URL (si disponible) lorsqu'elles sont partagées à partir d'applications externes
