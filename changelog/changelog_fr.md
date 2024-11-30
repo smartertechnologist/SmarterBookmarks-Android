@@ -1,4 +1,9 @@
 # Journal des modifications
+### Version 1.0.5 – 30 novembre 2024
+- Nouveau : ajout d'une mise en page compacte pour les collections, les signets, les notes et les balises
+- Mise à jour des options d'affichage de la liste des signets pour tout masquer sauf le titre
+- Problèmes résolus avec la vue de collection lors du déplacement des signets
+- Correction d'un bug où la navigation dans la collection revient toujours par défaut à la racine lorsque le tableau de bord était désactivé
 ### Version 1.0.4 – 23 novembre 2024
 - Nouveau : Ajout de l'onglet Sources pour synchroniser les signets avec Google Drive ou RSS
 - Pro : fonctionnalité Corbeille implémentée

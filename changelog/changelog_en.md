@@ -1,4 +1,9 @@
 # Changelog
+### Version 1.0.5 - November 30, 2024
+- New: Added a Compact layout for collections, bookmarks, notes, and tags
+- Updated the bookmark list view options to hide everything except the title
+- Resolved issues with the collection view when moving bookmarks
+- Addressed a bug where collection navigation always defaults to the root when the dashboard was disabled
 ### Version 1.0.4 - November 23, 2024
 - New: Added Sources tab to sync bookmarks with Google Drive or RSS
 - Pro: Implemented Trash feature
