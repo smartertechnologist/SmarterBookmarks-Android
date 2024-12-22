@@ -1,4 +1,10 @@
 # Journal des modifications
+### Version 1.0.6 - 22 décembre 2024
+- Nouveau : ajout de la prise en charge de la sélection des icônes de matériaux lors de la création ou de la modification de collections
+- Introduction d'une vue en grille décalée facultative pour l'affichage des signets
+- Ajout d'une option dans le paramètre Comportement pour gérer l'exportation d'images personnalisées
+- Correction des problèmes avec les listes de balises affichant le mauvais type de vue dans la mise en page compacte
+- Correction de la recherche de signets qui ne fonctionnait pas dans l'onglet Collections
 ### Version 1.0.5 – 30 novembre 2024
 - Nouveau : ajout d'une mise en page compacte pour les collections, les signets, les notes et les balises
 - Mise à jour des options d'affichage de la liste des signets pour tout masquer sauf le titre

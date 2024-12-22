@@ -1,4 +1,10 @@
 # Changelog
+### Version 1.0.6 - December 22, 2024
+- New: Added support for selecting Material Icons when creating or editing collections
+- Introduced an optional Staggered Grid View for displaying bookmarks
+- Added an option in the Behavior setting to manage the export of custom images
+- Fixed issues with tag lists displaying the wrong view type in the Compact layout
+- Fixed bookmark search not working in the Collections tab
 ### Version 1.0.5 - November 30, 2024
 - New: Added a Compact layout for collections, bookmarks, notes, and tags
 - Updated the bookmark list view options to hide everything except the title
