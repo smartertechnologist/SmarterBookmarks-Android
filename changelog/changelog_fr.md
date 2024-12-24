@@ -1,4 +1,9 @@
 # Journal des modifications
+### Version 1.0.7 – 24 décembre 2024
+- Nouveau : ajout d'une nouvelle option « Partager... » pour les signets afin d'inclure non seulement l'URL, mais également des métadonnées supplémentaires
+- Nouveau : ajout de la prise en charge de la sélection d'icônes de matériaux remplis lors de la création ou de la modification de collections
+- Processus de synchronisation cloud optimisé
+- Autres corrections de bogues et améliorations
 ### Version 1.0.6 - 22 décembre 2024
 - Nouveau : ajout de la prise en charge de la sélection des icônes de matériaux lors de la création ou de la modification de collections
 - Introduction d'une vue en grille décalée facultative pour l'affichage des signets
