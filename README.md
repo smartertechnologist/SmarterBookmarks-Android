@@ -66,7 +66,7 @@ It is an advanced bookmark manager that lets you quickly save any digital conten
 
 - [Connect to PC](pages/PC.md)
 - [Smart Collections](pages/SMART.md)
-- Locked Collections
+- [Locked Collections](pages/LOCKED.md)
 - Custom Pagination
 - Reminders
 - Expiring Bookmark Notifications
