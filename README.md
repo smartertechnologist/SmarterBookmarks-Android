@@ -74,3 +74,14 @@ It is an advanced bookmark manager that lets you quickly save any digital conten
 - Unlimited floating bubbles
 - Unlimited Dashboard widgets
 - Trash/Restore
+
+## Join Our Community
+
+Connect with us and stay updated by following our app's official channels:
+
+- [Facebook](https://web.facebook.com/smartertechnologist)
+- [Telegram](https://t.me/+b9WSFVyGW-lhZmY8)
+- [X](https://x.com/smartertechie)
+- [YouTube](https://www.youtube.com/@smartertechnologist)
+
+Join the conversation and be part of our growing community!
