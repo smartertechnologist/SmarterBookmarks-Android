@@ -1,5 +1,5 @@
 # Changelog
-### Version 1.0.7 - December 2024, 2024
+### Version 1.0.7 - December 24, 2024
 - New: Added a new 'Share...' option for bookmarks to include not only the URL but also additional metadata
 - New: Added support for selecting Filled Material Icons when creating or editing collections
 - Optimized cloud sync process
