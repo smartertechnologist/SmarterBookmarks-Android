@@ -1,4 +1,8 @@
 # Journal des modifications
+### Version 1.0.8 – 10 janvier 2024
+- Nouveau : Ajout de la possibilité de capturer et de sélectionner plusieurs images de signets
+- Corrigé : résolution d'un problème lié au déplacement de plusieurs collections
+- Autres corrections de bogues et améliorations
 ### Version 1.0.7 – 24 décembre 2024
 - Nouveau : ajout d'une nouvelle option « Partager... » pour les signets afin d'inclure non seulement l'URL, mais également des métadonnées supplémentaires
 - Nouveau : ajout de la prise en charge de la sélection d'icônes de matériaux remplis lors de la création ou de la modification de collections
