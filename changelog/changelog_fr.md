@@ -1,5 +1,5 @@
 # Journal des modifications
-### Version 1.0.8 – 10 janvier 2024
+### Version 1.0.8 – 10 janvier 2025
 - Nouveau : Ajout de la possibilité de capturer et de sélectionner plusieurs images de signets
 - Corrigé : résolution d'un problème lié au déplacement de plusieurs collections
 - Autres corrections de bogues et améliorations

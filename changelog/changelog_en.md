@@ -1,5 +1,5 @@
 # Changelog
-### Version 1.0.8 - January 10, 2024
+### Version 1.0.8 - January 10, 2025
 - New: Added ability to capture and select multiple bookmark images
 - Fixed: Resolved an issue with moving multiple collections
 - Other bug fixes and enhancements
