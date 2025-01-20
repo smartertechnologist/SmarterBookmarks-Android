@@ -1,4 +1,6 @@
 # Journal des modifications
+### Version 1.0.9 - 20 janvier 2025
+- Application mise à jour pour cibler Android 15 (SDK 35)
 ### Version 1.0.8 – 10 janvier 2025
 - Nouveau : Ajout de la possibilité de capturer et de sélectionner plusieurs images de signets
 - Corrigé : résolution d'un problème lié au déplacement de plusieurs collections

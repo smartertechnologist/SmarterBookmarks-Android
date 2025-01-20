@@ -1,4 +1,6 @@
 # Changelog
+### Version 1.0.9 - January 20, 2025
+- App updated to target Android 15 (SDK 35)
 ### Version 1.0.8 - January 10, 2025
 - New: Added ability to capture and select multiple bookmark images
 - Fixed: Resolved an issue with moving multiple collections
