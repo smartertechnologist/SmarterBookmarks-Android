@@ -36,7 +36,7 @@ It is an advanced bookmark manager that lets you quickly save any digital conten
 ### Manage your data
 
 - Archive bookmarks, notes & collections
-- [Powerful search](pages/SEARCH.md), sorting, and advanced filtering
+- [Powerful search](pages/SEARCH.md), saved searches, sorting, and advanced filtering
 - Rename collections and tags easily
 - Import bookmarks from your browser
 - Export bookmarks to external apps or services
@@ -71,8 +71,9 @@ It is an advanced bookmark manager that lets you quickly save any digital conten
 - Reminders
 - Expiring Bookmark Notifications
 - Custom Bookmark Status
-- Unlimited floating bubbles
-- Unlimited Dashboard widgets
+- Unlimited Floating Bubbles
+- Premium Dashboard widgets
+- Unlimited Saved Searches
 - Trash/Restore
 
 ## Join Our Community

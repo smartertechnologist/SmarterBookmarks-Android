@@ -1,4 +1,7 @@
 # Journal des modifications
+### Version 1.1.0 - 28 janvier 2025
+- Nouveau : Ajout d'une fonctionnalité de recherche enregistrée pour enregistrer et réutiliser les recherches
+- Pro : Mise à jour des règles de collecte intelligente avec des conditions supplémentaires pour un filtrage amélioré
 ### Version 1.0.9 - 20 janvier 2025
 - Application mise à jour pour cibler Android 15 (SDK 35)
 ### Version 1.0.8 – 10 janvier 2025

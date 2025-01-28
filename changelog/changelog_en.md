@@ -1,4 +1,7 @@
 # Changelog
+### Version 1.1.0 - January 28, 2025
+- New: Added a Saved Search feature to save and reuse searches
+- Pro: Updated Smart Collection rules with additional conditions for enhanced filtering
 ### Version 1.0.9 - January 20, 2025
 - App updated to target Android 15 (SDK 35)
 ### Version 1.0.8 - January 10, 2025
