@@ -1,4 +1,7 @@
 # Journal des modifications
+### Version 1.1.1 - 13 février 2025
+- Prise en charge bêta introduite pour les collections en tant que widgets d'écran d'accueil Android (peut présenter des problèmes de stabilité)
+- Options de collection mises à jour pour inclure « Ajouter à l'écran d'accueil » (Android 8+)
 ### Version 1.1.0 - 28 janvier 2025
 - Nouveau : Ajout d'une fonctionnalité de recherche enregistrée pour enregistrer et réutiliser les recherches
 - Pro : Mise à jour des règles de collecte intelligente avec des conditions supplémentaires pour un filtrage amélioré

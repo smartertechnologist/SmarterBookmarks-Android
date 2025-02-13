@@ -1,4 +1,7 @@
 # Changelog
+### Version 1.1.1 - February 13, 2025
+- Introduced beta support for collections as Android home screen widgets (may have stability issues)
+- Updated collection options to include 'Add to home screen' (Android 8+)
 ### Version 1.1.0 - January 28, 2025
 - New: Added a Saved Search feature to save and reuse searches
 - Pro: Updated Smart Collection rules with additional conditions for enhanced filtering
