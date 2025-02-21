@@ -1,4 +1,8 @@
 # Changelog
+### Version 1.1.2 - February 21, 2025
+- Added support for creating collection shortcuts on the home screen
+- Introduced a smaller grid layout for collections to reduce icon size
+- Various bug fixes and performance improvements
 ### Version 1.1.1 - February 13, 2025
 - Introduced beta support for collections as Android home screen widgets (may have stability issues)
 - Updated collection options to include 'Add to home screen' (Android 8+)

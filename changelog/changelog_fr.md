@@ -1,4 +1,8 @@
 # Journal des modifications
+### Version 1.1.2 - 21 février 2025
+- Ajout de la prise en charge de la création de raccourcis de collection sur l'écran d'accueil
+- Introduction d'une disposition de grille plus petite pour les collections afin de réduire la taille des icônes
+- Diverses corrections de bugs et améliorations des performances
 ### Version 1.1.1 - 13 février 2025
 - Prise en charge bêta introduite pour les collections en tant que widgets d'écran d'accueil Android (peut présenter des problèmes de stabilité)
 - Options de collection mises à jour pour inclure « Ajouter à l'écran d'accueil » (Android 8+)
