@@ -1,4 +1,8 @@
 # Changelog
+### Version 1.1.3 - March 7, 2025
+- Added a white background for collection shortcuts added to the home screen
+- Fixed path not displaying correctly for collections opened via a shortcut
+- Added a new Behavior setting to allow duplicate collection shortcuts
 ### Version 1.1.2 - February 21, 2025
 - Added support for creating collection shortcuts on the home screen
 - Introduced a smaller grid layout for collections to reduce icon size

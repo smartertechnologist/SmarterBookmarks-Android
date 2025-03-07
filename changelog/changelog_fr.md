@@ -1,4 +1,8 @@
 # Journal des modifications
+### Version 1.1.3 - 7 mars 2025
+- Ajout d'un fond blanc pour les raccourcis de collection ajoutés à l'écran d'accueil
+- Correction du chemin d'accès qui ne s'affiche pas correctement pour les collections ouvertes via un raccourci
+- Ajout d'un nouveau paramètre de comportement pour autoriser les raccourcis de collection en double
 ### Version 1.1.2 - 21 février 2025
 - Ajout de la prise en charge de la création de raccourcis de collection sur l'écran d'accueil
 - Introduction d'une disposition de grille plus petite pour les collections afin de réduire la taille des icônes
