@@ -50,6 +50,7 @@ It is an advanced bookmark manager that lets you quickly save any digital conten
 - Open bookmarks in-app as well as external apps
 - Open bookmarks in a floating bubble
 - Add bookmarks to your home screen
+- Add collections to your home screen as shortcuts or widgets
 
 ### Private & personal
   
