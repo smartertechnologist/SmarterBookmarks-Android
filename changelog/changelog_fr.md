@@ -1,4 +1,8 @@
 # Journal des modifications
+### Version 1.1.4 - 14 mars 2025
+- Ajout d'un outil pour gérer les favoris inactifs et d'un autre pour supprimer les doublons
+- Ajout d'une option dans les paramètres de comportement pour utiliser une image pour les raccourcis des favoris au lieu du favicon, si disponible
+- Réactivation de la protection automatique pour une sécurité et une confidentialité renforcées
 ### Version 1.1.3 - 7 mars 2025
 - Ajout d'un fond blanc pour les raccourcis de collection ajoutés à l'écran d'accueil
 - Correction du chemin d'accès qui ne s'affiche pas correctement pour les collections ouvertes via un raccourci

@@ -1,4 +1,8 @@
 # Changelog
+### Version 1.1.4 - March 14, 2025
+- Added a tool to manage inactive bookmarks and another to remove duplicates
+- Added an option in Behavior settings to use an image for bookmark shortcuts instead of the favicon, if available
+- Re-enabled automatic protection for enhanced security and privacy
 ### Version 1.1.3 - March 7, 2025
 - Added a white background for collection shortcuts added to the home screen
 - Fixed path not displaying correctly for collections opened via a shortcut
