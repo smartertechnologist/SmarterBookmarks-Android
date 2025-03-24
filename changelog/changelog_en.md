@@ -1,4 +1,7 @@
 # Changelog
+### Version 1.1.5 - March 24, 2025
+- Added a new tree view for the Collections tab
+- Fixed an issue where bookmarks added to hidden collections were not being hidden
 ### Version 1.1.4 - March 14, 2025
 - Added a tool to manage inactive bookmarks and another to remove duplicates
 - Added an option in Behavior settings to use an image for bookmark shortcuts instead of the favicon, if available

@@ -1,4 +1,7 @@
 # Journal des modifications
+### Version 1.1.5 - 24 mars 2025
+- Ajout d'une nouvelle arborescence pour l'onglet Collections
+- Correction d'un problème où les signets ajoutés aux collections masquées n'étaient pas masqués
 ### Version 1.1.4 - 14 mars 2025
 - Ajout d'un outil pour gérer les favoris inactifs et d'un autre pour supprimer les doublons
 - Ajout d'une option dans les paramètres de comportement pour utiliser une image pour les raccourcis des favoris au lieu du favicon, si disponible
