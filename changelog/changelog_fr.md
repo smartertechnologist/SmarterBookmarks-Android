@@ -1,4 +1,7 @@
 # Journal des modifications
+### Version 1.1.6 - 28 mars 2025
+- Vitesse et ergonomie améliorées pour une expérience plus fluide
+- Performances améliorées lors du développement et de la réduction des éléments de l'arborescence de collection
 ### Version 1.1.5 - 24 mars 2025
 - Ajout d'une nouvelle arborescence pour l'onglet Collections
 - Correction d'un problème où les signets ajoutés aux collections masquées n'étaient pas masqués

@@ -1,4 +1,7 @@
 # Changelog
+### Version 1.1.6 - March 28, 2025
+- Improved speed and usability for a smoother experience
+- Faster performance when expanding and collapsing collection tree items
 ### Version 1.1.5 - March 24, 2025
 - Added a new tree view for the Collections tab
 - Fixed an issue where bookmarks added to hidden collections were not being hidden
