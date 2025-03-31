@@ -1,4 +1,10 @@
 # Changelog
+### Version 1.1.7 - March 31, 2025
+- Improved HTML database export for better compatibility with external browsers
+- Added support for backing up app settings
+- Tags can now be added in bulk
+- Fixed metadata fetching issues for certain URLs
+- Various bug fixes and UI improvements (tags, popup menus, and more)
 ### Version 1.1.6 - March 28, 2025
 - Improved speed and usability for a smoother experience
 - Faster performance when expanding and collapsing collection tree items

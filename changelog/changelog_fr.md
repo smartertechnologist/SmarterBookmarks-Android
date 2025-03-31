@@ -1,4 +1,10 @@
 # Journal des modifications
+### Version 1.1.7 - 31 mars 2025
+- Exportation de base de données HTML améliorée pour une meilleure compatibilité avec les navigateurs externes
+- Ajout de la prise en charge de la sauvegarde des paramètres de l'application
+- Ajout groupé des balises
+- Correction des problèmes de récupération des métadonnées pour certaines URL
+- Correction de divers bugs et améliorations de l'interface utilisateur (balises, menus contextuels, etc.)
 ### Version 1.1.6 - 28 mars 2025
 - Vitesse et ergonomie améliorées pour une expérience plus fluide
 - Performances améliorées lors du développement et de la réduction des éléments de l'arborescence de collection
