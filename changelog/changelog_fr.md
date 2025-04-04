@@ -1,4 +1,9 @@
 # Journal des modifications
+### Version 1.1.8 - 4 avril 2025
+- Ajout d'un type d'image personnalisé pour les signets : image par défaut du système, image principale ou favicon
+- Correction des signets de la vue Collection pour permettre la modification groupée des balises
+- Correction des mises à jour de l'interface utilisateur lors de la modification des options d'affichage
+- Correction d'un problème où les importations HTML ignoraient les widgets du tableau de bord
 ### Version 1.1.7 - 31 mars 2025
 - Exportation de base de données HTML améliorée pour une meilleure compatibilité avec les navigateurs externes
 - Ajout de la prise en charge de la sauvegarde des paramètres de l'application

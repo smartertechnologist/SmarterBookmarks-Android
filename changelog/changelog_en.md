@@ -1,4 +1,9 @@
 # Changelog
+### Version 1.1.8 - April 4, 2025
+- Added custom image type for bookmarks: system default, top image, or favicon
+- Fixed collection view's bookmarks to support bulk tag editing
+- Fixed UI updates when view options change
+- Fixed issue where HTML imports skipped dashboard widgets
 ### Version 1.1.7 - March 31, 2025
 - Improved HTML database export for better compatibility with external browsers
 - Added support for backing up app settings
