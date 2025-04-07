@@ -1,4 +1,10 @@
 # Changelog
+### Version 1.1.9 - April 7, 2025
+- Added dedicated sections in Settings to showcase app and Pro features
+- Added an onboarding experience to help new users get started
+- Pro: Enhanced Connect to PC feature with a modern interface
+- Fixed lag caused by recent updates
+- Fixed various bugs and improved performance
 ### Version 1.1.8 - April 4, 2025
 - Added custom image type for bookmarks: system default, top image, or favicon
 - Fixed collection view's bookmarks to support bulk tag editing

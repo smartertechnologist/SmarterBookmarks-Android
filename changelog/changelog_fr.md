@@ -1,4 +1,10 @@
 # Journal des modifications
+### Version 1.1.9 - 7 avril 2025
+- Ajout de sections dédiées dans les Paramètres pour présenter l'application et les fonctionnalités Pro
+- Ajout d'une interface d'intégration pour aider les nouveaux utilisateurs à démarrer
+- Pro : Connexion au PC améliorée avec une interface moderne
+- Correction des latences causées par les mises à jour récentes
+- Correction de divers bugs et amélioration des performances
 ### Version 1.1.8 - 4 avril 2025
 - Ajout d'un type d'image personnalisé pour les signets : image par défaut du système, image principale ou favicon
 - Correction des signets de la vue Collection pour permettre la modification groupée des balises
