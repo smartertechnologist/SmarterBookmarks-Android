@@ -1,4 +1,9 @@
 # Changelog
+### Version 1.2.0 - April 19, 2025
+- New: Added text highlighting and annotation capabilities in the in-app browser and article mode
+- Added reader mode to the in-app browser to make articles easier to read by removing distractions and optimizing text layout
+- Redesigned the app UI with improved navigation and visual hierarchy
+- Added image resizing controls in the bookmarks tab for better visual customization
 ### Version 1.1.9 - April 7, 2025
 - Added dedicated sections in Settings to showcase app and Pro features
 - Added an onboarding experience to help new users get started

@@ -1,4 +1,9 @@
 # Journal des modifications
+### Version 1.2.0 - 19 avril 2025
+- Nouveauté : Ajout de fonctionnalités de surlignage et d’annotation de texte dans le navigateur intégré et le mode article
+- Ajout d’un mode lecture au navigateur intégré pour faciliter la lecture des articles en supprimant les distractions et en optimisant la mise en page du texte
+- Refonte de l’interface utilisateur avec une navigation et une hiérarchie visuelle améliorées
+- Ajout de commandes de redimensionnement d’images dans l’onglet « Favoris » pour une meilleure personnalisation visuelle
 ### Version 1.1.9 - 7 avril 2025
 - Ajout de sections dédiées dans les Paramètres pour présenter l'application et les fonctionnalités Pro
 - Ajout d'une interface d'intégration pour aider les nouveaux utilisateurs à démarrer
