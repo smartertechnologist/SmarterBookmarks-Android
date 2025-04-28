@@ -1,4 +1,9 @@
 # Changelog
+### Version 1.2.1 - April 28, 2025
+- Added bookmark creation and random bookmark in the collections tab
+- Fixed in-app browser jitter when scrolling
+- Fixed collection label clipping when moving collections or adding bookmarks
+- Other fixes and UI improvements
 ### Version 1.2.0 - April 19, 2025
 - New: Added text highlighting and annotation capabilities in the in-app browser and article mode
 - Added reader mode to the in-app browser to make articles easier to read by removing distractions and optimizing text layout

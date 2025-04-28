@@ -1,4 +1,9 @@
 # Journal des modifications
+### Version 1.2.1 - 28 avril 2025
+- Ajout de la création de signets et d'un signet aléatoire dans l'onglet Collections
+- Correction du problème de saccades du navigateur lors du défilement
+- Correction de l'écrêtage des étiquettes de collection lors du déplacement de collections ou de l'ajout de signets
+- Autres correctifs et améliorations de l'interface utilisateur
 ### Version 1.2.0 - 19 avril 2025
 - Nouveauté : Ajout de fonctionnalités de surlignage et d’annotation de texte dans le navigateur intégré et le mode article
 - Ajout d’un mode lecture au navigateur intégré pour faciliter la lecture des articles en supprimant les distractions et en optimisant la mise en page du texte
