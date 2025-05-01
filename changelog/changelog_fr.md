@@ -1,4 +1,11 @@
 # Journal des modifications
+### Version 1.2.2 - 1er mai 2025
+- Avantages : Ajout de rappels de favoris récurrents avec une fonctionnalité améliorée
+- Ajout d'un outil pour effacer les rappels de favoris expirés
+- Mise à jour du modèle d'IA Gemini vers Flash 2.0
+- Ajout d'une option pour supprimer les notifications toast de synchronisation cloud
+- Ajout d'une fonctionnalité d'actualisation approfondie dans les paramètres de comportement
+- Autres corrections de bugs et améliorations de performances
 ### Version 1.2.1 - 28 avril 2025
 - Ajout de la création de signets et d'un signet aléatoire dans l'onglet Collections
 - Correction du problème de saccades du navigateur lors du défilement

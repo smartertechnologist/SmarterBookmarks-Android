@@ -1,4 +1,11 @@
 # Changelog
+### Version 1.2.2 - May 1, 2025
+- Pro: Added recurring bookmark reminders with improved reminder functionality
+- Added a tool to clear expired bookmark reminders
+- Updated Gemini AI model to 2.0 Flash
+- Added option to suppress cloud sync toast notifications
+- Added deep refresh functionality in behavior settings
+- Other bug fixes and performance improvements
 ### Version 1.2.1 - April 28, 2025
 - Added bookmark creation and random bookmark in the collections tab
 - Fixed in-app browser jitter when scrolling
