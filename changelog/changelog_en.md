@@ -1,4 +1,6 @@
 # Changelog
+### Version 1.2.3 - May 3, 2025
+- Improved database import with progress updates, large file support, and clearer feedback
 ### Version 1.2.2 - May 1, 2025
 - Pro: Added recurring bookmark reminders with improved reminder functionality
 - Added a tool to clear expired bookmark reminders

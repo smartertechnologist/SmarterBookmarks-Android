@@ -1,4 +1,6 @@
 # Journal des modifications
+### Version 1.2.3 - 3 mai 2025
+- Importation de base de données améliorée avec mises à jour de progression, prise en charge des fichiers volumineux et commentaires plus clairs
 ### Version 1.2.2 - 1er mai 2025
 - Avantages : Ajout de rappels de favoris récurrents avec une fonctionnalité améliorée
 - Ajout d'un outil pour effacer les rappels de favoris expirés
