@@ -1,4 +1,8 @@
 # Journal des modifications
+### Version 1.2.4 - 10 mai 2025
+- Ajout de la recherche en texte intégral et de la recherche de contenu (Pro)
+- Optimisation des exportations et importations de données
+- Optimisation de l'utilisation de la mémoire et de la réactivité de l'application
 ### Version 1.2.3 - 3 mai 2025
 - Importation de base de données améliorée avec mises à jour de progression, prise en charge des fichiers volumineux et commentaires plus clairs
 ### Version 1.2.2 - 1er mai 2025
