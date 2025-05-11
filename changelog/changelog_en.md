@@ -1,4 +1,7 @@
 # Changelog
+### Version 1.2.5 - May 11, 2025
+- Bug fixes from the previous update, including issues with editing bookmarks and selecting a collection in the dropdown
+- The collection dropdown menu is now searchable
 ### Version 1.2.4 - May 10, 2025
 - Added full-text search and content search (Pro)
 - Optimized data exports and imports

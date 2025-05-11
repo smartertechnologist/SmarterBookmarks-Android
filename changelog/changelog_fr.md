@@ -1,4 +1,7 @@
 # Journal des modifications
+### Version 1.2.5 - 11 mai 2025
+- Corrections de bugs de la mise à jour précédente, notamment concernant la modification des signets et la sélection d'une collection dans le menu déroulant.
+- Le menu déroulant des collections est désormais consultable.
 ### Version 1.2.4 - 10 mai 2025
 - Ajout de la recherche en texte intégral et de la recherche de contenu (Pro)
 - Optimisation des exportations et importations de données
