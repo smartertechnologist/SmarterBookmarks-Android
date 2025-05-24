@@ -1,4 +1,7 @@
 # Journal des modifications
+### Version 1.2.6 - 24 mai 2025
+- Ajout d'une option permettant de remplacer les doublons lors de l'importation de données
+- Amélioration de la fonctionnalité d'importation CSV
 ### Version 1.2.5 - 11 mai 2025
 - Corrections de bugs de la mise à jour précédente, notamment concernant la modification des signets et la sélection d'une collection dans le menu déroulant.
 - Le menu déroulant des collections est désormais consultable.

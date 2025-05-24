@@ -1,4 +1,7 @@
 # Changelog
+### Version 1.2.6 - May 24, 2025
+- Added option to replace duplicates when importing data
+- Improved CSV import functionality
 ### Version 1.2.5 - May 11, 2025
 - Bug fixes from the previous update, including issues with editing bookmarks and selecting a collection in the dropdown
 - The collection dropdown menu is now searchable
