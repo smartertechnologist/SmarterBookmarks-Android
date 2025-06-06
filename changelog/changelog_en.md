@@ -1,4 +1,9 @@
 # Changelog
+### Version 1.2.7 - June 7, 2025
+- Reorganized bookmark menu into logical groups for easier access
+- Added a visual indicator to show when bookmarks have searchable content
+- Improved bookmark metadata refresh performance and reliability
+- Fixed bookmarks not showing the latest changes during cloud sync
 ### Version 1.2.6 - May 24, 2025
 - Added option to replace duplicates when importing data
 - Improved CSV import functionality
