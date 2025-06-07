@@ -1,6 +1,6 @@
 # Journal des modifications
 ### Version 1.2.7 - 7 juin 2025
-- Ajout de la possibilité de rechercher dans le contenu des favoris avec les correspondances mises en évidence
+- Ajout de la possibilité de rechercher dans le contenu des favoris avec les correspondances mises en évidence (Pro)
 - Réorganisation du menu des favoris en groupes logiques pour un accès plus facile
 - Ajout d'un indicateur visuel indiquant si les favoris contiennent du contenu consultable
 - Amélioration des performances et de la fiabilité de l'actualisation des métadonnées des favoris
