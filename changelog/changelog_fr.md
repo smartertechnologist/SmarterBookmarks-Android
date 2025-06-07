@@ -1,9 +1,10 @@
 # Journal des modifications
 ### Version 1.2.7 - 7 juin 2025
-- Menu des favoris réorganisé en groupes logiques pour un accès plus facile
+- Ajout de la possibilité de rechercher dans le contenu des favoris avec les correspondances mises en évidence
+- Réorganisation du menu des favoris en groupes logiques pour un accès plus facile
 - Ajout d'un indicateur visuel indiquant si les favoris contiennent du contenu consultable
 - Amélioration des performances et de la fiabilité de l'actualisation des métadonnées des favoris
-- Correction du problème d'affichage des dernières modifications lors de la synchronisation cloud
+- Correction des favoris n'affichant pas les dernières modifications lors de la synchronisation cloud
 ### Version 1.2.6 - 24 mai 2025
 - Ajout d'une option permettant de remplacer les doublons lors de l'importation de données
 - Amélioration de la fonctionnalité d'importation CSV

@@ -1,5 +1,6 @@
 # Changelog
 ### Version 1.2.7 - June 7, 2025
+- Added ability to search within bookmark content with highlighted matches
 - Reorganized bookmark menu into logical groups for easier access
 - Added a visual indicator to show when bookmarks have searchable content
 - Improved bookmark metadata refresh performance and reliability
