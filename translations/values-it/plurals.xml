@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="sync_duration_hours">
+        <item quantity="one">%d ora</item>
+        <item quantity="many">%d ore</item>
+        <item quantity="other">%d ore</item>
+    </plurals>
+    <plurals name="sync_duration_minutes">
+        <item quantity="one">%d minuto</item>
+        <item quantity="many">%d minuti</item>
+        <item quantity="other">%d minuti</item>
+    </plurals>
+    <plurals name="sync_duration_seconds">
+        <item quantity="one">%d secondo</item>
+        <item quantity="many">%d secondi</item>
+        <item quantity="other">%d secondi</item>
+    </plurals>
+    <plurals name="sync_changes">
+        <item quantity="one">%d modifica</item>
+        <item quantity="many">%d modifiche</item>
+        <item quantity="other">%d modifiche</item>
+    </plurals>
+    <plurals name="sync_conflicts">
+        <item quantity="one">%d conflitto</item>
+        <item quantity="many">%d conflitti</item>
+        <item quantity="other">%d conflitti</item>
+    </plurals>
+    <plurals name="collection_count">
+        <item quantity="one">%d raccolta</item>
+        <item quantity="many">%d raccolte</item>
+        <item quantity="other">%d raccolte</item>
+    </plurals>
+    <plurals name="bookmark_count">
+        <item quantity="one">%d segnalibro</item>
+        <item quantity="many">%d segnalibri</item>
+        <item quantity="other">%d segnalibri</item>
+    </plurals>
+    <plurals name="bookmark_categorized_in_collection_with_tags_format">
+        <item quantity="one">Segnalibro classificato automaticamente in %1$s con tag %2$d</item>
+        <item quantity="many">Segnalibro classificato automaticamente in %1$s con tag %2$d</item>
+        <item quantity="other">Segnalibro classificato automaticamente in %1$s con tag %2$d</item>
+    </plurals>
+    <plurals name="bookmark_categorized_with_tags_format">
+        <item quantity="one">Segnalibro classificato automaticamente con il tag %d</item>
+        <item quantity="many">Segnalibro classificato automaticamente con tag %d</item>
+        <item quantity="other">Segnalibro classificato automaticamente con tag %d</item>
+    </plurals>
+
+    <string-array name="bookmark_conditions_field_array_translation">
+        <item>Titolo</item>
+        <item>URL</item>
+        <item>Dominio</item>
+        <item>Descrizione</item>
+        <item>Nome della raccolta</item>
+        <item>Titolo della nota</item>
+        <item>Nota il contenuto</item>
+        <item>Tag</item>
+        <item>Stato</item>
+        <item>Collezione</item>
+        <item>Conteggio aperto</item>
+        <item>In collezione</item>
+        <item>Taggato</item>
+        <item>Preferiti</item>
+        <item>Appuntato</item>
+        <item>Dinamico</item>
+        <item>Archiviato</item>
+        <item>Nascosto</item>
+        <item>Ha un\'immagine</item>
+        <item>Ha favicon</item>
+        <item>Data dell\'ultima apertura</item>
+        <item>Data di creazione</item>
+        <item>Data dell\'ultima modifica</item>
+    </string-array>
+    <string-array name="bookmark_conditions_text_condition_array_translation">
+        <item>contiene</item>
+        <item>inizia con</item>
+        <item>finisce con</item>
+        <item>equivale</item>
+        <item>non uguali</item>
+        <item>nullo</item>
+        <item>non nullo</item>
+    </string-array>
+    <string-array name="bookmark_conditions_date_condition_array_translation">
+        <item>entro l\'ultimo</item>
+        <item>SU</item>
+        <item>Prima</item>
+        <item>Dopo</item>
+        <item>Oggi</item>
+        <item>Ieri</item>
+        <item>questo mese</item>
+        <item>quest\'anno</item>
+    </string-array>
+    <string-array name="bookmark_conditions_within_last_array_translation">
+        <item>giorni</item>
+        <item>settimane</item>
+        <item>mesi</item>
+        <item>anni</item>
+    </string-array>
+    <string-array name="default_status_array_translation">
+        <item>Stato attivo</item>
+        <item>Leggi lo stato</item>
+        <item>Stato del progresso</item>
+        <item>Stato di avanzamento alternativo</item>
+    </string-array>
+    <string-array name="bookmark_conditions_entity_condition_array_translation">
+        <item>Qualunque</item>
+        <item>Tutto</item>
+        <item>equivale</item>
+        <item>non uguali</item>
+        <item>nullo</item>
+        <item>non nullo</item>
+    </string-array>
+    <string-array name="bookmark_conditions_number_condition_array_translation">
+        <item>più grande di</item>
+        <item>Maggiore o uguale</item>
+        <item>equivale</item>
+        <item>non uguali</item>
+        <item>meno di</item>
+        <item>inferiore o uguale</item>
+        <item>fra</item>
+    </string-array>
+    <string-array name="bookmark_conditions_boolean_condition_array_translation">
+        <item>vero</item>
+        <item>falso</item>
+        <item>Entrambi</item>
+    </string-array>
+</resources>

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="sync_duration_hours">
+        <item quantity="other">%d jam</item>
+    </plurals>
+    <plurals name="sync_duration_minutes">
+        <item quantity="other">%d menit</item>
+    </plurals>
+    <plurals name="sync_duration_seconds">
+        <item quantity="other">%d detik</item>
+    </plurals>
+    <plurals name="sync_changes">
+        <item quantity="other">%d perubahan</item>
+    </plurals>
+    <plurals name="sync_conflicts">
+        <item quantity="other">%d konflik</item>
+    </plurals>
+    <plurals name="collection_count">
+        <item quantity="other">%d koleksi</item>
+    </plurals>
+    <plurals name="bookmark_count">
+        <item quantity="other">%d bookmark</item>
+    </plurals>
+    <plurals name="bookmark_categorized_in_collection_with_tags_format">
+        <item quantity="other">Bookmark diklasifikasikan secara otomatis dalam %1$s dengan tag %2$d</item>
+    </plurals>
+    <plurals name="bookmark_categorized_with_tags_format">
+        <item quantity="other">Bookmark diklasifikasikan secara otomatis dengan tag %d</item>
+    </plurals>
+
+    <string-array name="bookmark_conditions_field_array_translation">
+        <item>Judul</item>
+        <item>Url</item>
+        <item>Domain</item>
+        <item>Keterangan</item>
+        <item>Nama koleksi</item>
+        <item>Judul catatan</item>
+        <item>Catatan konten</item>
+        <item>Tag</item>
+        <item>Status</item>
+        <item>Koleksi</item>
+        <item>Hitungan terbuka</item>
+        <item>Dalam koleksi</item>
+        <item>Ditandai</item>
+        <item>Favorit</item>
+        <item>Disematkan</item>
+        <item>Dinamis</item>
+        <item>Diarsipkan</item>
+        <item>Tersembunyi</item>
+        <item>Memiliki gambar</item>
+        <item>Memiliki favicon</item>
+        <item>Tanggal terakhir dibuka</item>
+        <item>Tanggal dibuat</item>
+        <item>Tanggal terakhir diubah</item>
+    </string-array>
+    <string-array name="bookmark_conditions_text_condition_array_translation">
+        <item>berisi</item>
+        <item>dimulai dengan</item>
+        <item>berakhir dengan</item>
+        <item>sama</item>
+        <item>tidak setara</item>
+        <item>batal</item>
+        <item>bukan nol</item>
+    </string-array>
+    <string-array name="bookmark_conditions_date_condition_array_translation">
+        <item>dalam waktu terakhir</item>
+        <item>pada</item>
+        <item>sebelum</item>
+        <item>setelah</item>
+        <item>Hari ini</item>
+        <item>Kemarin</item>
+        <item>bulan ini</item>
+        <item>tahun ini</item>
+    </string-array>
+    <string-array name="bookmark_conditions_within_last_array_translation">
+        <item>hari</item>
+        <item>minggu</item>
+        <item>bulan</item>
+        <item>bertahun-tahun</item>
+    </string-array>
+    <string-array name="default_status_array_translation">
+        <item>Status Aktif</item>
+        <item>Status Baca</item>
+        <item>Status Kemajuan</item>
+        <item>Status Kemajuan Alternatif</item>
+    </string-array>
+    <string-array name="bookmark_conditions_entity_condition_array_translation">
+        <item>setiap</item>
+        <item>semua</item>
+        <item>sama</item>
+        <item>tidak setara</item>
+        <item>batal</item>
+        <item>bukan nol</item>
+    </string-array>
+    <string-array name="bookmark_conditions_number_condition_array_translation">
+        <item>lebih besar dari</item>
+        <item>lebih besar atau sama</item>
+        <item>sama</item>
+        <item>tidak setara</item>
+        <item>kurang dari</item>
+        <item>kurang dari atau sama</item>
+        <item>di antara</item>
+    </string-array>
+    <string-array name="bookmark_conditions_boolean_condition_array_translation">
+        <item>benar</item>
+        <item>palsu</item>
+        <item>keduanya</item>
+    </string-array>
+</resources>

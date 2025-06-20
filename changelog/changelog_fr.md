@@ -1,4 +1,9 @@
 # Journal des modifications
+### Version 1.2.8 - 20 juin 2025
+- Ajout de la fonctionnalité de liens entre signets pour créer des liens entre signets apparentés
+- Ajout de nouvelles traductions : Čeština, Dansk, Suomi, 한국어, Slovenčina et Ukrainka
+- Ajout de la possibilité de sélectionner des images personnalisées lors de la création de signets
+- Correction de la recherche dans d'autres vues de signets pour permettre le filtrage par tags et collections
 ### Version 1.2.7 - 7 juin 2025
 - Ajout de la possibilité de rechercher dans le contenu des favoris avec les correspondances mises en évidence (Pro)
 - Réorganisation du menu des favoris en groupes logiques pour un accès plus facile

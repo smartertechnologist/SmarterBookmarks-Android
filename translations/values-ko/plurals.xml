@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="sync_duration_hours">
+        <item quantity="other">%d시간</item>
+    </plurals>
+    <plurals name="sync_duration_minutes">
+        <item quantity="other">%d분</item>
+    </plurals>
+    <plurals name="sync_duration_seconds">
+        <item quantity="other">%d초</item>
+    </plurals>
+    <plurals name="sync_changes">
+        <item quantity="other">%d개의 변경 사항</item>
+    </plurals>
+    <plurals name="sync_conflicts">
+        <item quantity="other">%d개의 충돌</item>
+    </plurals>
+    <plurals name="collection_count">
+        <item quantity="other">%d 컬렉션</item>
+    </plurals>
+    <plurals name="bookmark_count">
+        <item quantity="other">%d개의 북마크</item>
+    </plurals>
+    <plurals name="bookmark_categorized_in_collection_with_tags_format">
+        <item quantity="other">%1$s에 %2$d 태그가 있는 북마크가 자동으로 분류되었습니다.</item>
+    </plurals>
+    <plurals name="bookmark_categorized_with_tags_format">
+        <item quantity="other">%d 태그로 자동 분류된 북마크</item>
+    </plurals>
+
+    <string-array name="bookmark_conditions_field_array_translation">
+        <item>제목</item>
+        <item>URL</item>
+        <item>도메인</item>
+        <item>설명</item>
+        <item>컬렉션 이름</item>
+        <item>노트 제목</item>
+        <item>메모 내용</item>
+        <item>태그</item>
+        <item>상태</item>
+        <item>수집</item>
+        <item>열린 카운트</item>
+        <item>컬렉션 중</item>
+        <item>태그됨</item>
+        <item>즐겨찾기</item>
+        <item>고정됨</item>
+        <item>동적</item>
+        <item>보관됨</item>
+        <item>숨겨진</item>
+        <item>이미지가 있습니다</item>
+        <item>파비콘이 있습니다</item>
+        <item>마지막 오픈 날짜</item>
+        <item>생성 날짜</item>
+        <item>마지막 수정 날짜</item>
+    </string-array>
+    <string-array name="bookmark_conditions_text_condition_array_translation">
+        <item>포함하다</item>
+        <item>~로 시작하다</item>
+        <item>~로 끝납니다</item>
+        <item>동등하다</item>
+        <item>같지 않다</item>
+        <item>널</item>
+        <item>null이 아니다</item>
+    </string-array>
+    <string-array name="bookmark_conditions_date_condition_array_translation">
+        <item>마지막 안에</item>
+        <item>~에</item>
+        <item>~ 전에</item>
+        <item>~ 후에</item>
+        <item>오늘</item>
+        <item>어제</item>
+        <item>이번 달</item>
+        <item>올해</item>
+    </string-array>
+    <string-array name="bookmark_conditions_within_last_array_translation">
+        <item>날</item>
+        <item>주</item>
+        <item>개월</item>
+        <item>연령</item>
+    </string-array>
+    <string-array name="default_status_array_translation">
+        <item>활성 상태</item>
+        <item>상태 읽기</item>
+        <item>진행 상태</item>
+        <item>대체 진행 상태</item>
+    </string-array>
+    <string-array name="bookmark_conditions_entity_condition_array_translation">
+        <item>어느</item>
+        <item>모두</item>
+        <item>동등하다</item>
+        <item>같지 않다</item>
+        <item>널</item>
+        <item>null이 아니다</item>
+    </string-array>
+    <string-array name="bookmark_conditions_number_condition_array_translation">
+        <item>보다 크다</item>
+        <item>크거나 같음</item>
+        <item>동등하다</item>
+        <item>같지 않다</item>
+        <item>보다 적다</item>
+        <item>이하</item>
+        <item>~ 사이</item>
+    </string-array>
+    <string-array name="bookmark_conditions_boolean_condition_array_translation">
+        <item>진실</item>
+        <item>거짓</item>
+        <item>둘 다</item>
+    </string-array>
+</resources>

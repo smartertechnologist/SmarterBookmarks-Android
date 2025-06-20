@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="sync_duration_hours">
+        <item quantity="one">%d hour</item>
+        <item quantity="other">%d hours</item>
+    </plurals>
+    <plurals name="sync_duration_minutes">
+        <item quantity="one">%d minute</item>
+        <item quantity="other">%d minutes</item>
+    </plurals>
+    <plurals name="sync_duration_seconds">
+        <item quantity="one">%d second</item>
+        <item quantity="other">%d seconds</item>
+    </plurals>
+    <plurals name="sync_changes">
+        <item quantity="one">%d change</item>
+        <item quantity="other">%d changes</item>
+    </plurals>
+    <plurals name="sync_conflicts">
+        <item quantity="one">%d conflict</item>
+        <item quantity="other">%d conflicts</item>
+    </plurals>
+    <plurals name="collection_count">
+        <item quantity="one">%d collection</item>
+        <item quantity="other">%d collections</item>
+    </plurals>
+    <plurals name="bookmark_count">
+        <item quantity="one">%d bookmark</item>
+        <item quantity="other">%d bookmarks</item>
+    </plurals>
+    <plurals name="bookmark_categorized_in_collection_with_tags_format">
+        <item quantity="one">Bookmark classified automatically in %1$s with %2$d tag</item>
+        <item quantity="other">Bookmark classified automatically in %1$s with %2$d tags</item>
+    </plurals>
+    <plurals name="bookmark_categorized_with_tags_format">
+        <item quantity="one">Bookmark classified automatically with %d tag</item>
+        <item quantity="other">Bookmark classified automatically with %d tags</item>
+    </plurals>
+    
+    <string-array name="bookmark_conditions_field_array_translation">
+        <item>Title</item>
+        <item>Url</item>
+        <item>Domain</item>
+        <item>Description</item>
+        <item>Collection name</item>
+        <item>Note title</item>
+        <item>Note content</item>
+        <item>Tags</item>
+        <item>Status</item>
+        <item>Collection</item>
+        <item>Opened count</item>
+        <item>In collection</item>
+        <item>Tagged</item>
+        <item>Favorites</item>
+        <item>Pinned</item>
+        <item>Dynamic</item>
+        <item>Archived</item>
+        <item>Hidden</item>
+        <item>Has image</item>
+        <item>Has favicon</item>
+        <item>Last opened date</item>
+        <item>Created date</item>
+        <item>Last modified date</item>
+    </string-array>
+    <string-array name="bookmark_conditions_text_condition_array_translation">
+        <item>contains</item>
+        <item>starts with</item>
+        <item>ends with</item>
+        <item>equals</item>
+        <item>not equals</item>
+        <item>null</item>
+        <item>not null</item>
+    </string-array>
+    <string-array name="bookmark_conditions_date_condition_array_translation">
+        <item>within last</item>
+        <item>on</item>
+        <item>before</item>
+        <item>after</item>
+        <item>today</item>
+        <item>yesterday</item>
+        <item>this month</item>
+        <item>this year</item>
+    </string-array>
+    <string-array name="bookmark_conditions_within_last_array_translation">
+        <item>days</item>
+        <item>weeks</item>
+        <item>months</item>
+        <item>years</item>
+    </string-array>
+    <string-array name="default_status_array_translation">
+        <item>Active Status</item>
+        <item>Read Status</item>
+        <item>Progress Status</item>
+        <item>Alternative Progress Status</item>
+    </string-array>
+    <string-array name="bookmark_conditions_entity_condition_array_translation">
+        <item>any</item>
+        <item>all</item>
+        <item>equals</item>
+        <item>not equals</item>
+        <item>null</item>
+        <item>not null</item>
+    </string-array>
+    <string-array name="bookmark_conditions_number_condition_array_translation">
+        <item>greater than</item>
+        <item>greater than or equal</item>
+        <item>equals</item>
+        <item>not equals</item>
+        <item>less than</item>
+        <item>less than or equal</item>
+        <item>between</item>
+    </string-array>
+    <string-array name="bookmark_conditions_boolean_condition_array_translation">
+        <item>true</item>
+        <item>false</item>
+        <item>both</item>
+    </string-array>
+</resources>

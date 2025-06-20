@@ -1,4 +1,9 @@
 # Changelog
+### Version 1.2.8 - June 20, 2025
+- Added linked bookmarks feature to create connections between related bookmarks
+- Added more translations - Čeština, Dansk, Suomi, 한국어, Slovenčina, and Українська
+- Added ability to select custom images when creating new bookmarks
+- Fixed search in other bookmark views to allow filtering by tags and collections
 ### Version 1.2.7 - June 7, 2025
 - Added ability to search within bookmark content with highlighted matches (Pro)
 - Reorganized bookmark menu into logical groups for easier access

@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="sync_duration_hours">
+        <item quantity="one">%d ساعة</item>
+        <item quantity="zero">%d ساعة</item>
+        <item quantity="two">%d ساعة</item>
+        <item quantity="few">%d ساعة</item>
+        <item quantity="other">%d ساعة</item>
+        <item quantity="many">%d ساعة</item>
+    </plurals>
+    <plurals name="sync_duration_minutes">
+        <item quantity="one">دقيقة واحدة</item>
+        <item quantity="zero">%d دقيقة</item>
+        <item quantity="two">%d دقيقة</item>
+        <item quantity="few">%d دقيقة</item>
+        <item quantity="other">%d دقيقة</item>
+        <item quantity="many">%d دقيقة</item>
+    </plurals>
+    <plurals name="sync_duration_seconds">
+        <item quantity="one">%d ثانية</item>
+        <item quantity="zero">%d ثانية</item>
+        <item quantity="two">%d ثانية</item>
+        <item quantity="few">%d ثانية</item>
+        <item quantity="other">%d ثانية</item>
+        <item quantity="many">%d ثانية</item>
+    </plurals>
+    <plurals name="sync_changes">
+        <item quantity="one">تغيير %d</item>
+        <item quantity="zero">%d من التغييرات</item>
+        <item quantity="two">%d من التغييرات</item>
+        <item quantity="few">%d من التغييرات</item>
+        <item quantity="other">%d من التغييرات</item>
+        <item quantity="many">%d من التغييرات</item>
+    </plurals>
+    <plurals name="sync_conflicts">
+        <item quantity="one">%d تعارض</item>
+        <item quantity="zero">%d تعارضات</item>
+        <item quantity="two">%d تعارضات</item>
+        <item quantity="few">%d تعارضات</item>
+        <item quantity="other">%d تعارضات</item>
+        <item quantity="many">%d تعارضات</item>
+    </plurals>
+    <plurals name="collection_count">
+        <item quantity="one">مجموعة %d</item>
+        <item quantity="zero">%d مجموعة</item>
+        <item quantity="two">%d مجموعة</item>
+        <item quantity="few">%d مجموعة</item>
+        <item quantity="other">%d مجموعة</item>
+        <item quantity="many">%d مجموعة</item>
+    </plurals>
+    <plurals name="bookmark_count">
+        <item quantity="one">%d إشارة مرجعية</item>
+        <item quantity="zero">%d إشارة مرجعية</item>
+        <item quantity="two">%d إشارة مرجعية</item>
+        <item quantity="few">%d إشارة مرجعية</item>
+        <item quantity="other">%d إشارة مرجعية</item>
+        <item quantity="many">%d إشارة مرجعية</item>
+    </plurals>
+    <plurals name="bookmark_categorized_in_collection_with_tags_format">
+        <item quantity="one">تم تصنيف الإشارة المرجعية تلقائيًا في %1$s بعلامة %2$d</item>
+        <item quantity="zero">تم تصنيف الإشارة المرجعية تلقائيًا في %1$s مع %2$d من العلامات</item>
+        <item quantity="two">تم تصنيف الإشارة المرجعية تلقائيًا في %1$s مع %2$d من العلامات</item>
+        <item quantity="few">تم تصنيف الإشارة المرجعية تلقائيًا في %1$s مع %2$d من العلامات</item>
+        <item quantity="other">تم تصنيف الإشارة المرجعية تلقائيًا في %1$s مع %2$d من العلامات</item>
+        <item quantity="many">تم تصنيف الإشارة المرجعية تلقائيًا في %1$s مع %2$d من العلامات</item>
+    </plurals>
+    <plurals name="bookmark_categorized_with_tags_format">
+        <item quantity="one">تم تصنيف الإشارة المرجعية تلقائيًا بعلامة %d</item>
+        <item quantity="zero">تم تصنيف الإشارة المرجعية تلقائيًا باستخدام علامات %d</item>
+        <item quantity="two">تم تصنيف الإشارة المرجعية تلقائيًا باستخدام علامات %d</item>
+        <item quantity="few">تم تصنيف الإشارة المرجعية تلقائيًا باستخدام علامات %d</item>
+        <item quantity="other">تم تصنيف الإشارة المرجعية تلقائيًا باستخدام علامات %d</item>
+        <item quantity="many">تم تصنيف الإشارة المرجعية تلقائيًا باستخدام علامات %d</item>
+    </plurals>
+
+    <string-array name="bookmark_conditions_field_array_translation">
+        <item>عنوان</item>
+        <item>عنوان URL</item>
+        <item>اِختِصاص</item>
+        <item>وصف</item>
+        <item>اسم المجموعة</item>
+        <item>ملاحظة العنوان</item>
+        <item>ملاحظة المحتوى</item>
+        <item>العلامات</item>
+        <item>حالة</item>
+        <item>مجموعة</item>
+        <item>العد مفتوح</item>
+        <item>في المجموعة</item>
+        <item>الموسومة</item>
+        <item>المفضلة</item>
+        <item>مثبت</item>
+        <item>متحرك</item>
+        <item>مؤرشف</item>
+        <item>مختفي</item>
+        <item>لديه صورة</item>
+        <item>لديه أيقونة مفضلة</item>
+        <item>تاريخ آخر فتح</item>
+        <item>تاريخ الإنشاء</item>
+        <item>تاريخ آخر تعديل</item>
+    </string-array>
+    <string-array name="bookmark_conditions_text_condition_array_translation">
+        <item>يتضمن</item>
+        <item>يبدأ ب</item>
+        <item>ينتهي ب</item>
+        <item>يساوي</item>
+        <item>لا يساوي</item>
+        <item>باطل</item>
+        <item>ليست فارغة</item>
+    </string-array>
+    <string-array name="bookmark_conditions_date_condition_array_translation">
+        <item>في الاخير</item>
+        <item>على</item>
+        <item>قبل</item>
+        <item>بعد</item>
+        <item>اليوم</item>
+        <item>أمس</item>
+        <item>هذا الشهر</item>
+        <item>هذا العام</item>
+    </string-array>
+    <string-array name="bookmark_conditions_within_last_array_translation">
+        <item>أيام</item>
+        <item>أسابيع</item>
+        <item>شهور</item>
+        <item>سنين</item>
+    </string-array>
+    <string-array name="default_status_array_translation">
+        <item>الحالة النشطة</item>
+        <item>قراءة الحالة</item>
+        <item>حالة التقدم</item>
+        <item>حالة التقدم البديلة</item>
+    </string-array>
+    <string-array name="bookmark_conditions_entity_condition_array_translation">
+        <item>أي</item>
+        <item>الجميع</item>
+        <item>يساوي</item>
+        <item>لا يساوي</item>
+        <item>باطل</item>
+        <item>ليست فارغة</item>
+    </string-array>
+    <string-array name="bookmark_conditions_number_condition_array_translation">
+        <item>أكبر من</item>
+        <item>أكبر من أو يساوي</item>
+        <item>يساوي</item>
+        <item>لا يساوي</item>
+        <item>أقل من</item>
+        <item>أقل من أو يساوي</item>
+        <item>بين</item>
+    </string-array>
+    <string-array name="bookmark_conditions_boolean_condition_array_translation">
+        <item>حقيقي</item>
+        <item>خطأ شنيع</item>
+        <item>كلاهما</item>
+    </string-array>
+</resources>
