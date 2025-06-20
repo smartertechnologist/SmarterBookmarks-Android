@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="sync_duration_hours">
+        <item quantity="other">%d 小时</item>
+    </plurals>
+    <plurals name="sync_duration_minutes">
+        <item quantity="other">%d 分钟</item>
+    </plurals>
+    <plurals name="sync_duration_seconds">
+        <item quantity="other">%d 秒</item>
+    </plurals>
+    <plurals name="sync_changes">
+        <item quantity="other">%d 次更改</item>
+    </plurals>
+    <plurals name="sync_conflicts">
+        <item quantity="other">%d 个冲突</item>
+    </plurals>
+    <plurals name="collection_count">
+        <item quantity="other">%d 个集合</item>
+    </plurals>
+    <plurals name="bookmark_count">
+        <item quantity="other">%d 个书签</item>
+    </plurals>
+    <plurals name="bookmark_categorized_in_collection_with_tags_format">
+        <item quantity="other">自动分类在 %1$s 中、带有 %2$d 个标签的书签</item>
+    </plurals>
+    <plurals name="bookmark_categorized_with_tags_format">
+        <item quantity="other">使用 %d 个标签自动分类的书签</item>
+    </plurals>
+
+    <string-array name="bookmark_conditions_field_array_translation">
+        <item>标题</item>
+        <item>网址</item>
+        <item>领域</item>
+        <item>描述</item>
+        <item>藏品名称</item>
+        <item>注释标题</item>
+        <item>备注内容</item>
+        <item>标签</item>
+        <item>地位</item>
+        <item>收藏</item>
+        <item>打开计数</item>
+        <item>收藏中</item>
+        <item>已标记</item>
+        <item>收藏夹</item>
+        <item>已固定</item>
+        <item>动态的</item>
+        <item>已存档</item>
+        <item>隐</item>
+        <item>有图像</item>
+        <item>有图标</item>
+        <item>最后开放日期</item>
+        <item>创建日期</item>
+        <item>最后修改日期</item>
+    </string-array>
+    <string-array name="bookmark_conditions_text_condition_array_translation">
+        <item>包含</item>
+        <item>开始于</item>
+        <item>结束于</item>
+        <item>等于</item>
+        <item>不等于</item>
+        <item>无效的</item>
+        <item>不为空</item>
+    </string-array>
+    <string-array name="bookmark_conditions_date_condition_array_translation">
+        <item>最后内</item>
+        <item>在</item>
+        <item>前</item>
+        <item>后</item>
+        <item>今天</item>
+        <item>昨天</item>
+        <item>本月</item>
+        <item>今年</item>
+    </string-array>
+    <string-array name="bookmark_conditions_within_last_array_translation">
+        <item>天</item>
+        <item>周</item>
+        <item>几个月</item>
+        <item>年</item>
+    </string-array>
+    <string-array name="default_status_array_translation">
+        <item>活跃状态</item>
+        <item>读取状态</item>
+        <item>进度状态</item>
+        <item>替代进度状态</item>
+    </string-array>
+    <string-array name="bookmark_conditions_entity_condition_array_translation">
+        <item>任何</item>
+        <item>全部</item>
+        <item>等于</item>
+        <item>不等于</item>
+        <item>无效的</item>
+        <item>不为空</item>
+    </string-array>
+    <string-array name="bookmark_conditions_number_condition_array_translation">
+        <item>大于</item>
+        <item>大于或等于</item>
+        <item>等于</item>
+        <item>不等于</item>
+        <item>少于</item>
+        <item>小于或等于</item>
+        <item>之间</item>
+    </string-array>
+    <string-array name="bookmark_conditions_boolean_condition_array_translation">
+        <item>真的</item>
+        <item>错误的</item>
+        <item>两个都</item>
+    </string-array>
+</resources>

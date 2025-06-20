@@ -1,0 +1,108 @@
+<resources>
+    <plurals name="sync_duration_hours">
+        <item quantity="other">%d 時間</item>
+    </plurals>
+    <plurals name="sync_duration_minutes">
+        <item quantity="other">%d 分</item>
+    </plurals>
+    <plurals name="sync_duration_seconds">
+        <item quantity="other">%d 秒</item>
+    </plurals>
+    <plurals name="sync_changes">
+        <item quantity="other">%d 件の変更</item>
+    </plurals>
+    <plurals name="sync_conflicts">
+        <item quantity="other">%d 個の競合</item>
+    </plurals>
+    <plurals name="collection_count">
+        <item quantity="other">%d 個のコレクション</item>
+    </plurals>
+    <plurals name="bookmark_count">
+        <item quantity="other">%d 件のブックマーク</item>
+    </plurals>
+    <plurals name="bookmark_categorized_in_collection_with_tags_format">
+        <item quantity="other">ブックマークは %2$d タグ付きで %1$s に自動的に分類されました</item>
+    </plurals>
+    <plurals name="bookmark_categorized_with_tags_format">
+        <item quantity="other">ブックマークは %d タグで自動的に分類されました</item>
+    </plurals>
+
+    <string-array name="bookmark_conditions_field_array_translation">
+        <item>タイトル</item>
+        <item>URL</item>
+        <item>ドメイン</item>
+        <item>説明</item>
+        <item>コレクション名</item>
+        <item>ノートのタイトル</item>
+        <item>メモ内容</item>
+        <item>タグ</item>
+        <item>状態</item>
+        <item>コレクション</item>
+        <item>開封数</item>
+        <item>コレクション中</item>
+        <item>タグ付き</item>
+        <item>お気に入り</item>
+        <item>固定された</item>
+        <item>動的</item>
+        <item>アーカイブ済み</item>
+        <item>隠れた</item>
+        <item>画像あり</item>
+        <item>ファビコンあり</item>
+        <item>最後にオープンした日</item>
+        <item>作成日</item>
+        <item>最終更新日</item>
+    </string-array>
+    <string-array name="bookmark_conditions_text_condition_array_translation">
+        <item>含まれています</item>
+        <item>から始まる</item>
+        <item>で終わる</item>
+        <item>等しい</item>
+        <item>等しくない</item>
+        <item>ヌル</item>
+        <item>nullではない</item>
+    </string-array>
+    <string-array name="bookmark_conditions_date_condition_array_translation">
+        <item>最後以内に</item>
+        <item>の上</item>
+        <item>前に</item>
+        <item>後</item>
+        <item>今日</item>
+        <item>昨日</item>
+        <item>今月</item>
+        <item>今年</item>
+    </string-array>
+    <string-array name="bookmark_conditions_within_last_array_translation">
+        <item>日々</item>
+        <item>週</item>
+        <item>月</item>
+        <item>年</item>
+    </string-array>
+    <string-array name="default_status_array_translation">
+        <item>アクティブステータス</item>
+        <item>ステータスの読み取り</item>
+        <item>進捗状況</item>
+        <item>代替の進行状況</item>
+    </string-array>
+    <string-array name="bookmark_conditions_entity_condition_array_translation">
+        <item>どれでも</item>
+        <item>全て</item>
+        <item>等しい</item>
+        <item>等しくない</item>
+        <item>ヌル</item>
+        <item>nullではない</item>
+    </string-array>
+    <string-array name="bookmark_conditions_number_condition_array_translation">
+        <item>より大きい</item>
+        <item>以上</item>
+        <item>等しい</item>
+        <item>等しくない</item>
+        <item>未満</item>
+        <item>以下</item>
+        <item>間</item>
+    </string-array>
+    <string-array name="bookmark_conditions_boolean_condition_array_translation">
+        <item>真実</item>
+        <item>間違い</item>
+        <item>両方</item>
+    </string-array>
+</resources>

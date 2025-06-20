@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="sync_duration_hours">
+        <item quantity="one">%d heure</item>
+        <item quantity="other">%d heures</item>
+        <item quantity="many">%d heures</item>
+    </plurals>
+    <plurals name="sync_duration_minutes">
+        <item quantity="one">%d minute</item>
+        <item quantity="other">%d minutes</item>
+        <item quantity="many">%d minutes</item>
+    </plurals>
+    <plurals name="sync_duration_seconds">
+        <item quantity="one">%d seconde</item>
+        <item quantity="other">%d secondes</item>
+        <item quantity="many">%d secondes</item>
+    </plurals>
+    <plurals name="sync_changes">
+        <item quantity="one">%d changement</item>
+        <item quantity="other">%d changements</item>
+        <item quantity="many">%d changements</item>
+    </plurals>
+    <plurals name="sync_conflicts">
+        <item quantity="one">%d conflit</item>
+        <item quantity="other">%d conflit</item>
+        <item quantity="many">%d conflit</item>
+    </plurals>
+    <plurals name="collection_count">
+        <item quantity="one">%d collection</item>
+        <item quantity="other">%d collections</item>
+        <item quantity="many">%d collections</item>
+    </plurals>
+    <plurals name="bookmark_count">
+        <item quantity="one">%d signet</item>
+        <item quantity="other">%d signets</item>
+        <item quantity="many">%d signets</item>
+    </plurals>
+    <plurals name="bookmark_categorized_in_collection_with_tags_format">
+        <item quantity="one">Signet classé automatiquement dans %1$s avec %2$d balise</item>
+        <item quantity="other">Signet classé automatiquement dans %1$s avec %2$d balises</item>
+        <item quantity="many">Signet classé automatiquement dans %1$s avec %2$d balises</item>
+    </plurals>
+    <plurals name="bookmark_categorized_with_tags_format">
+        <item quantity="one">Marque-page classé automatiquement avec %d étiquette</item>
+        <item quantity="other">Marque-page classé automatiquement avec %d étiquettes</item>
+        <item quantity="many">Marque-page classé automatiquement avec %d étiquettes</item>
+    </plurals>
+
+    <string-array name="bookmark_conditions_field_array_translation">
+        <item>Titre</item>
+        <item>URL</item>
+        <item>Domaine</item>
+        <item>Description</item>
+        <item>Nom de la collection</item>
+        <item>Titre de la note</item>
+        <item>Contenu de la note</item>
+        <item>Balises</item>
+        <item>Statut</item>
+        <item>Collection</item>
+        <item>Compte ouvert</item>
+        <item>En collection</item>
+        <item>Tagué</item>
+        <item>Favoris</item>
+        <item>Épinglé</item>
+        <item>Dynamique</item>
+        <item>Archivé</item>
+        <item>Caché</item>
+        <item>A une image</item>
+        <item>A un favicon</item>
+        <item>Date de dernière ouverture</item>
+        <item>Date de création</item>
+        <item>Date de dernière modification</item>
+    </string-array>
+    <string-array name="bookmark_conditions_text_condition_array_translation">
+        <item>contient</item>
+        <item>commence avec</item>
+        <item>se termine par</item>
+        <item>équivaut à</item>
+        <item>pas égal</item>
+        <item>nul</item>
+        <item>pas nul</item>
+    </string-array>
+    <string-array name="bookmark_conditions_date_condition_array_translation">
+        <item>dans le dernier</item>
+        <item>sur</item>
+        <item>avant</item>
+        <item>après</item>
+        <item>aujourd\'hui</item>
+        <item>hier</item>
+        <item>ce mois-ci</item>
+        <item>cette année</item>
+    </string-array>
+    <string-array name="bookmark_conditions_within_last_array_translation">
+        <item>jours</item>
+        <item>semaines</item>
+        <item>mois</item>
+        <item>années</item>
+    </string-array>
+    <string-array name="default_status_array_translation">
+        <item>Statut actif</item>
+        <item>Lire l\'état</item>
+        <item>Le statut de la progression</item>
+        <item>Statut de progression alternatif</item>
+    </string-array>
+    <string-array name="bookmark_conditions_entity_condition_array_translation">
+        <item>n\'importe lequel</item>
+        <item>tous</item>
+        <item>équivaut à</item>
+        <item>pas égal</item>
+        <item>nul</item>
+        <item>pas nul</item>
+    </string-array>
+    <string-array name="bookmark_conditions_number_condition_array_translation">
+        <item>plus grand que</item>
+        <item>Meilleur que ou égal</item>
+        <item>équivaut à</item>
+        <item>pas égal</item>
+        <item>moins que</item>
+        <item>inférieur ou égal</item>
+        <item>entre</item>
+    </string-array>
+    <string-array name="bookmark_conditions_boolean_condition_array_translation">
+        <item>vrai</item>
+        <item>faux</item>
+        <item>les deux</item>
+    </string-array>
+</resources>

@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="sync_duration_hours">
+        <item quantity="one">%d hodina</item>
+        <item quantity="few">%d hodin</item>
+        <item quantity="many">%d hodin</item>
+        <item quantity="other">%d hodin</item>
+    </plurals>
+    <plurals name="sync_duration_minutes">
+        <item quantity="one">%d minuta</item>
+        <item quantity="few">%d minut</item>
+        <item quantity="many">%d minut</item>
+        <item quantity="other">%d minut</item>
+    </plurals>
+    <plurals name="sync_duration_seconds">
+        <item quantity="one">%d sekunda</item>
+        <item quantity="few">%d sekund</item>
+        <item quantity="many">%d sekund</item>
+        <item quantity="other">%d sekund</item>
+    </plurals>
+    <plurals name="sync_changes">
+        <item quantity="one">%d změna</item>
+        <item quantity="few">%d změn</item>
+        <item quantity="many">%d změn</item>
+        <item quantity="other">%d změn</item>
+    </plurals>
+    <plurals name="sync_conflicts">
+        <item quantity="one">%d konflikt</item>
+        <item quantity="few">%d konfliktů</item>
+        <item quantity="many">%d konfliktů</item>
+        <item quantity="other">%d konfliktů</item>
+    </plurals>
+    <plurals name="collection_count">
+        <item quantity="one">%d sbírka</item>
+        <item quantity="few">%d sbírek</item>
+        <item quantity="many">%d sbírek</item>
+        <item quantity="other">%d sbírek</item>
+    </plurals>
+    <plurals name="bookmark_count">
+        <item quantity="one">%d záložka</item>
+        <item quantity="few">%d záložek</item>
+        <item quantity="many">%d záložek</item>
+        <item quantity="other">%d záložek</item>
+    </plurals>
+    <plurals name="bookmark_categorized_in_collection_with_tags_format">
+        <item quantity="one">Záložka byla automaticky zařazena do %1$s se štítkem %2$d</item>
+        <item quantity="few">Záložka byla automaticky zařazena do %1$s se značkami %2$d</item>
+        <item quantity="many">Záložka byla automaticky zařazena do %1$s se značkami %2$d</item>
+        <item quantity="other">Záložka byla automaticky zařazena do %1$s se značkami %2$d</item>
+    </plurals>
+    <plurals name="bookmark_categorized_with_tags_format">
+        <item quantity="one">Záložka je automaticky klasifikována značkou %d</item>
+        <item quantity="few">Záložka je automaticky klasifikována pomocí %d značek</item>
+        <item quantity="many">Záložka je automaticky klasifikována pomocí %d značek</item>
+        <item quantity="other">Záložka je automaticky klasifikována pomocí %d značek</item>
+    </plurals>
+
+    <string-array name="bookmark_conditions_field_array_translation">
+        <item>Titul</item>
+        <item>URL</item>
+        <item>Doména</item>
+        <item>Popis</item>
+        <item>Název sbírky</item>
+        <item>Název poznámky</item>
+        <item>Obsah poznámky</item>
+        <item>Tagy</item>
+        <item>Postavení</item>
+        <item>Sbírka</item>
+        <item>Otevřený počet</item>
+        <item>Ve sbírce</item>
+        <item>Označeno</item>
+        <item>Oblíbené</item>
+        <item>Připnuto</item>
+        <item>Dynamický</item>
+        <item>Archivováno</item>
+        <item>Skrytý</item>
+        <item>Má obrázek</item>
+        <item>Má favicon</item>
+        <item>Datum posledního otevření</item>
+        <item>Datum vytvoření</item>
+        <item>Datum poslední změny</item>
+    </string-array>
+    <string-array name="bookmark_conditions_text_condition_array_translation">
+        <item>obsahuje</item>
+        <item>začíná s</item>
+        <item>končí s</item>
+        <item>rovná se</item>
+        <item>nerovná se</item>
+        <item>null</item>
+        <item>není nulový</item>
+    </string-array>
+    <string-array name="bookmark_conditions_date_condition_array_translation">
+        <item>do posledního</item>
+        <item>na</item>
+        <item>před</item>
+        <item>po</item>
+        <item>dnes</item>
+        <item>včera</item>
+        <item>tento měsíc</item>
+        <item>letos</item>
+    </string-array>
+    <string-array name="bookmark_conditions_within_last_array_translation">
+        <item>dní</item>
+        <item>týdnů</item>
+        <item>měsíce</item>
+        <item>let</item>
+    </string-array>
+    <string-array name="default_status_array_translation">
+        <item>Aktivní stav</item>
+        <item>Stav čtení</item>
+        <item>Stav průběhu</item>
+        <item>Stav alternativního postupu</item>
+    </string-array>
+    <string-array name="bookmark_conditions_entity_condition_array_translation">
+        <item>žádný</item>
+        <item>vše</item>
+        <item>rovná se</item>
+        <item>nerovná se</item>
+        <item>null</item>
+        <item>není nulový</item>
+    </string-array>
+    <string-array name="bookmark_conditions_number_condition_array_translation">
+        <item>větší než</item>
+        <item>větší nebo rovno</item>
+        <item>rovná se</item>
+        <item>nerovná se</item>
+        <item>méně než</item>
+        <item>menší nebo rovno</item>
+        <item>mezi</item>
+    </string-array>
+    <string-array name="bookmark_conditions_boolean_condition_array_translation">
+        <item>věrný</item>
+        <item>falešný</item>
+        <item>obě</item>
+    </string-array>
+</resources>

@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="sync_duration_hours">
+        <item quantity="one">%d година</item>
+        <item quantity="few">%d години</item>
+        <item quantity="many">%d годин</item>
+        <item quantity="other">%d годин</item>
+    </plurals>
+
+    <plurals name="sync_duration_minutes">
+        <item quantity="one">%d хвилина</item>
+        <item quantity="few">%d хвилини</item>
+        <item quantity="many">%d хвилин</item>
+        <item quantity="other">%d хвилин</item>
+    </plurals>
+
+    <plurals name="sync_duration_seconds">
+        <item quantity="one">%d секунда</item>
+        <item quantity="few">%d секунди</item>
+        <item quantity="many">%d секунд</item>
+        <item quantity="other">%d секунд</item>
+    </plurals>
+
+    <plurals name="sync_changes">
+        <item quantity="one">%d зміна</item>
+        <item quantity="few">%d зміни</item>
+        <item quantity="many">%d змін</item>
+        <item quantity="other">%d змін</item>
+    </plurals>
+
+    <plurals name="sync_conflicts">
+        <item quantity="one">%d конфлікт</item>
+        <item quantity="few">%d конфлікти</item>
+        <item quantity="many">%d конфліктів</item>
+        <item quantity="other">%d конфліктів</item>
+    </plurals>
+
+    <plurals name="collection_count">
+        <item quantity="one">%d колекція</item>
+        <item quantity="few">%d колекції</item>
+        <item quantity="many">%d колекцій</item>
+        <item quantity="other">%d колекцій</item>
+    </plurals>
+
+    <plurals name="bookmark_count">
+        <item quantity="one">%d закладка</item>
+        <item quantity="few">%d закладки</item>
+        <item quantity="many">%d закладок</item>
+        <item quantity="other">%d закладок</item>
+    </plurals>
+
+    <plurals name="bookmark_categorized_in_collection_with_tags_format">
+        <item quantity="one">Закладка автоматично класифікується в %1$s з тегом %2$d</item>
+        <item quantity="few">Закладка автоматично класифікується в %1$s з тегами %2$d</item>
+        <item quantity="many">Закладка автоматично класифікується в %1$s з тегами %2$d</item>
+        <item quantity="other">Закладка автоматично класифікується в %1$s з тегами %2$d</item>
+    </plurals>
+
+    <plurals name="bookmark_categorized_with_tags_format">
+        <item quantity="one">Закладка класифікується автоматично з тегом %d</item>
+        <item quantity="few">Закладка класифікується автоматично з тегами %d</item>
+        <item quantity="many">Закладка класифікується автоматично з тегами %d</item>
+        <item quantity="other">Закладка класифікується автоматично з тегами %d</item>
+    </plurals>
+
+    <string-array name="bookmark_conditions_field_array_translation">
+        <item>Назва</item>
+        <item>Url</item>
+        <item>Домен</item>
+        <item>опис</item>
+        <item>Назва колекції</item>
+        <item>Назва ноти</item>
+        <item>Зміст ноти</item>
+        <item>Теги</item>
+        <item>Статус</item>
+        <item>Колекція</item>
+        <item>Відкритий граф</item>
+        <item>В колекції</item>
+        <item>Позначено</item>
+        <item>Вибране</item>
+        <item>Закріплено</item>
+        <item>Динамічний</item>
+        <item>Архівовано</item>
+        <item>Прихований</item>
+        <item>Має зображення</item>
+        <item>Має фавікон</item>
+        <item>Дата останнього відкриття</item>
+        <item>Дата створення</item>
+        <item>Дата останньої зміни</item>
+    </string-array>
+    <string-array name="bookmark_conditions_text_condition_array_translation">
+        <item>містить</item>
+        <item>починається з</item>
+        <item>закінчується на</item>
+        <item>дорівнює</item>
+        <item>не дорівнює</item>
+        <item>нульовий</item>
+        <item>не нульовий</item>
+    </string-array>
+    <string-array name="bookmark_conditions_date_condition_array_translation">
+        <item>протягом останнього</item>
+        <item>на</item>
+        <item>раніше</item>
+        <item>після</item>
+        <item>сьогодні</item>
+        <item>вчора</item>
+        <item>цього місяця</item>
+        <item>цього року</item>
+    </string-array>
+    <string-array name="bookmark_conditions_within_last_array_translation">
+        <item>днів</item>
+        <item>тижнів</item>
+        <item>місяців</item>
+        <item>років</item>
+    </string-array>
+    <string-array name="default_status_array_translation">
+        <item>Активний статус</item>
+        <item>Читати статус</item>
+        <item>Статус прогресу</item>
+        <item>Альтернативний статус прогресу</item>
+    </string-array>
+    <string-array name="bookmark_conditions_entity_condition_array_translation">
+        <item>будь-який</item>
+        <item>все</item>
+        <item>дорівнює</item>
+        <item>не дорівнює</item>
+        <item>нульовий</item>
+        <item>не нульовий</item>
+    </string-array>
+    <string-array name="bookmark_conditions_number_condition_array_translation">
+        <item>більше ніж</item>
+        <item>більше або дорівнює</item>
+        <item>дорівнює</item>
+        <item>не дорівнює</item>
+        <item>менше ніж</item>
+        <item>менше або дорівнює</item>
+        <item>між</item>
+    </string-array>
+    <string-array name="bookmark_conditions_boolean_condition_array_translation">
+        <item>правда</item>
+        <item>помилковий</item>
+        <item>обидва</item>
+    </string-array>
+</resources>

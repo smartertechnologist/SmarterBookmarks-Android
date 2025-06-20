@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="sync_duration_hours">
+        <item quantity="one">%d tunti</item>
+        <item quantity="other">%d tuntia</item>
+    </plurals>
+    <plurals name="sync_duration_minutes">
+        <item quantity="one">%d minuutti</item>
+        <item quantity="other">%d minuuttia</item>
+    </plurals>
+    <plurals name="sync_duration_seconds">
+        <item quantity="one">%d sekunti</item>
+        <item quantity="other">%d sekuntia</item>
+    </plurals>
+    <plurals name="sync_changes">
+        <item quantity="one">%d muutos</item>
+        <item quantity="other">%d muutosta</item>
+    </plurals>
+    <plurals name="sync_conflicts">
+        <item quantity="one">%d ristiriita</item>
+        <item quantity="other">%d ristiriitaa</item>
+    </plurals>
+    <plurals name="collection_count">
+        <item quantity="one">%d kokoelma</item>
+        <item quantity="other">%d kokoelmaa</item>
+    </plurals>
+    <plurals name="bookmark_count">
+        <item quantity="one">%d kirjanmerkki</item>
+        <item quantity="other">%d kirjanmerkkiä</item>
+    </plurals>
+    <plurals name="bookmark_categorized_in_collection_with_tags_format">
+        <item quantity="one">Kirjanmerkki luokitellaan automaattisesti luokassa %1$s %2$d tagilla</item>
+        <item quantity="other">Kirjanmerkki luokitellaan automaattisesti kategoriaan %1$s %2$d tagilla</item>
+    </plurals>
+    <plurals name="bookmark_categorized_with_tags_format">
+        <item quantity="one">Kirjanmerkki luokiteltu automaattisesti %d tagilla</item>
+        <item quantity="other">Kirjanmerkki luokiteltu automaattisesti %d tagilla</item>
+    </plurals>
+
+    <string-array name="bookmark_conditions_field_array_translation">
+        <item>Otsikko</item>
+        <item>URL-osoite</item>
+        <item>Verkkotunnus</item>
+        <item>Kuvaus</item>
+        <item>Kokoelman nimi</item>
+        <item>Huomaa otsikko</item>
+        <item>Huomaa sisältö</item>
+        <item>Tunnisteet</item>
+        <item>Status</item>
+        <item>Kokoelma</item>
+        <item>Avattu määrä</item>
+        <item>Kokoelmassa</item>
+        <item>Merkitty</item>
+        <item>Suosikit</item>
+        <item>Kiinnitetty</item>
+        <item>Dynaaminen</item>
+        <item>Arkistoitu</item>
+        <item>Piilotettu</item>
+        <item>On kuva</item>
+        <item>Sisältää faviconin</item>
+        <item>Viimeinen avauspäivä</item>
+        <item>Luontipäivämäärä</item>
+        <item>Viimeisin muokkauspäivä</item>
+    </string-array>
+    <string-array name="bookmark_conditions_text_condition_array_translation">
+        <item>sisältää</item>
+        <item>alkaa kanssa</item>
+        <item>päättyy</item>
+        <item>on yhtä suuri</item>
+        <item>ei ole tasavertainen</item>
+        <item>tyhjä</item>
+        <item>ei tyhjä</item>
+    </string-array>
+    <string-array name="bookmark_conditions_date_condition_array_translation">
+        <item>viimeisen sisällä</item>
+        <item>päällä</item>
+        <item>ennen</item>
+        <item>jälkeen</item>
+        <item>tänään</item>
+        <item>eilen</item>
+        <item>tässä kuussa</item>
+        <item>tänä vuonna</item>
+    </string-array>
+    <string-array name="bookmark_conditions_within_last_array_translation">
+        <item>päivää</item>
+        <item>viikkoa</item>
+        <item>kuukautta</item>
+        <item>vuotta</item>
+    </string-array>
+    <string-array name="default_status_array_translation">
+        <item>Aktiivinen tila</item>
+        <item>Lue tila</item>
+        <item>Edistymisen tila</item>
+        <item>Vaihtoehtoinen edistymistila</item>
+    </string-array>
+    <string-array name="bookmark_conditions_entity_condition_array_translation">
+        <item>mikä tahansa</item>
+        <item>kaikki</item>
+        <item>on yhtä suuri</item>
+        <item>ei ole tasavertainen</item>
+        <item>tyhjä</item>
+        <item>ei tyhjä</item>
+    </string-array>
+    <string-array name="bookmark_conditions_number_condition_array_translation">
+        <item>suurempi kuin</item>
+        <item>suurempi tai yhtä suuri</item>
+        <item>on yhtä suuri</item>
+        <item>ei ole tasavertainen</item>
+        <item>vähemmän kuin</item>
+        <item>pienempi tai yhtä suuri</item>
+        <item>välillä</item>
+    </string-array>
+    <string-array name="bookmark_conditions_boolean_condition_array_translation">
+        <item>totta</item>
+        <item>väärä</item>
+        <item>molemmat</item>
+    </string-array>
+</resources>

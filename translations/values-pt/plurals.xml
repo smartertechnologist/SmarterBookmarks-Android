@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="sync_duration_hours">
+        <item quantity="one">%d hora</item>
+        <item quantity="other">%d horas</item>
+        <item quantity="many">%d horas</item>
+    </plurals>
+    <plurals name="sync_duration_minutes">
+        <item quantity="one">%d minuto</item>
+        <item quantity="other">%d minutos</item>
+        <item quantity="many">%d minutos</item>
+    </plurals>
+    <plurals name="sync_duration_seconds">
+        <item quantity="one">%d segundo</item>
+        <item quantity="other">%d segundos</item>
+        <item quantity="many">%d segundos</item>
+    </plurals>
+    <plurals name="sync_changes">
+        <item quantity="one">%d alteração</item>
+        <item quantity="other">%d alterações</item>
+        <item quantity="many">%d alterações</item>
+    </plurals>
+    <plurals name="sync_conflicts">
+        <item quantity="one">%d conflito</item>
+        <item quantity="other">%d conflitos</item>
+        <item quantity="many">%d conflitos</item>
+    </plurals>
+    <plurals name="collection_count">
+        <item quantity="one">%d coleção</item>
+        <item quantity="other">%d coleções</item>
+        <item quantity="many">%d coleções</item>
+    </plurals>
+    <plurals name="bookmark_count">
+        <item quantity="one">%d favorito</item>
+        <item quantity="other">%d favoritos</item>
+        <item quantity="many">%d favoritos</item>
+    </plurals>
+    <plurals name="bookmark_categorized_in_collection_with_tags_format">
+        <item quantity="one">Marcador classificado automaticamente em %1$s com tag %2$d</item>
+        <item quantity="other">Marcador classificado automaticamente em %1$s com tags %2$d</item>
+        <item quantity="many">Marcador classificado automaticamente em %1$s com tags %2$d</item>
+    </plurals>
+    <plurals name="bookmark_categorized_with_tags_format">
+        <item quantity="one">Marcador classificado automaticamente com tag %d</item>
+        <item quantity="other">Marcador classificado automaticamente com %d tags</item>
+        <item quantity="many">Marcador classificado automaticamente com %d tags</item>
+    </plurals>
+
+    <string-array name="bookmark_conditions_field_array_translation">
+        <item>Título</item>
+        <item>URL</item>
+        <item>Domínio</item>
+        <item>Descrição</item>
+        <item>Nome da coleção</item>
+        <item>Título da nota</item>
+        <item>Conteúdo da nota</item>
+        <item>Etiquetas</item>
+        <item>Status</item>
+        <item>Coleção</item>
+        <item>Contagem aberta</item>
+        <item>Na coleção</item>
+        <item>Marcado</item>
+        <item>Favoritos</item>
+        <item>Fixado</item>
+        <item>Dinâmico</item>
+        <item>Arquivado</item>
+        <item>Escondido</item>
+        <item>Tem imagem</item>
+        <item>Tem favicon</item>
+        <item>Data da última abertura</item>
+        <item>Data de criação</item>
+        <item>Data da última modificação</item>
+    </string-array>
+    <string-array name="bookmark_conditions_text_condition_array_translation">
+        <item>contém</item>
+        <item>começa com</item>
+        <item>termina com</item>
+        <item>é igual</item>
+        <item>não é igual</item>
+        <item>nulo</item>
+        <item>não nulo</item>
+    </string-array>
+    <string-array name="bookmark_conditions_date_condition_array_translation">
+        <item>dentro do último</item>
+        <item>sobre</item>
+        <item>antes</item>
+        <item>depois</item>
+        <item>hoje</item>
+        <item>ontem</item>
+        <item>este mês</item>
+        <item>este ano</item>
+    </string-array>
+    <string-array name="bookmark_conditions_within_last_array_translation">
+        <item>dias</item>
+        <item>semanas</item>
+        <item>meses</item>
+        <item>anos</item>
+    </string-array>
+    <string-array name="default_status_array_translation">
+        <item>Status Ativo</item>
+        <item>Ler status</item>
+        <item>Status do progresso</item>
+        <item>Status de progresso alternativo</item>
+    </string-array>
+    <string-array name="bookmark_conditions_entity_condition_array_translation">
+        <item>qualquer</item>
+        <item>todos</item>
+        <item>é igual</item>
+        <item>não é igual</item>
+        <item>nulo</item>
+        <item>não nulo</item>
+    </string-array>
+    <string-array name="bookmark_conditions_number_condition_array_translation">
+        <item>maior que</item>
+        <item>maior ou igual</item>
+        <item>é igual</item>
+        <item>não é igual</item>
+        <item>menor que</item>
+        <item>menor ou igual</item>
+        <item>entre</item>
+    </string-array>
+    <string-array name="bookmark_conditions_boolean_condition_array_translation">
+        <item>verdadeiro</item>
+        <item>falso</item>
+        <item>ambos</item>
+    </string-array>
+</resources>
