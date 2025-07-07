@@ -1,4 +1,6 @@
 # Changelog
+### Version 1.2.9 - June 29, 2025
+- Bug fixes and other improvements
 ### Version 1.2.8 - June 20, 2025
 - Added linked bookmarks feature to create connections between related bookmarks
 - Added more translations - Čeština, Dansk, Suomi, 한국어, Slovenčina, and Українська

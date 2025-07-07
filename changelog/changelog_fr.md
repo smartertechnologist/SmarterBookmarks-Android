@@ -1,4 +1,6 @@
 # Journal des modifications
+### Version 1.2.9 - 29 juin 2025
+- Corrections de bugs et autres améliorations
 ### Version 1.2.8 - 20 juin 2025
 - Ajout de la fonctionnalité de liens entre signets pour créer des liens entre signets apparentés
 - Ajout de nouvelles traductions : Čeština, Dansk, Suomi, 한국어, Slovenčina et Ukrainka
