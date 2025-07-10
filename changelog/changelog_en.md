@@ -1,4 +1,7 @@
 # Changelog
+### Version 1.3.0 - July 10, 2025
+- New: Added Dropbox as a cloud sync provider alongside Google Drive
+- Fixed: Various bug fixes and performance improvements
 ### Version 1.2.9 - June 29, 2025
 - Bug fixes and other improvements
 ### Version 1.2.8 - June 20, 2025

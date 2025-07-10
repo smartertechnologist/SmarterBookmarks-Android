@@ -1,4 +1,7 @@
 # Journal des modifications
+### Version 1.3.0 - 10 juillet 2025
+- Nouveauté : Ajout de Dropbox comme fournisseur de synchronisation cloud aux côtés de Google Drive
+- Corrections : Corrections de bugs et améliorations de performances
 ### Version 1.2.9 - 29 juin 2025
 - Corrections de bugs et autres améliorations
 ### Version 1.2.8 - 20 juin 2025
