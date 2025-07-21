@@ -1,4 +1,10 @@
 # Changelog
+### Version 1.3.1 - July 21, 2025
+- New: Added custom sort
+- New: Drag and drop to reorder items in custom sort mode
+- New: Reset custom sort to any sort type with advanced options (Pro)
+- Improved UI with menu improvements
+- Fixed: Share and Copy action mode menu for bookmarks in the Collections tab
 ### Version 1.3.0 - July 10, 2025
 - New: Added Dropbox as a cloud sync provider alongside Google Drive
 - Fixed: Various bug fixes and performance improvements

@@ -1,4 +1,10 @@
 # Journal des modifications
+### Version 1.3.1 - 21 juillet 2025
+- Nouveauté : Ajout du tri personnalisé
+- Nouveauté : Réorganiser les éléments par glisser-déposer en mode tri personnalisé
+- Nouveauté : Réinitialiser le tri personnalisé à n'importe quel type avec options avancées (Pro)
+- Interface utilisateur améliorée avec améliorations du menu
+- Correction : Menu du mode d'action Partager et Copier pour les signets dans l'onglet Collections
 ### Version 1.3.0 - 10 juillet 2025
 - Nouveauté : Ajout de Dropbox comme fournisseur de synchronisation cloud aux côtés de Google Drive
 - Corrections : Corrections de bugs et améliorations de performances
