@@ -1,4 +1,6 @@
 # Journal des modifications
+### Version 1.3.2 - 25 juillet 2025
+- Correction d'un problème où les exportations HTML avaient « 0 » comme titre
 ### Version 1.3.1 - 21 juillet 2025
 - Nouveauté : Ajout du tri personnalisé
 - Nouveauté : Réorganiser les éléments par glisser-déposer en mode tri personnalisé

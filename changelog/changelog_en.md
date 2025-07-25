@@ -1,4 +1,6 @@
 # Changelog
+### Version 1.3.2 - July 25, 2025
+- Fixed an issue where HTML exports had '0' as the title
 ### Version 1.3.1 - July 21, 2025
 - New: Added custom sort
 - New: Drag and drop to reorder items in custom sort mode
