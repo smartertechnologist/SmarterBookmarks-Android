@@ -1,4 +1,8 @@
 # Changelog
+### Version 1.3.3 - August 5, 2025
+- New: AI Assistant (Smartie) - Chat with AI to search, organize, and manage bookmarks naturally. Includes Ask and Agent (Pro) modes
+- Improved App UI with refreshed icons, clearer empty state messages, and enhanced visual design
+- Enhanced AI features with expanded model support (Gemini 2.0 Flash-Lite, 2.5 Flash-Lite, 2.5 Flash, 2.5 Pro), customizable summarization options, and usage statistics tracking
 ### Version 1.3.2 - July 25, 2025
 - Fixed an issue where HTML exports had '0' as the title
 ### Version 1.3.1 - July 21, 2025

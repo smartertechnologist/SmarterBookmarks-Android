@@ -1,4 +1,8 @@
 # Journal des modifications
+### Version 1.3.3 - 5 août 2025
+- Nouveau : Assistant IA (Smartie) - Discutez avec l'IA pour rechercher, organiser et gérer vos favoris naturellement. Inclut les modes Demander et Agent (Pro)
+- Interface utilisateur améliorée avec des icônes actualisées, des messages d'état vides plus clairs et un design visuel optimisé
+- Fonctionnalités IA améliorées avec prise en charge étendue des modèles (Gemini 2.0 Flash-Lite, 2.5 Flash-Lite, 2.5 Flash, 2.5 Pro), options de résumé personnalisables et suivi des statistiques d'utilisation
 ### Version 1.3.2 - 25 juillet 2025
 - Correction d'un problème où les exportations HTML avaient « 0 » comme titre
 ### Version 1.3.1 - 21 juillet 2025
