@@ -1,4 +1,9 @@
 # Changelog
+### Version 1.3.4 - August 31, 2025
+- Pro: Page Bookmarks - Save specific positions within web pages for quick navigation and reference
+- Enhanced Article Reader with font styles and sizes
+- New AMOLED dark mode for true black backgrounds
+- Improved UI consistency and interface elements
 ### Version 1.3.3 - August 5, 2025
 - New: AI Assistant (Smartie) - Chat with AI to search, organize, and manage bookmarks naturally. Includes Ask and Agent (Pro) modes
 - Improved App UI with refreshed icons, clearer empty state messages, and enhanced visual design

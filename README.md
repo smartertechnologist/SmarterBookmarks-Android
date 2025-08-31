@@ -21,6 +21,8 @@ It is an advanced bookmark manager that lets you quickly save any digital conten
 - Organise bookmarks in nested collections
 - Save new bookmarks automatically (a pre-defined collection) or manually
 - Organize your bookmarks using Dashboard widgets for quicker access
+- Scan QR codes to add bookmarks instantly
+- Group bookmarks by domain and date created
 
 ### Add metadata to your bookmarks
 
@@ -32,6 +34,8 @@ It is an advanced bookmark manager that lets you quickly save any digital conten
 - Define states for your bookmarks for example *UNREAD/READ*, *PENDING/IN PROGRESS/DONE*, etc
 - Option to set [dynamic bookmarks](pages/DYNAMIC.md) that auto-update based on specified criteria
 - Option to set bookmark expiry
+- Custom bookmark images and favicon support
+- Track usage statistics (opened count, last used date)
 
 ### Manage your data
 
@@ -42,6 +46,8 @@ It is an advanced bookmark manager that lets you quickly save any digital conten
 - Export bookmarks to external apps or services
 - Multiple view options
 - AI categorization & summarization of bookmarks
+- Regular automated backups
+- Export/import app settings
 
 ### Share & collaborate
 
@@ -51,6 +57,7 @@ It is an advanced bookmark manager that lets you quickly save any digital conten
 - Open bookmarks in a floating bubble
 - Add bookmarks to your home screen
 - Add collections to your home screen as shortcuts or widgets
+- Web interface for adding bookmarks from desktop
 
 ### Private & personal
   
@@ -61,21 +68,29 @@ It is an advanced bookmark manager that lets you quickly save any digital conten
 - Dark mode support
 - Optional cloud sync to Google Drive
 - Material Design 3 theme
+- AMOLED theme support
 - No ads
 
 ## Pro features
 
 - [Connect to PC](pages/PC.md)
+- AI Agent Mode
 - [Smart Collections](pages/SMART.md)
 - [Locked Collections](pages/LOCKED.md)
 - Custom Pagination
+- Linked Bookmarks
 - Reminders
 - Expiring Bookmark Notifications
 - Custom Bookmark Status
 - Unlimited Floating Bubbles
-- Premium Dashboard widgets
+- Premium Dashboard Widgets
 - Unlimited Saved Searches
+- Unlimited Highlights and Annotations
+- Content Search
+- Advanced Custom Sort
+- Page Bookmarks
 - Trash/Restore
+- Regular Backups (Coming Soon)
 
 ## Join Our Community
 

@@ -1,4 +1,9 @@
 # Journal des modifications
+### Version 1.3.4 - 31 août 2025
+- Avantages : Signets de page - Enregistrez des positions spécifiques dans les pages web pour une navigation et une consultation rapides
+- Lecteur d'articles amélioré avec styles et tailles de police
+- Nouveau mode sombre AMOLED pour des arrière-plans noirs
+- Amélioration de la cohérence et des éléments de l'interface utilisateur
 ### Version 1.3.3 - 5 août 2025
 - Nouveau : Assistant IA (Smartie) - Discutez avec l'IA pour rechercher, organiser et gérer vos favoris naturellement. Inclut les modes Demander et Agent (Pro)
 - Interface utilisateur améliorée avec des icônes actualisées, des messages d'état vides plus clairs et un design visuel optimisé
