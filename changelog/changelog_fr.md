@@ -1,4 +1,12 @@
 # Journal des modifications
+### Version 1.3.5 - 19 septembre 2025
+- Paramètres : Remplacements par signet pour les clics et les sélections de navigateur
+- Navigation : Option « Retourner deux fois pour quitter » pour éviter toute fermeture accidentelle de l'application
+- Affichage : Prise en charge des découpes d'affichage (encoches) en mode paysage
+- Interface utilisateur : Option pour limiter l'extension de l'arborescence à un élément par niveau
+- Paramètres : Réorganisation avec un nouvel onglet « Collections » et une catégorisation améliorée
+- Assistance : Nouvel écran d'assistance avec dons optionnels via Google Play Billing
+- Collections : Suppression configurable avec interface utilisateur intelligente et comptage des signets
 ### Version 1.3.4 - 31 août 2025
 - Avantages : Signets de page - Enregistrez des positions spécifiques dans les pages web pour une navigation et une consultation rapides
 - Lecteur d'articles amélioré avec styles et tailles de police

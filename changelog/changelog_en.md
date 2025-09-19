@@ -1,4 +1,12 @@
 # Changelog
+### Version 1.3.5 - September 19, 2025
+- Settings: Per-bookmark overrides for click action and browser selection
+- Navigation: Optional "back twice to exit" to prevent accidental app closure
+- Display: Support for display cutouts (notches) in landscape mode
+- UI: Option to limit tree expansion to one item per level
+- Settings: Reorganized with new Collections tab and improved categorization
+- Support: New Support screen with optional donations via Google Play Billing
+- Collections: Configurable deletion behavior with smart UI and bookmark counts
 ### Version 1.3.4 - August 31, 2025
 - Pro: Page Bookmarks - Save specific positions within web pages for quick navigation and reference
 - Enhanced Article Reader with font styles and sizes
