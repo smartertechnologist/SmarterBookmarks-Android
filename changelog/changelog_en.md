@@ -1,4 +1,11 @@
 # Changelog
+### Version 1.3.6 - October 17, 2025
+- Smart Collections: Fixed editing issue where collection field shows blank instead of previously selected collection
+- Smart Collections: Prevent creating smart collections inside other smart collections to avoid circular dependencies
+- Smart Collections: Add smart collection rule for cross-linked bookmarks (incoming or outgoing links)
+- Linked Bookmarks: Add nested relationships feature (Pro) to display unlimited relationship depth
+- Search: Restore saved search terms in the search bar when loading saved searches
+- Translations: Improved German and Japanese translations with 100+ corrections
 ### Version 1.3.5 - September 19, 2025
 - Settings: Per-bookmark overrides for click action and browser selection
 - Navigation: Optional "back twice to exit" to prevent accidental app closure

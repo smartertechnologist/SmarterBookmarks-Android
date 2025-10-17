@@ -1,4 +1,11 @@
 # Journal des modifications
+### Version 1.3.6 - 17 octobre 2025
+- Collections intelligentes : correction d'un problème d'édition où le champ de collection s'affiche vide au lieu de la collection précédemment sélectionnée
+- Collections intelligentes : empêchez la création de collections intelligentes dans d'autres collections intelligentes pour éviter les dépendances circulaires
+- Collections intelligentes : ajoutez une règle de collection intelligente pour les signets croisés (liens entrants ou sortants)
+- Signets liés : ajoutez une fonctionnalité de relations imbriquées (Pro) pour afficher une profondeur de relation illimitée
+- Recherche : restaurez les termes de recherche enregistrés dans la barre de recherche lors du chargement des recherches enregistrées
+- Traductions : traductions allemandes et japonaises améliorées avec plus de 100 corrections
 ### Version 1.3.5 - 19 septembre 2025
 - Paramètres : Remplacements par signet pour les clics et les sélections de navigateur
 - Navigation : Option « Retourner deux fois pour quitter » pour éviter toute fermeture accidentelle de l'application
