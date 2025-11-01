@@ -1,4 +1,10 @@
 # Journal des modifications
+### Version 1.3.7 – 2 novembre 2025
+- Collections intelligentes : Filtres améliorés avec prise en charge des expressions régulières, opérateurs de négation (ne contient pas, ne commence pas par, ne se termine pas par) et correspondance collection/sous-collection.
+- Import/Export : Correction des problèmes d’importation JSON et HTML, ajout d’une option de sauvegarde de base de données ZIP pour une restauration complète des données.
+- Collections : Ajout d’une fonctionnalité copier-coller pour dupliquer les collections sans les déplacer.
+- Récupération des métadonnées : Extraction des métadonnées améliorée pour les sites web problématiques grâce à l’utilisation de WebView.
+- Interface utilisateur : Correction du problème d’affichage des boutons d’action de date d’expiration sur les petits écrans.
 ### Version 1.3.6 - 17 octobre 2025
 - Collections intelligentes : correction d'un problème d'édition où le champ de collection s'affiche vide au lieu de la collection précédemment sélectionnée
 - Collections intelligentes : empêchez la création de collections intelligentes dans d'autres collections intelligentes pour éviter les dépendances circulaires
