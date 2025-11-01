@@ -3,7 +3,7 @@
 - Smart Collections: Enhanced filters with regex support, negation operators (not contains, not starts with, not ends with), and collection/subcollection matching
 - Import/Export: Fixed JSON and HTML import issues, added ZIP database backup option for complete data restoration
 - Collections: Added copy and paste functionality to duplicate collections without moving them
-- Metadata Retrieval: Improved metadata extraction for problematic websites using WebView fallback
+- Metadata Retrieval: Improved metadata extraction for some websites
 - UI: Fixed expiration date action buttons being cut off on small screens
 ### Version 1.3.6 - October 17, 2025
 - Smart Collections: Fixed editing issue where collection field shows blank instead of previously selected collection
