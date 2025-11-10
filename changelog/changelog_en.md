@@ -1,4 +1,14 @@
 # Changelog
+### Version 1.4.0 – November 9, 2025
+- Regular Backups (Pro): Automatically backup your bookmarks at scheduled intervals with support for multiple formats (ZIP, JSON, HTML, Text, CSV) and configurable retention policies
+- UI: All dialogs converted to modern bottom sheet components with swipe-to-dismiss functionality for a better mobile experience
+- ZIP Backup/Restore: Fixed note formatting loss - newlines in note titles and bodies now preserved correctly
+- Collection Icons: Added Material Symbols support for collection icons and organized Material Icons by category with expand/collapse options and preference persistence
+- Collections: Collection names support configurable line display options (Brief, Short, Long) via menu settings
+- Tags: Fixed tag preselection when editing bookmarks or notes
+- Smart Collections: Fixed crash and missing collection name when editing rules with "Collection or subcollection" field
+- Sources: Fixed Google Drive sync file download issue
+- Share: Fixed share dialog mixing up title and URL content
 ### Version 1.3.7 – November 2, 2025
 - Smart Collections: Enhanced filters with regex support, negation operators (not contains, not starts with, not ends with), and collection/subcollection matching
 - Import/Export: Fixed JSON and HTML import issues, added ZIP database backup option for complete data restoration

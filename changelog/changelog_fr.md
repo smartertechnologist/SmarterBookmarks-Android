@@ -1,4 +1,14 @@
 # Journal des modifications
+### Version 1.4.0 – 9 novembre 2025
+- Sauvegardes régulières (Pro) : Sauvegardez automatiquement vos favoris à intervalles réguliers. Prise en charge de plusieurs formats (ZIP, JSON, HTML, Texte, CSV) et politiques de conservation configurables.
+- Interface utilisateur : Toutes les boîtes de dialogue ont été modernisées avec des composants en bas de l’écran et la possibilité de les fermer par glissement pour une meilleure expérience mobile.
+- Sauvegarde/Restauration ZIP : Correction de la perte de formatage des notes : les sauts de ligne dans les titres et le corps des notes sont désormais correctement conservés.
+- Icônes de collection : Ajout de la prise en charge des symboles Material pour les icônes de collection et organisation de ces icônes par catégorie avec options de développement/réduction et conservation des préférences.
+- Collections : Les noms de collection prennent en charge des options d’affichage configurables (Bref, Court, Long) via les paramètres du menu.
+- Étiquettes : Correction de la présélection des étiquettes lors de la modification des favoris ou des notes.
+- Collections intelligentes : Correction d’un plantage et de l’affichage du nom de collection manquant lors de la modification des règles avec le champ « Collection ou sous-collection ».
+- Sources : Correction d’un problème de téléchargement de fichiers synchronisés avec Google Drive.
+- Partage : Correction de l’affichage de la boîte de dialogue de partage qui mélangeait le titre et l’URL.
 ### Version 1.3.7 – 2 novembre 2025
 - Collections intelligentes : Filtres améliorés avec prise en charge des expressions régulières, opérateurs de négation (ne contient pas, ne commence pas par, ne se termine pas par) et correspondance collection/sous-collection.
 - Import/Export : Correction des problèmes d’importation JSON et HTML, ajout d’une option de sauvegarde de base de données ZIP pour une restauration complète des données.
