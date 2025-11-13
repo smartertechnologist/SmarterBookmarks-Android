@@ -1,4 +1,8 @@
 # Changelog
+### Version 1.4.1 – November 13, 2025
+- Trash: Improved performance and fixed crashes with large datasets, added pagination and loading indicators
+- Fixed multiple URL sharing from other apps
+- Improved app stability and performance
 ### Version 1.4.0 – November 9, 2025
 - Regular Backups (Pro): Automatically backup your bookmarks at scheduled intervals with support for multiple formats (ZIP, JSON, HTML, Text, CSV) and configurable retention policies
 - UI: All dialogs converted to modern bottom sheet components with swipe-to-dismiss functionality for a better mobile experience

@@ -1,4 +1,8 @@
 # Journal des modifications
+### Version 1.4.1 – 13 novembre 2025
+- Corbeille : Performances améliorées et correction des plantages avec les grands ensembles de données, ajout de la pagination et d’indicateurs de chargement
+- Correction du partage multiple d’URL depuis d’autres applications
+- Stabilité et performances de l’application améliorées
 ### Version 1.4.0 – 9 novembre 2025
 - Sauvegardes régulières (Pro) : Sauvegardez automatiquement vos favoris à intervalles réguliers. Prise en charge de plusieurs formats (ZIP, JSON, HTML, Texte, CSV) et politiques de conservation configurables.
 - Interface utilisateur : Toutes les boîtes de dialogue ont été modernisées avec des composants en bas de l’écran et la possibilité de les fermer par glissement pour une meilleure expérience mobile.
