@@ -1,4 +1,10 @@
 # Changelog
+### Version 1.4.2 – November 22, 2025
+- Bookmark Health Monitoring (Pro): Automatically check bookmark accessibility and detect broken links with visual status indicators, WiFi-only option, and configurable frequency
+- Tabbed Browsing (Beta): Multiple tabs support in WebView for better navigation and browsing experience. (Enable this feature in Behavior Settings to get started.)
+- Bookmark Templates: Create reusable templates with pre-filled tags, collections, and statuses for quick bookmark creation. (Enable this feature in Bookmark Settings to get started.)
+- BROKEN Filter: Filter bookmarks by health status in Smart Collections and Search Filters, with health status preserved during export/import
+- Performance improvements and stability enhancements
 ### Version 1.4.1 – November 13, 2025
 - Trash: Improved performance and fixed crashes with large datasets, added pagination and loading indicators
 - Fixed multiple URL sharing from other apps

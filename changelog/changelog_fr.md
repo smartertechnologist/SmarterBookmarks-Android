@@ -1,4 +1,10 @@
 # Journal des modifications
+### Version 1.4.2 – 22 novembre 2025
+- Surveillance de l'état des signets (Pro) : Vérifie automatiquement l'accessibilité des signets et détecte les liens brisés grâce à des indicateurs visuels, une option Wi-Fi uniquement et une fréquence configurable.
+- Navigation par onglets (bêta) : Prise en charge de plusieurs onglets dans WebView pour une navigation et une expérience de navigation améliorées. (Activez cette fonctionnalité dans les Paramètres de Comportement pour commencer.)
+- Modèles de signets : Créez des modèles réutilisables avec des étiquettes, des collections et des statuts préremplis pour une création de signets rapide. (Activez cette fonctionnalité dans les Paramètres de Signets pour commencer.)
+- Filtre BROKEN : Filtrez les signets par état de santé dans les collections intelligentes et les filtres de recherche, en conservant cet état lors de l'exportation/importation
+- Améliorations des performances et de la stabilité
 ### Version 1.4.1 – 13 novembre 2025
 - Corbeille : Performances améliorées et correction des plantages avec les grands ensembles de données, ajout de la pagination et d’indicateurs de chargement
 - Correction du partage multiple d’URL depuis d’autres applications
