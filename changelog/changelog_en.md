@@ -1,4 +1,9 @@
 # Changelog
+### Version 1.4.3 – December 2, 2025
+- Smart Collections: Added OR logic, NOT conditions, and rule grouping for more powerful and flexible smart collection rules
+- Collection Name Matching: New rule option to match collections by name or subcollection name, making smart collections resilient when collections are deleted and recreated
+- Fixed grid mode freezing and performance issues in collections - grid view is now fluid and responsive
+- In-App Browser: Added landscape orientation support for fullscreen videos and improved web page loading with better error handling and mixed content support
 ### Version 1.4.2 – November 22, 2025
 - Bookmark Health Monitoring (Pro): Automatically check bookmark accessibility and detect broken links with visual status indicators, WiFi-only option, and configurable frequency
 - Tabbed Browsing (Beta): Multiple tabs support in WebView for better navigation and browsing experience. (Enable this feature in Behavior Settings to get started.)

@@ -1,4 +1,9 @@
 # Journal des modifications
+### Version 1.4.3 – 2 décembre 2025
+- Collections intelligentes : Ajout de la logique OU, des conditions NON et du regroupement de règles pour des règles de collections intelligentes plus puissantes et flexibles.
+- Correspondance des noms de collection : Nouvelle option de règle permettant de faire correspondre les collections par nom ou nom de sous-collection, ce qui rend les collections intelligentes résilientes lorsqu'elles sont supprimées et recréées.
+- Correction des problèmes de blocage et de performance en mode grille dans les collections : l'affichage en grille est désormais fluide et réactif.
+- Navigateur intégré : Ajout de la prise en charge de l'orientation paysage pour les vidéos en plein écran et amélioration du chargement des pages Web grâce à une meilleure gestion des erreurs et à la prise en charge du contenu mixte.
 ### Version 1.4.2 – 22 novembre 2025
 - Surveillance de l'état des signets (Pro) : Vérifie automatiquement l'accessibilité des signets et détecte les liens brisés grâce à des indicateurs visuels, une option Wi-Fi uniquement et une fréquence configurable.
 - Navigation par onglets (bêta) : Prise en charge de plusieurs onglets dans WebView pour une navigation et une expérience de navigation améliorées. (Activez cette fonctionnalité dans les Paramètres de Comportement pour commencer.)
