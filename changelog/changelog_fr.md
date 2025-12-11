@@ -1,7 +1,9 @@
 # Journal des modifications
 ### Version 1.4.4 – 11 décembre 2025
-- Exportation de collections : Ajout d'une fonctionnalité d'exportation des collections compatible avec les formats HTML, JSON, TXT et CSV. Les exportations incluent toutes les collections imbriquées et peuvent être partagées ou enregistrées.
-- Correction d'un problème d'importation de fichiers SQL : les notes contenant des requêtes SQL avec des sauts de ligne finaux ne s'importaient pas correctement à partir des exportations ZIP.
+- Exportation de collections : Ajout d'une fonctionnalité d'exportation pour les collections, compatible avec les formats HTML, JSON, TXT et CSV. Les exportations incluent toutes les collections imbriquées et peuvent être partagées ou enregistrées.
+- Exportation de collections : Les collections intelligentes exportent désormais tous les signets correspondants selon leurs règles lors du partage ou de l'exportation.
+- Exportation de collections : Les images personnalisées des signets sont désormais incluses dans les exportations HTML et JSON sous forme de chaînes encodées en base64.
+- Correction d'un problème d'importation de fichiers SQL : les notes contenant du code SQL avec des sauts de ligne finaux ne s'importaient pas correctement à partir des exportations ZIP.
 ### Version 1.4.3 – 2 décembre 2025
 - Collections intelligentes : Ajout de la logique OU, des conditions NON et du regroupement de règles pour des règles de collections intelligentes plus puissantes et flexibles.
 - Correspondance des noms de collection : Nouvelle option de règle permettant de faire correspondre les collections par nom ou nom de sous-collection, ce qui rend les collections intelligentes résilientes lorsqu'elles sont supprimées et recréées.
