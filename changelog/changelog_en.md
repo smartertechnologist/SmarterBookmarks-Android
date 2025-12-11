@@ -1,4 +1,7 @@
 # Changelog
+### Version 1.4.4 – December 11, 2025
+- Collection Export: Added export functionality for collections with support for HTML, JSON, TXT, and CSV formats. Exports include all nested collections and can be shared or saved to a location
+- Fixed SQL dump import issue where notes with SQL content containing trailing newlines failed to import correctly from ZIP exports
 ### Version 1.4.3 – December 2, 2025
 - Smart Collections: Added OR logic, NOT conditions, and rule grouping for more powerful and flexible smart collection rules
 - Collection Name Matching: New rule option to match collections by name or subcollection name, making smart collections resilient when collections are deleted and recreated
