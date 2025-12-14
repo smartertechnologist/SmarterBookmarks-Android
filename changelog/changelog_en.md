@@ -1,4 +1,10 @@
 # Changelog
+### Version 1.4.5 – December 15, 2025
+- Cloud Sync: Added cloud storage management feature to view current storage size and reset cloud data to speed up sync operations
+- Cloud Sync: Fixed file handling issues on Android 16 (API 36) for improved reliability
+- Cloud Sync: Optimized memory usage during backup and restore operations
+- PDF Export: Export collections to PDF with hierarchical structure, Unicode support, and clickable bookmark URLs
+- Export/Import: Fixed SQL export/import issue with URLs containing special characters (commas, parentheses, newlines) by using URL encoding
 ### Version 1.4.4 – December 11, 2025
 - Collection Export: Added export functionality for collections with support for HTML, JSON, TXT, and CSV formats. Exports include all nested collections and can be shared or saved to a location
 - Collection Export: Smart collections now export all matching bookmarks based on their rules when sharing or exporting

@@ -1,4 +1,10 @@
 # Journal des modifications
+### Version 1.4.5 – 15 décembre 2025
+- Synchronisation cloud : Ajout d’une fonctionnalité de gestion du stockage cloud permettant de visualiser la taille de stockage actuelle et de réinitialiser les données cloud afin d’accélérer les opérations de synchronisation.
+- Synchronisation cloud : Correction des problèmes de gestion des fichiers sur Android 16 (API 36) pour une fiabilité accrue.
+- Synchronisation cloud : Optimisation de l’utilisation de la mémoire lors des opérations de sauvegarde et de restauration.
+- Exportation PDF : Exportation des collections au format PDF avec une structure hiérarchique, prise en charge Unicode et URL de signets cliquables.
+- Exportation/Importation : Correction d’un problème d’exportation/importation SQL avec les URL contenant des caractères spéciaux (virgules, parenthèses, sauts de ligne) grâce à l’encodage des URL.
 ### Version 1.4.4 – 11 décembre 2025
 - Exportation de collections : Ajout d'une fonctionnalité d'exportation pour les collections, compatible avec les formats HTML, JSON, TXT et CSV. Les exportations incluent toutes les collections imbriquées et peuvent être partagées ou enregistrées.
 - Exportation de collections : Les collections intelligentes exportent désormais tous les signets correspondants selon leurs règles lors du partage ou de l'exportation.
