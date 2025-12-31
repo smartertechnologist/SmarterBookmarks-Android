@@ -1,9 +1,12 @@
 # Changelog
-### Version 1.4.6 – December 24, 2025
+### Version 1.4.6 – December 31, 2025
 - Pro: Browser Sync - Sync your bookmarks between Chrome browser extension and your Android device
 - Pro: Browser Sync - Changes sync automatically in both directions, keeping your bookmarks up to date everywhere
 - Smart Collections: Faster loading when opening folders with multiple smart collections
 - Settings: Added an option to reset the database with confirmation for safety
+- Tags: Added color support for tags with customizable chip colors and outline preferences
+- Bookmarks: Added comment field to store notes and additional information for each bookmark
+- UI: Optimized bookmark and tag rendering performance, improved tag layout with selection overlays, enhanced collection view layouts, and faster image loading
 ### Version 1.4.5 – December 15, 2025
 - Cloud Sync: Added cloud storage management feature to view current storage size and reset cloud data to speed up sync operations
 - Cloud Sync: Fixed file handling issues on Android 16 (API 36) for improved reliability

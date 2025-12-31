@@ -1,9 +1,12 @@
 # Journal des modifications
-### Version 1.4.6 – 24 décembre 2025
+### Version 1.4.6 – 31 décembre 2025
 - Pro : Synchronisation du navigateur – Synchronisez vos favoris entre l’extension Chrome et votre appareil Android.
 - Pro : Synchronisation du navigateur – Les modifications sont automatiquement synchronisées dans les deux sens, pour que vos favoris soient toujours à jour.
 - Collections intelligentes : Chargement plus rapide lors de l’ouverture de dossiers contenant plusieurs collections intelligentes.
 - Paramètres : Ajout d’une option de réinitialisation de la base de données avec confirmation pour plus de sécurité.
+- Balises : ajout de la prise en charge des couleurs pour les balises avec des couleurs de puce et des préférences de contour personnalisables
+- Signets : ajout d'un champ de commentaire pour stocker des notes et des informations supplémentaires pour chaque signet
+- Interface utilisateur : performances de rendu optimisées des signets et des balises, disposition améliorée des balises avec superpositions de sélection, présentations améliorées des vues de collection et chargement plus rapide des images.
 ### Version 1.4.5 – 15 décembre 2025
 - Synchronisation cloud : Ajout d’une fonctionnalité de gestion du stockage cloud permettant de visualiser la taille de stockage actuelle et de réinitialiser les données cloud afin d’accélérer les opérations de synchronisation.
 - Synchronisation cloud : Correction des problèmes de gestion des fichiers sur Android 16 (API 36) pour une fiabilité accrue.
