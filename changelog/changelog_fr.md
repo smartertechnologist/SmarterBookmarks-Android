@@ -1,4 +1,6 @@
 # Journal des modifications
+### Version 1.4.7 – 6 janvier 2026
+- Correction : Disparition des puces de navigation et impossibilité de cliquer sur les collections après l’actualisation des métadonnées des favoris
 ### Version 1.4.6 – 31 décembre 2025
 - Pro : Synchronisation du navigateur – Synchronisez vos favoris entre l’extension Chrome et votre appareil Android.
 - Pro : Synchronisation du navigateur – Les modifications sont automatiquement synchronisées dans les deux sens, pour que vos favoris soient toujours à jour.

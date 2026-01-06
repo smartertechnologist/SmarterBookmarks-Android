@@ -1,4 +1,6 @@
 # Changelog
+### Version 1.4.7 – January 6, 2026
+- Fixed: Navigation chips disappearing and collections becoming unclickable after refreshing bookmark metadata
 ### Version 1.4.6 – December 31, 2025
 - Pro: Browser Sync - Sync your bookmarks between Chrome browser extension and your Android device
 - Pro: Browser Sync - Changes sync automatically in both directions, keeping your bookmarks up to date everywhere
