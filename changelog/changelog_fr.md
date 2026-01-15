@@ -1,4 +1,11 @@
 # Journal des modifications
+### Version 1.4.8 – 16 janvier 2026
+- Interface utilisateur : Ajout d’une navigation en bas de l’écran, alternative aux onglets, avec une option « Plus » pour accéder à d’autres onglets.
+- Signets : Ajout de la possibilité de supprimer les images des signets depuis le menu contextuel et l’écran d’édition.
+- Articles : Amélioration de la lecture hors ligne : les articles se chargent plus rapidement et fonctionnent mieux sans connexion Internet.
+- Interface utilisateur : Amélioration du positionnement de la barre de recherche et de la visibilité de la barre d’outils.
+- Performances : Chargement plus rapide et défilement plus fluide dans toute l’application.
+- Signets : Ajout d’une option pour enregistrer automatiquement les URL résolues (destination finale après redirection).
 ### Version 1.4.7 – 6 janvier 2026
 - Correction : Disparition des puces de navigation et impossibilité de cliquer sur les collections après l’actualisation des métadonnées des favoris
 ### Version 1.4.6 – 31 décembre 2025

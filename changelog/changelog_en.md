@@ -1,4 +1,11 @@
 # Changelog
+### Version 1.4.8 – January 16, 2026
+- UI: Added bottom navigation as an alternative to tabs, with a More option for accessing additional tabs
+- Bookmarks: Added ability to remove bookmark images from the popup menu and edit screen
+- Articles: Improved offline reading support - articles load faster and work better without internet
+- UI: Improved search bar positioning and toolbar visibility
+- Performance: Faster loading and smoother scrolling throughout the app
+- Bookmarks: Added option to automatically save resolved URLs (final destination after following redirects)
 ### Version 1.4.7 – January 6, 2026
 - Fixed: Navigation chips disappearing and collections becoming unclickable after refreshing bookmark metadata
 ### Version 1.4.6 – December 31, 2025
