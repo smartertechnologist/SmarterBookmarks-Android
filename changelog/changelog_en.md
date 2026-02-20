@@ -1,7 +1,7 @@
 # Changelog
 ### Version 1.4.9 – February 20, 2026
 - Smartie: Chat in threads, add context with @ (bookmarks, collections, tags), attach images or files, stop mid-reply, and watch answers stream in. Faster, more reliable AI that uses your quota better.
-- Smartie: Choose how it behaves — Auto, Interactive, or Smart. Auto picks the best model per message, can answer simple questions directly, and manage tags, notes, and collections without extra steps. Clearer quota and error messages.
+- Smartie: Choose how it behaves — Auto, Interactive, or Smart. Manage tags, notes, and collections without extra steps. Clearer quota and error messages.
 - Smart collections: NOT on a group now works as intended, so results match the exclusion you set.
 - App icon now follows your wallpaper theme on Android 13+ (themed icons).
 - You can now set a different language for the app in Android system settings (per-app language).

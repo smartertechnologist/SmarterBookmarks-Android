@@ -1,7 +1,7 @@
 # Journal des modifications
 ### Version 1.4.9 – 20 février 2026
 - Smartie : Discutez en fils, ajoutez du contexte avec @ (favoris, dossiers, tags), joignez des images ou fichiers, arrêtez en cours de réponse et voyez les réponses s'afficher en direct. IA plus rapide et fiable, meilleure utilisation de votre quota.
-- Smartie : Choisissez son comportement — Auto, Interactif ou Smart. Auto choisit le meilleur modèle par message, peut répondre directement aux questions simples et gérer tags, notes et dossiers sans étapes supplémentaires. Messages de quota et d'erreur plus clairs.
+- Smartie : Choisissez son comportement — Auto, Interactif ou Smart. Gérez tags, notes et dossiers sans étapes supplémentaires. Messages de quota et d'erreur plus clairs.
 - Collections intelligentes : NOT sur un groupe fonctionne désormais correctement, les résultats correspondent à l'exclusion définie.
 - L'icône de l'app suit le thème de votre fond d'écran sur Android 13+ (icônes thématiques).
 - Vous pouvez maintenant définir une langue différente pour l'app dans les paramètres système Android (langue par application).
