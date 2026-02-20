@@ -1,11 +1,10 @@
 # Changelog
 ### Version 1.4.9 – February 20, 2026
-- Smartie: Major AI upgrade — native function calling for faster conversations and reliable execution of all 40+ app actions. Each message uses far fewer tokens, so your quota lasts much longer
-- Smartie: Chat threads — start new conversations, switch between them, rename or delete; each thread keeps its own history
-- Smartie: Give context with @ (bookmarks, collections, tags); attach images or any file; stop mid-response; watch replies stream in as they're generated
-- Smartie: Interactive Style (Auto / Interactive / Smart) and Auto model — picks the best model per message, can answer simple questions directly, clearer quota and error messages
-- Smartie: Hands-free in Auto mode — manage tags, notes, sources, and collections silently; smarter, faster tag generation for bookmarks
-- Smart collections: Fixed Group Rule so the NOT operator on a group is applied correctly; results now match the intended exclusion
+- Smartie: Chat in threads, add context with @ (bookmarks, collections, tags), attach images or files, stop mid-reply, and watch answers stream in. Faster, more reliable AI that uses your quota better.
+- Smartie: Choose how it behaves — Auto, Interactive, or Smart. Auto picks the best model per message, can answer simple questions directly, and manage tags, notes, and collections without extra steps. Clearer quota and error messages.
+- Smart collections: NOT on a group now works as intended, so results match the exclusion you set.
+- App icon now follows your wallpaper theme on Android 13+ (themed icons).
+- You can now set a different language for the app in Android system settings (per-app language).
 ### Version 1.4.8 – January 16, 2026
 - UI: Added bottom navigation as an alternative to tabs, with a More option for accessing additional tabs
 - Bookmarks: Added ability to remove bookmark images from the popup menu and edit screen

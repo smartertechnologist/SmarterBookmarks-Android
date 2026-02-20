@@ -1,11 +1,10 @@
 # Journal des modifications
 ### Version 1.4.9 – 20 février 2026
-- Smartie : Mise à jour majeure de l’IA — appel de fonctions natif pour des conversations plus rapides et l’exécution fiable de plus de 40 actions. Chaque message utilise beaucoup moins de jetons, votre quota dure plus longtemps.
-- Smartie : Fils de discussion — démarrez de nouvelles conversations, passez de l’un à l’autre, renommez ou supprimez ; chaque fil conserve son propre historique.
-- Smartie : Donnez du contexte avec @ (favoris, dossiers, tags) ; joignez images ou tout fichier ; arrêtez en cours ; voyez les réponses s’afficher en direct.
-- Smartie : Style interactif (Auto / Interactif / Smart) et modèle Auto — choisit le meilleur modèle par message, répond aux questions simples directement, messages de quota et d’erreur plus clairs.
-- Smartie : En mode Auto sans confirmation — gérer tags, notes, sources et dossiers en silence ; génération de tags plus rapide et plus maligne pour les favoris.
-- Collections intelligentes : règle de groupe corrigée pour que l’opérateur NOT s’applique correctement au groupe ; les résultats correspondent à l’exclusion voulue.
+- Smartie : Discutez en fils, ajoutez du contexte avec @ (favoris, dossiers, tags), joignez des images ou fichiers, arrêtez en cours de réponse et voyez les réponses s'afficher en direct. IA plus rapide et fiable, meilleure utilisation de votre quota.
+- Smartie : Choisissez son comportement — Auto, Interactif ou Smart. Auto choisit le meilleur modèle par message, peut répondre directement aux questions simples et gérer tags, notes et dossiers sans étapes supplémentaires. Messages de quota et d'erreur plus clairs.
+- Collections intelligentes : NOT sur un groupe fonctionne désormais correctement, les résultats correspondent à l'exclusion définie.
+- L'icône de l'app suit le thème de votre fond d'écran sur Android 13+ (icônes thématiques).
+- Vous pouvez maintenant définir une langue différente pour l'app dans les paramètres système Android (langue par application).
 ### Version 1.4.8 – 16 janvier 2026
 - Interface utilisateur : Ajout d’une navigation en bas de l’écran, alternative aux onglets, avec une option « Plus » pour accéder à d’autres onglets.
 - Signets : Ajout de la possibilité de supprimer les images des signets depuis le menu contextuel et l’écran d’édition.
