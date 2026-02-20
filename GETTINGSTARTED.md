@@ -54,17 +54,17 @@ Efficiently find your bookmarks:
 
 ## Syncing Across Devices
 
-Access your bookmarks from any Android device:
+Access your bookmarks from any Android device or desktop:
 
-1. Ensure you are logged in to the same Google account on all devices.
-2. Enable cloud syncing in the app settings.
+1. **Cloud sync:** Ensure you are logged in to the same Google account on all devices and enable cloud syncing in the app settings.
+2. **Browser Sync (Pro):** Sync bookmarks between the SmarterBookmarks Chrome extension and your Android device; changes sync automatically in both directions.
 
 ## Settings
 
 Explore additional features and customize your experience:
 
-1. Access the settings menu.
-2. Adjust preferences such as theme, security settings, AI classification, behavior, etc.
+1. Access the settings menu (e.g. from the More tab or the settings icon).
+2. Adjust preferences in categories such as Cloud Sync, Browser Sync, Database, Security, Search, Behavior, Appearance, AI Features (Smartie), Collections, Bookmarks, Notes, Support, Language, and About.
 
 ## Troubleshooting
 
@@ -81,4 +81,4 @@ Encountering issues? Here are some tips:
 That's it! You're all set to make the most of SmarterBookmarks. Happy bookmarking!
 
 [^1]: You can also add bookmarks by sharing links from other apps or by importing them via HTML exports from browsers
-[^2]: Bookmark info includes adding as a favorite, adding tags, adding to a collection, setting a status, configuring how to auto-refresh bookmark metadata, adding a reminder (Pro feature), and setting a bookmark as [dynamic](pages/DYNAMIC.md).
+[^2]: Bookmark info includes adding as a favorite, adding tags, adding to a collection, setting a status, adding a comment, applying a template (Pro), configuring how to auto-refresh bookmark metadata, adding a reminder (Pro feature), and setting a bookmark as [dynamic](pages/DYNAMIC.md).

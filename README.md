@@ -21,21 +21,26 @@ It is an advanced bookmark manager that lets you quickly save any digital conten
 - Organise bookmarks in nested collections
 - Save new bookmarks automatically (a pre-defined collection) or manually
 - Organize your bookmarks using Dashboard widgets for quicker access
+- Bottom navigation as an alternative to tabs for quick access to key areas
 - Scan QR codes to add bookmarks instantly
 - Group bookmarks by domain and date created
+- Enhanced article reader with improved offline support
 
 ### Add metadata to your bookmarks
 
-- Add notes & tags to your bookmarks
+- Add notes, tags, and a comment field to your bookmarks
 - Markdown support for notes
 - Edit bookmark title, URL & description
 - Add favorite bookmarks, notes & collections
 - Pin bookmarks, notes & collections
 - Define states for your bookmarks for example *UNREAD/READ*, *PENDING/IN PROGRESS/DONE*, etc
+- Tag colors with customizable chip colors and outline preferences
+- Bookmark templates with pre-filled tags, collections, and statuses (Pro)
 - Option to set [dynamic bookmarks](pages/DYNAMIC.md) that auto-update based on specified criteria
 - Option to set bookmark expiry
 - Custom bookmark images and favicon support
 - Track usage statistics (opened count, last used date)
+- Bookmark health monitoring: check accessibility and detect broken links (Pro)
 
 ### Manage your data
 
@@ -43,21 +48,23 @@ It is an advanced bookmark manager that lets you quickly save any digital conten
 - [Powerful search](pages/SEARCH.md), saved searches, sorting, and advanced filtering
 - Rename collections and tags easily
 - Import bookmarks from your browser
-- Export bookmarks to external apps or services
+- Export bookmarks and collections to HTML, JSON, TXT, CSV, or PDF
+- ZIP database backup and restore
 - Multiple view options
-- AI categorization & summarization of bookmarks
-- Regular automated backups
+- Smartie AI assistant with 40+ actions, chat threads, and tag generation
+- Regular automated backups (Pro)
 - Export/import app settings
 
 ### Share & collaborate
 
 - Share bookmarks and notes
-- Share collections as JSON, HTML, and TXT
+- Share collections as JSON, HTML, TXT, or CSV
+- Browser Sync: sync bookmarks between the Chrome extension and your Android device (Pro)
 - Open bookmarks in-app as well as external apps
 - Open bookmarks in a floating bubble
 - Add bookmarks to your home screen
 - Add collections to your home screen as shortcuts or widgets
-- Web interface for adding bookmarks from desktop
+- Web interface and Connect to PC for adding or managing bookmarks from desktop
 
 ### Private & personal
   
@@ -69,16 +76,22 @@ It is an advanced bookmark manager that lets you quickly save any digital conten
 - Optional cloud sync to Google Drive
 - Material Design 3 theme
 - AMOLED theme support
+- 18 languages supported
 - No ads
 
 ## Pro features
 
 - [Connect to PC](pages/PC.md)
 - AI Agent Mode
+- Smartie AI Assistant (40+ actions, chat threads, @ context, streaming, Auto model)
 - [Smart Collections](pages/SMART.md)
 - [Locked Collections](pages/LOCKED.md)
+- Browser Sync (Chrome extension)
+- Bookmark Health Monitoring
+- Tabbed Browsing (Beta)
+- Bookmark Templates
 - Custom Pagination
-- Linked Bookmarks
+- Linked Bookmarks and Nested Linked Bookmarks
 - Reminders
 - Expiring Bookmark Notifications
 - Custom Bookmark Status
@@ -90,7 +103,7 @@ It is an advanced bookmark manager that lets you quickly save any digital conten
 - Advanced Custom Sort
 - Page Bookmarks
 - Trash/Restore
-- Regular Backups (Coming Soon)
+- Regular Backups
 
 ## Join Our Community
 

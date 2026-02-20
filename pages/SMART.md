@@ -22,3 +22,17 @@ Upon creation, the new Smart Collection will appear in the list of Collections.
     <img src="../assets/4.png" alt="List with a smart collection" width="300"/>
     <img src="../assets/5.png" alt="Contents of a smart collection" width="300"/>
 </p>
+
+## Rule types and operators
+
+Smart Collections support powerful rules so you can precisely control which bookmarks appear.
+
+- **OR logic:** Match bookmarks that satisfy *any* of the rules in a group.
+- **NOT conditions:** Exclude bookmarks that match a rule or a whole group. The NOT operator on a group is applied correctly so results match the intended exclusion.
+- **Rule grouping:** Combine rules into groups and apply AND/OR/NOT at the group level for complex logic.
+- **Regex support:** Use regular expressions for URL, title, description, or domain matching.
+- **Negation operators:** "Not contains," "Not starts with," and "Not ends with" for text fields.
+- **Collection or subcollection:** Match bookmarks that are in a specific collection or any of its subcollections.
+- **Collection name matching:** Match by collection name or subcollection name, so smart collections stay valid when you rename or recreate collections.
+- **Cross-linked bookmarks:** Include bookmarks that have incoming or outgoing link relationships (Pro).
+- **Health status (BROKEN):** Filter by bookmark health so you can show only broken links, only healthy links, or both (Pro; requires Bookmark Health Monitoring).

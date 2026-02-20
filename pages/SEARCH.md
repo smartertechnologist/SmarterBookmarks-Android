@@ -27,7 +27,9 @@ The search feature allows you to filter and narrow down your results using sever
 - **Untagged**: Show bookmarks without tags.
 - **Dynamic**: Show dynamic bookmarks that automatically update their URL based on specific conditions.
 - **Non-Dynamic**: Show static bookmarks that don’t update their URL.
-- **Filters by Title, URL, Description, and Domain**: Refine your search to match any of these specific fields.
+- **Health status (Broken/Healthy)**: Filter by bookmark accessibility (Pro; requires Bookmark Health Monitoring).
+- **Expired**: Show or hide bookmarks that have passed their expiry date.
+- **Filters by Title, URL, Description, Comment, and Domain**: Refine your search to match any of these specific fields.
   
 #### Collections
 - **Search**: By default, search across **all** collections. You can refine your search by:
@@ -84,7 +86,9 @@ Let's say you're looking for bookmarks that are tagged with "python" and are als
 - Favorites/Non-Favorites
 - Pinned/Unpinned
 - Dynamic/Non-Dynamic
-- Filters by Title, URL, Description, and Domain
+- Health status (Broken/Healthy)
+- Expired
+- Filters by Title, URL, Description, Comment, and Domain
 - **AND/OR** search.
 - Advanced search options (Exact, Exclude, Regex).
 
