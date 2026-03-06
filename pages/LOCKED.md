@@ -8,6 +8,7 @@ Locked Collections let you safeguard sensitive data by requiring authentication 
 
 #### Key Features:
 - **Enhanced Privacy**: Secure specific collections without impacting others.
+- **Hidden from Views**: Bookmarks in locked collections are hidden from the main list, search, and other views so they don’t appear unless you unlock the collection.
 - **Flexible Security**: Choose between **Screen Lock** (device lock) or a custom **App PIN** for unlocking.
 - **Seamless Management**: Lock new or existing collections without disrupting your workflow.
 - **Customizable Settings**: Adjust security preferences under `Settings -> Security -> Lock Type`.

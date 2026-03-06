@@ -19,6 +19,8 @@ It is an advanced bookmark manager that lets you quickly save any digital conten
 - Create and manage bookmarks (single or batch)
 - Collect bookmarks from browsers, other apps or sources like Google Drive or RSS
 - Organise bookmarks in nested collections
+- Collection folder styles: display collections as Icon or with Featured, Showcase, or Gallery image layouts (View options > Folder style)
+- Custom collection images: set a custom image per collection from your gallery or by pasting an image URL; collections without a custom image show bookmark images as dynamic collages
 - Save new bookmarks automatically (a pre-defined collection) or manually
 - Organize your bookmarks using Dashboard widgets for quicker access
 - Bottom navigation as an alternative to tabs for quick access to key areas
