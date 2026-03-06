@@ -1,4 +1,12 @@
 # Journal des modifications
+### Version 1.5.0 – 7 mars 2026
+- Ajouté : Styles de dossiers de collection — affichez les collections avec des mises en page d'images à la une, vitrine ou galerie (Options d'affichage > Style de dossier)
+- Ajouté : Images de collection personnalisées — définissez une image personnalisée par collection à partir de votre galerie ou en collant l'URL d'une image
+- Ajouté : Collages d'images automatiques — les collections sans image personnalisée affichent les images des favoris sous forme de collages dynamiques
+- Ajouté : Les favoris dans les collections verrouillées sont désormais masqués de la liste principale, de la recherche et d'autres vues pour une confidentialité renforcée
+- Ajouté : Partager en carte — générez une carte image stylisée avec titre, description, domaine et temps de lecture pour partager vos favoris sur les réseaux sociaux
+- Corrigé : Plusieurs plantages lors de l'utilisation de l'app en arrière-plan ou à l'ouverture des liens sur certains appareils.
+- Corrigé : L'import HTML ne supprime plus un seul dossier de premier niveau — les favoris des fichiers avec un dossier sont maintenant placés dans la bonne collection.
 ### Version 1.4.9 – 20 février 2026
 - Smartie : Discutez en fils, ajoutez du contexte avec @ (favoris, dossiers, tags), joignez des images ou fichiers, arrêtez en cours de réponse et voyez les réponses s'afficher en direct. IA plus rapide et fiable, meilleure utilisation de votre quota.
 - Smartie : Choisissez son comportement — Auto, Interactif ou Smart. Gérez tags, notes et dossiers sans étapes supplémentaires. Messages de quota et d'erreur plus clairs.

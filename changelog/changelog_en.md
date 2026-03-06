@@ -1,4 +1,12 @@
 # Changelog
+### Version 1.5.0 – March 7, 2026
+- Added: Collection folder styles — display collections with Featured, Showcase, or Gallery image layouts (View options > Folder style)
+- Added: Custom collection images — set a custom image per collection from your gallery or by pasting an image URL
+- Added: Automatic image collages — collections without a custom image show bookmark images as dynamic collages
+- Added: Bookmarks in locked collections are now hidden from the main list, search, and other views for enhanced privacy
+- Added: Share as Card — generate a stylized image card with title, description, domain, and read time to share bookmarks on social media
+- Fixed: Several crashes when using the app in the background or when opening links on some devices.
+- Fixed: HTML import no longer drops a single top-level folder — bookmarks from files with one folder are now placed in the correct collection.
 ### Version 1.4.9 – February 20, 2026
 - Smartie: Chat in threads, add context with @ (bookmarks, collections, tags), attach images or files, stop mid-reply, and watch answers stream in. Faster, more reliable AI that uses your quota better.
 - Smartie: Choose how it behaves — Auto, Interactive, or Smart. Manage tags, notes, and collections without extra steps. Clearer quota and error messages.
