@@ -1,4 +1,12 @@
 # Changelog
+
+### Version 1.5.1 – March 19, 2026
+
+- Added: Bookmark images can be saved on your device for faster lists and offline use (on by default). In Settings you can download any missing images, clear saved files, and see progress while downloads run.
+- Added: Add to collection when you multi-select bookmarks inside a collection (same as in Bookmarks and Tags).
+- Fixed: HTML export for external browsers no longer shows the same bookmark in both root and a collection (duplicates).
+- Fixed: Other bug fixes and performance improvements.
+
 ### Version 1.5.0 – March 7, 2026
 - Added: Collection folder styles — display collections with Featured, Showcase, or Gallery image layouts (View options > Folder style)
 - Added: Custom collection images — set a custom image per collection from your gallery or by pasting an image URL

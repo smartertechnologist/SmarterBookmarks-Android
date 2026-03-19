@@ -1,4 +1,12 @@
 # Journal des modifications
+
+### Version 1.5.1 – 19 mars 2026
+
+- Ajouté : Les images des favoris peuvent être enregistrées sur l’appareil pour des listes plus rapides et un usage hors ligne (activé par défaut). Dans les réglages, vous pouvez télécharger les images manquantes, effacer les fichiers enregistrés et suivre la progression des téléchargements.
+- Ajouté : Ajouter à une collection lors de la sélection multiple de favoris à l’intérieur d’une collection (comme dans Favoris et Étiquettes).
+- Corrigé : L’export HTML pour navigateurs externes n’affiche plus le même favori à la fois à la racine et dans une collection (doublons).
+- Corrigé : Autres correctifs et améliorations des performances.
+
 ### Version 1.5.0 – 7 mars 2026
 - Ajouté : Styles de dossiers de collection — affichez les collections avec des mises en page d'images à la une, vitrine ou galerie (Options d'affichage > Style de dossier)
 - Ajouté : Images de collection personnalisées — définissez une image personnalisée par collection à partir de votre galerie ou en collant l'URL d'une image
