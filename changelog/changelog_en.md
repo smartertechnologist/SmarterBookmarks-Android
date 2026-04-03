@@ -1,5 +1,17 @@
 # Changelog
 
+### Version 1.5.2 – April 3, 2026
+
+- Pro: Connect to PC is out of beta with a redesigned experience on the app and in the browser, better reliability, and optional stable local address hints when your network supports them.
+- Added: Automation improvements—save bookmarks to a chosen collection from Tasker or MacroDroid (see Settings > Automation & Tasker), plus a screen listing package name, exported activities, and intent extras you can copy to the clipboard.
+- Improved: The app targets Android 16 (API 36)—updated for edge-to-edge layout, predictive back navigation, and behavior on tablets and large screens.
+- Added: Bulk remove or replace the current tag on multiple selected bookmarks or notes when viewing a tag.
+- Added: Duplicate a tag and keep the same linked bookmarks and notes under a new name.
+- Added: Optional favorites-first sort for bookmarks (pinned items still stay at the top).
+- Added: Copy an internal link for any bookmark and open it from notes or other apps.
+- Added: Note editor slash command to link a bookmark, with picker and standard markdown link insertion.
+- Improved: Markdown task check/uncheck in rendered notes persists back to note content.
+
 ### Version 1.5.1 – March 19, 2026
 
 - Added: Bookmark images can be saved on your device for faster lists and offline use (on by default). In Settings you can download any missing images, clear saved files, and see progress while downloads run.
@@ -8,16 +20,16 @@
 - Fixed: Other bug fixes and performance improvements.
 
 ### Version 1.5.0 – March 7, 2026
-- Added: Collection folder styles — display collections with Featured, Showcase, or Gallery image layouts (View options > Folder style)
-- Added: Custom collection images — set a custom image per collection from your gallery or by pasting an image URL
-- Added: Automatic image collages — collections without a custom image show bookmark images as dynamic collages
+- Added: Collection folder styles  -  display collections with Featured, Showcase, or Gallery image layouts (View options > Folder style)
+- Added: Custom collection images  -  set a custom image per collection from your gallery or by pasting an image URL
+- Added: Automatic image collages  -  collections without a custom image show bookmark images as dynamic collages
 - Added: Bookmarks in locked collections are now hidden from the main list, search, and other views for enhanced privacy
-- Added: Share as Card — generate a stylized image card with title, description, domain, and read time to share bookmarks on social media
+- Added: Share as Card  -  generate a stylized image card with title, description, domain, and read time to share bookmarks on social media
 - Fixed: Several crashes when using the app in the background or when opening links on some devices.
-- Fixed: HTML import no longer drops a single top-level folder — bookmarks from files with one folder are now placed in the correct collection.
+- Fixed: HTML import no longer drops a single top-level folder  -  bookmarks from files with one folder are now placed in the correct collection.
 ### Version 1.4.9 – February 20, 2026
 - Smartie: Chat in threads, add context with @ (bookmarks, collections, tags), attach images or files, stop mid-reply, and watch answers stream in. Faster, more reliable AI that uses your quota better.
-- Smartie: Choose how it behaves — Auto, Interactive, or Smart. Manage tags, notes, and collections without extra steps. Clearer quota and error messages.
+- Smartie: Choose how it behaves  -  Auto, Interactive, or Smart. Manage tags, notes, and collections without extra steps. Clearer quota and error messages.
 - Smart collections: NOT on a group now works as intended, so results match the exclusion you set.
 - App icon now follows your wallpaper theme on Android 13+ (themed icons).
 - You can now set a different language for the app in Android system settings (per-app language).
