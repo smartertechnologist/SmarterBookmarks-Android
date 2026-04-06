@@ -1,5 +1,18 @@
 # Changelog
 
+### Version 1.5.3 – April 6, 2026
+
+- Added: Gentler dark backgrounds for night use — pick one under Settings > Appearance > Dark background. This is separate from the optional pure-black AMOLED look.
+- Added: In Settings > Collections you can turn off the colored bar along the folder you have open in tree view. The tree catches up as soon as you leave Settings.
+- Added: Icon folder style — large tiles from your custom image or folder icon only, without bookmark collages.
+- Added: App icon shortcuts: add bookmark, Bookmarks, Collections, and Notes from a long-press on the launcher icon; if a tab is hidden in settings, Home opens instead.
+- Added: Import from file: open backup and import files (ZIP, HTML, JSON, plain text, CSV) from file managers, downloads, or attachments; the app appears in Open with for supported types.
+- Improved: Opening and closing folders in the collection tree keeps the selection highlight on the folder you expect.
+- Improved: When you change what the list shows (bookmarks, collections, notes, tags, sources) from the menu at the top, the screen updates more reliably.
+- Fixed: Some bookmark dates were wrong when the saved time zone looked like `+0200` without a colon between hours and minutes.
+- Fixed: If you use the app in Finnish, Ukrainian, Danish, or Slovak, mixed-up wording in places is corrected throughout the app.
+- Fixed: Automatic cloud backup reschedules reliably after failed runs and device restarts. See Settings > Cloud sync for background tips.
+
 ### Version 1.5.2 – April 3, 2026
 
 - Pro: Connect to PC is out of beta with a redesigned experience on the app and in the browser, better reliability, and optional stable local address hints when your network supports them.
@@ -20,6 +33,7 @@
 - Fixed: Other bug fixes and performance improvements.
 
 ### Version 1.5.0 – March 7, 2026
+
 - Added: Collection folder styles  -  display collections with Featured, Showcase, or Gallery image layouts (View options > Folder style)
 - Added: Custom collection images  -  set a custom image per collection from your gallery or by pasting an image URL
 - Added: Automatic image collages  -  collections without a custom image show bookmark images as dynamic collages
@@ -27,22 +41,30 @@
 - Added: Share as Card  -  generate a stylized image card with title, description, domain, and read time to share bookmarks on social media
 - Fixed: Several crashes when using the app in the background or when opening links on some devices.
 - Fixed: HTML import no longer drops a single top-level folder  -  bookmarks from files with one folder are now placed in the correct collection.
+
 ### Version 1.4.9 – February 20, 2026
+
 - Smartie: Chat in threads, add context with @ (bookmarks, collections, tags), attach images or files, stop mid-reply, and watch answers stream in. Faster, more reliable AI that uses your quota better.
 - Smartie: Choose how it behaves  -  Auto, Interactive, or Smart. Manage tags, notes, and collections without extra steps. Clearer quota and error messages.
 - Smart collections: NOT on a group now works as intended, so results match the exclusion you set.
 - App icon now follows your wallpaper theme on Android 13+ (themed icons).
 - You can now set a different language for the app in Android system settings (per-app language).
+
 ### Version 1.4.8 – January 16, 2026
+
 - UI: Added bottom navigation as an alternative to tabs, with a More option for accessing additional tabs
 - Bookmarks: Added ability to remove bookmark images from the popup menu and edit screen
 - Articles: Improved offline reading support - articles load faster and work better without internet
 - UI: Improved search bar positioning and toolbar visibility
 - Performance: Faster loading and smoother scrolling throughout the app
 - Bookmarks: Added option to automatically save resolved URLs (final destination after following redirects)
+
 ### Version 1.4.7 – January 6, 2026
+
 - Fixed: Navigation chips disappearing and collections becoming unclickable after refreshing bookmark metadata
+
 ### Version 1.4.6 – December 31, 2025
+
 - Pro: Browser Sync - Sync your bookmarks between Chrome browser extension and your Android device
 - Pro: Browser Sync - Changes sync automatically in both directions, keeping your bookmarks up to date everywhere
 - Smart Collections: Faster loading when opening folders with multiple smart collections
@@ -50,33 +72,45 @@
 - Tags: Added color support for tags with customizable chip colors and outline preferences
 - Bookmarks: Added comment field to store notes and additional information for each bookmark
 - UI: Optimized bookmark and tag rendering performance, improved tag layout with selection overlays, enhanced collection view layouts, and faster image loading
+
 ### Version 1.4.5 – December 15, 2025
+
 - Cloud Sync: Added cloud storage management feature to view current storage size and reset cloud data to speed up sync operations
 - Cloud Sync: Fixed file handling issues on Android 16 (API 36) for improved reliability
 - Cloud Sync: Optimized memory usage during backup and restore operations
 - PDF Export: Export collections to PDF with hierarchical structure, Unicode support, and clickable bookmark URLs
 - Export/Import: Fixed SQL export/import issue with URLs containing special characters (commas, parentheses, newlines) by using URL encoding
+
 ### Version 1.4.4 – December 11, 2025
+
 - Collection Export: Added export functionality for collections with support for HTML, JSON, TXT, and CSV formats. Exports include all nested collections and can be shared or saved to a location
 - Collection Export: Smart collections now export all matching bookmarks based on their rules when sharing or exporting
 - Collection Export: Custom bookmark images are now included in HTML and JSON exports as base64 encoded strings
 - Fixed SQL dump import issue where notes with SQL content containing trailing newlines failed to import correctly from ZIP exports
+
 ### Version 1.4.3 – December 2, 2025
+
 - Smart Collections: Added OR logic, NOT conditions, and rule grouping for more powerful and flexible smart collection rules
 - Collection Name Matching: New rule option to match collections by name or subcollection name, making smart collections resilient when collections are deleted and recreated
 - Fixed grid mode freezing and performance issues in collections - grid view is now fluid and responsive
 - In-App Browser: Added landscape orientation support for fullscreen videos and improved web page loading with better error handling and mixed content support
+
 ### Version 1.4.2 – November 22, 2025
+
 - Bookmark Health Monitoring (Pro): Automatically check bookmark accessibility and detect broken links with visual status indicators, WiFi-only option, and configurable frequency
 - Tabbed Browsing (Beta): Multiple tabs support in WebView for better navigation and browsing experience. (Enable this feature in Behavior Settings to get started.)
 - Bookmark Templates: Create reusable templates with pre-filled tags, collections, and statuses for quick bookmark creation. (Enable this feature in Bookmark Settings to get started.)
 - BROKEN Filter: Filter bookmarks by health status in Smart Collections and Search Filters, with health status preserved during export/import
 - Performance improvements and stability enhancements
+
 ### Version 1.4.1 – November 13, 2025
+
 - Trash: Improved performance and fixed crashes with large datasets, added pagination and loading indicators
 - Fixed multiple URL sharing from other apps
 - Improved app stability and performance
+
 ### Version 1.4.0 – November 9, 2025
+
 - Regular Backups (Pro): Automatically backup your bookmarks at scheduled intervals with support for multiple formats (ZIP, JSON, HTML, Text, CSV) and configurable retention policies
 - UI: All dialogs converted to modern bottom sheet components with swipe-to-dismiss functionality for a better mobile experience
 - ZIP Backup/Restore: Fixed note formatting loss - newlines in note titles and bodies now preserved correctly
@@ -86,20 +120,26 @@
 - Smart Collections: Fixed crash and missing collection name when editing rules with "Collection or subcollection" field
 - Sources: Fixed Google Drive sync file download issue
 - Share: Fixed share dialog mixing up title and URL content
+
 ### Version 1.3.7 – November 2, 2025
+
 - Smart Collections: Enhanced filters with regex support, negation operators (not contains, not starts with, not ends with), and collection/subcollection matching
 - Import/Export: Fixed JSON and HTML import issues, added ZIP database backup option for complete data restoration
 - Collections: Added copy and paste functionality to duplicate collections without moving them
 - Metadata Retrieval: Improved metadata extraction for some websites
 - UI: Fixed expiration date action buttons being cut off on small screens
+
 ### Version 1.3.6 - October 17, 2025
+
 - Smart Collections: Fixed editing issue where collection field shows blank instead of previously selected collection
 - Smart Collections: Prevent creating smart collections inside other smart collections to avoid circular dependencies
 - Smart Collections: Add smart collection rule for cross-linked bookmarks (incoming or outgoing links)
 - Linked Bookmarks: Add nested relationships feature (Pro) to display unlimited relationship depth
 - Search: Restore saved search terms in the search bar when loading saved searches
 - Translations: Improved German and Japanese translations with 100+ corrections
+
 ### Version 1.3.5 - September 19, 2025
+
 - Settings: Per-bookmark overrides for click action and browser selection
 - Navigation: Optional "back twice to exit" to prevent accidental app closure
 - Display: Support for display cutouts (notches) in landscape mode
@@ -107,181 +147,264 @@
 - Settings: Reorganized with new Collections tab and improved categorization
 - Support: New Support screen with optional donations via Google Play Billing
 - Collections: Configurable deletion behavior with smart UI and bookmark counts
+
 ### Version 1.3.4 - August 31, 2025
+
 - Pro: Page Bookmarks - Save specific positions within web pages for quick navigation and reference
 - Enhanced Article Reader with font styles and sizes
 - New AMOLED dark mode for true black backgrounds
 - Improved UI consistency and interface elements
+
 ### Version 1.3.3 - August 5, 2025
+
 - New: AI Assistant (Smartie) - Chat with AI to search, organize, and manage bookmarks naturally. Includes Ask and Agent (Pro) modes
 - Improved App UI with refreshed icons, clearer empty state messages, and enhanced visual design
 - Enhanced AI features with expanded model support (Gemini 2.0 Flash-Lite, 2.5 Flash-Lite, 2.5 Flash, 2.5 Pro), customizable summarization options, and usage statistics tracking
+
 ### Version 1.3.2 - July 25, 2025
+
 - Fixed an issue where HTML exports had '0' as the title
+
 ### Version 1.3.1 - July 21, 2025
+
 - New: Added custom sort
 - New: Drag and drop to reorder items in custom sort mode
 - New: Reset custom sort to any sort type with advanced options (Pro)
 - Improved UI with menu improvements
 - Fixed: Share and Copy action mode menu for bookmarks in the Collections tab
+
 ### Version 1.3.0 - July 10, 2025
+
 - New: Added Dropbox as a cloud sync provider alongside Google Drive
 - Fixed: Various bug fixes and performance improvements
+
 ### Version 1.2.9 - June 29, 2025
+
 - Bug fixes and other improvements
+
 ### Version 1.2.8 - June 20, 2025
+
 - Added linked bookmarks feature to create connections between related bookmarks
 - Added more translations - Čeština, Dansk, Suomi, 한국어, Slovenčina, and Українська
 - Added ability to select custom images when creating new bookmarks
 - Fixed search in other bookmark views to allow filtering by tags and collections
+
 ### Version 1.2.7 - June 7, 2025
+
 - Added ability to search within bookmark content with highlighted matches (Pro)
 - Reorganized bookmark menu into logical groups for easier access
 - Added a visual indicator to show when bookmarks have searchable content
 - Improved bookmark metadata refresh performance and reliability
 - Fixed bookmarks not showing the latest changes during cloud sync
+
 ### Version 1.2.6 - May 24, 2025
+
 - Added option to replace duplicates when importing data
 - Improved CSV import functionality
+
 ### Version 1.2.5 - May 11, 2025
+
 - Bug fixes from the previous update, including issues with editing bookmarks and selecting a collection in the dropdown
 - The collection dropdown menu is now searchable
+
 ### Version 1.2.4 - May 10, 2025
+
 - Added full-text search and content search (Pro)
 - Optimized data exports and imports
 - Optimized app memory usage and responsiveness
+
 ### Version 1.2.3 - May 3, 2025
+
 - Improved database import with progress updates, large file support, and clearer feedback
+
 ### Version 1.2.2 - May 1, 2025
+
 - Pro: Added recurring bookmark reminders with improved reminder functionality
 - Added a tool to clear expired bookmark reminders
 - Updated Gemini AI model to 2.0 Flash
 - Added option to suppress cloud sync toast notifications
 - Added deep refresh functionality in behavior settings
 - Other bug fixes and performance improvements
+
 ### Version 1.2.1 - April 28, 2025
+
 - Added bookmark creation and random bookmark in the collections tab
 - Fixed in-app browser jitter when scrolling
 - Fixed collection label clipping when moving collections or adding bookmarks
 - Other fixes and UI improvements
+
 ### Version 1.2.0 - April 19, 2025
+
 - New: Added text highlighting and annotation capabilities in the in-app browser and article mode
 - Added reader mode to the in-app browser to make articles easier to read by removing distractions and optimizing text layout
 - Redesigned the app UI with improved navigation and visual hierarchy
 - Added image resizing controls in the bookmarks tab for better visual customization
+
 ### Version 1.1.9 - April 7, 2025
+
 - Added dedicated sections in Settings to showcase app and Pro features
 - Added an onboarding experience to help new users get started
 - Pro: Enhanced Connect to PC feature with a modern interface
 - Fixed lag caused by recent updates
 - Fixed various bugs and improved performance
+
 ### Version 1.1.8 - April 4, 2025
+
 - Added custom image type for bookmarks: system default, top image, or favicon
 - Fixed collection view's bookmarks to support bulk tag editing
 - Fixed UI updates when view options change
 - Fixed issue where HTML imports skipped dashboard widgets
+
 ### Version 1.1.7 - March 31, 2025
+
 - Improved HTML database export for better compatibility with external browsers
 - Added support for backing up app settings
 - Tags can now be added in bulk
 - Fixed metadata fetching issues for certain URLs
 - Various bug fixes and UI improvements (tags, popup menus, and more)
+
 ### Version 1.1.6 - March 28, 2025
+
 - Improved speed and usability for a smoother experience
 - Faster performance when expanding and collapsing collection tree items
+
 ### Version 1.1.5 - March 24, 2025
+
 - Added a new tree view for the Collections tab
 - Fixed an issue where bookmarks added to hidden collections were not being hidden
+
 ### Version 1.1.4 - March 14, 2025
+
 - Added a tool to manage inactive bookmarks and another to remove duplicates
 - Added an option in Behavior settings to use an image for bookmark shortcuts instead of the favicon, if available
 - Re-enabled automatic protection for enhanced security and privacy
+
 ### Version 1.1.3 - March 7, 2025
+
 - Added a white background for collection shortcuts added to the home screen
 - Fixed path not displaying correctly for collections opened via a shortcut
 - Added a new Behavior setting to allow duplicate collection shortcuts
+
 ### Version 1.1.2 - February 21, 2025
+
 - Added support for creating collection shortcuts on the home screen
 - Introduced a smaller grid layout for collections to reduce icon size
 - Various bug fixes and performance improvements
+
 ### Version 1.1.1 - February 13, 2025
+
 - Introduced beta support for collections as Android home screen widgets (may have stability issues)
 - Updated collection options to include 'Add to home screen' (Android 8+)
+
 ### Version 1.1.0 - January 28, 2025
+
 - New: Added a Saved Search feature to save and reuse searches
 - Pro: Updated Smart Collection rules with additional conditions for enhanced filtering
+
 ### Version 1.0.9 - January 20, 2025
+
 - App updated to target Android 15 (SDK 35)
+
 ### Version 1.0.8 - January 10, 2025
+
 - New: Added ability to capture and select multiple bookmark images
 - Fixed: Resolved an issue with moving multiple collections
 - Other bug fixes and enhancements
+
 ### Version 1.0.7 - December 24, 2024
+
 - New: Added a new 'Share...' option for bookmarks to include not only the URL but also additional metadata
 - New: Added support for selecting Filled Material Icons when creating or editing collections
 - Optimized cloud sync process
 - Other bug fixes and enhancements
+
 ### Version 1.0.6 - December 22, 2024
+
 - New: Added support for selecting Material Icons when creating or editing collections
 - Introduced an optional Staggered Grid View for displaying bookmarks
 - Added an option in the Behavior setting to manage the export of custom images
 - Fixed issues with tag lists displaying the wrong view type in the Compact layout
 - Fixed bookmark search not working in the Collections tab
+
 ### Version 1.0.5 - November 30, 2024
+
 - New: Added a Compact layout for collections, bookmarks, notes, and tags
 - Updated the bookmark list view options to hide everything except the title
 - Resolved issues with the collection view when moving bookmarks
 - Addressed a bug where collection navigation always defaults to the root when the dashboard was disabled
+
 ### Version 1.0.4 - November 23, 2024
+
 - New: Added Sources tab to sync bookmarks with Google Drive or RSS
 - Pro: Implemented Trash feature
 - New: Added backup and restore for TXT and CSV files
 - Updated the bookmark and collection views
+
 ### Version 1.0.3 - October 22, 2024
+
 - New: Added a Dashboard analytics widget to track app statistics and view expiring bookmarks (Pro)
 - Updated the app to use the title of URLs (if available) when shared from external apps
 - Added batch edit capabilities to bookmarks and options to clear or reset metadata
 - Added more custom status colors
 - Fixed a bug with custom statuses not being displayed in the UI
 - Optimized card and grid layouts for collections, bookmarks, and notes especially on devices with large screens
+
 ### Version 1.0.2 - October 1, 2024
+
 - New: Bookmarks can now be grouped by domain and date created
 - Added AI reclassification for existing or imported bookmarks
 - Added a search filter to search within a collection and its sub-collections
+
 ### Version 1.0.1 - September 19, 2024
+
 - New: Updated the New bookmark dialog to scan QR codes
+
 ### Version 1.0.0 - September 17, 2024
+
 - Pro: Added edit capabilities to the Connect to PC feature
 - Removed the 20-year base period for the one-time purchase
 - Updated the navigation bar color to match the app theme
 - Added batch expiry to bookmarks
+
 ### Version 0.9.9 - August 25, 2024
+
 - Added more translations - العربية, Bahasa Indonesia and Português
 - Fixed issue with search filters when no query is entered
 - Optimized WebViews and floating bubbles for better performance
 - Optimized favicon loading implementation
 - Bug fixes and other enhancements
+
 ### Version 0.9.8 - August 20, 2024
+
 - Reorganized AI Classification as a subset of AI Features
 - Added optional LLM model: Gemini 1.5 Flash. API keys are required to use this model
 - You can now select an AI model, configure AI Classification, and set up AI Summarization
 - Continued support for the inbuilt naive URL classifier
+
 ### Version 0.9.7 - August 16, 2024
+
 - Added Chinese translation
 - Added text-to-speech (TTS) for reading articles
 - New option in Behaviour Settings to opt out of anonymous sharing of app usage statistics
+
 ### Version 0.9.6 - August 5, 2024
+
 - Updated Collections UI
 - Updated Appearance setting to display icons for the overflow menu options and popup menu items
 - Added sort and view menu options when viewing bookmarks and notes attached to a tag
 - Updated Bookmark default click action in Settings to include an option to copy to the clipboard
 - Updated metadata fetch for x.com
+
 ### Version 0.9.5 - July 25, 2024
+
 - Updated the New Bookmark dialog to set bookmark expiry
 - Pro: Bookmark expiry notifications
 - Updated the New Bookmark dialog to pin a bookmark to the top of the list
 - Added a new option in Bookmark settings to update an existing bookmark if it already exists
+
 ### Version 0.9.4 - July 21, 2024
+
 - Added advanced search operators (Exact Match, Exclude, Regex) to refine search results
 - Added Boolean search filters (AND, OR) to specify relationships between search terms
 - Launched a Telegram channel to gather feedback and support the project
+

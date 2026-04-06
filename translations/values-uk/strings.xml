@@ -1108,7 +1108,7 @@
     <string name="sb_desc_notification_channel_expiry_notifications">Сповіщення про закінчення терміну дії</string>
     <string name="sb_notification_channel_updates_expired_bookmarks">Прострочені закладки</string>
     <string name="sb_desc_notification_channel_expired_bookmarks">Прострочені закладки</string>
-    <string name="your_bookmark_has_expired">Термін дії вашої закладки минув — жодних дій не було вжито.</string>
+    <string name="your_bookmark_has_expired">Термін дії вашої закладки минув  -  жодних дій не було вжито.</string>
     <string name="your_bookmark_has_expired_and_archived">Термін дії вашої закладки минув і її заархівовано.</string>
     <string name="your_bookmark_has_expired_and_deleted">Термін дії вашої закладки закінчився, її було видалено.</string>
     <string name="popup_bookmark_set_expiry">Встановити термін дії</string>

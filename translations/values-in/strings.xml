@@ -1108,7 +1108,7 @@
     <string name="sb_desc_notification_channel_expiry_notifications">Pemberitahuan Kedaluwarsa</string>
     <string name="sb_notification_channel_updates_expired_bookmarks">Bookmark Kedaluwarsa</string>
     <string name="sb_desc_notification_channel_expired_bookmarks">Bookmark Kedaluwarsa</string>
-    <string name="your_bookmark_has_expired">Bookmark Anda telah kedaluwarsa—tidak ada tindakan yang diambil.</string>
+    <string name="your_bookmark_has_expired">Bookmark Anda telah kedaluwarsa - tidak ada tindakan yang diambil.</string>
     <string name="your_bookmark_has_expired_and_archived">Bookmark Anda telah kedaluwarsa dan telah diarsipkan.</string>
     <string name="your_bookmark_has_expired_and_deleted">Bookmark Anda telah kedaluwarsa dan telah dihapus.</string>
     <string name="popup_bookmark_set_expiry">Tetapkan kadaluarsa</string>

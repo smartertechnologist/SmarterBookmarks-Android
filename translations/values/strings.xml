@@ -1163,7 +1163,7 @@
     <string name="sb_desc_notification_channel_expiry_notifications">Expiry Notifications</string>
     <string name="sb_notification_channel_updates_expired_bookmarks">Expired Bookmarks</string>
     <string name="sb_desc_notification_channel_expired_bookmarks">Expired Bookmarks</string>
-    <string name="your_bookmark_has_expired">Your bookmark has expired—no action was taken.</string>
+    <string name="your_bookmark_has_expired">Your bookmark has expired - no action was taken.</string>
     <string name="your_bookmark_has_expired_and_archived">Your bookmark has expired and has been archived.</string>
     <string name="your_bookmark_has_expired_and_deleted">Your bookmark has expired and has been deleted.</string>
     <string name="popup_bookmark_set_expiry">Set expiry</string>

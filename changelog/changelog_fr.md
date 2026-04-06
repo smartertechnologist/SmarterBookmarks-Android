@@ -1,5 +1,18 @@
 # Journal des modifications
 
+### Version 1.5.3 – 6 avril 2026
+
+- Ajout : arrière-plans sombres plus doux pour le soir — à choisir dans Paramètres > Apparence > Arrière-plan sombre, en plus du noir pur AMOLED facultatif.
+- Ajout : dans Paramètres > Collections, vous pouvez masquer la barre colorée le long du dossier ouvert dans l’arborescence ; la vue se met à jour dès que vous quittez les paramètres.
+- Ajout : style de dossier Icône — grandes vignettes avec votre image ou l’icône seulement, sans collages de favoris.
+- Ajout : raccourcis sur l’icône : ajouter un signet, Favoris, Collections et Notes depuis un appui long sur l’icône du lanceur ; si un onglet est masqué dans les paramètres, l’accueil s’ouvre à la place.
+- Ajout : importer depuis un fichier : ouvrir des sauvegardes et fichiers d’import (ZIP, HTML, JSON, texte, CSV) depuis le gestionnaire de fichiers, Téléchargements ou des pièces jointes ; l’app apparaît dans Ouvrir avec pour les types pris en charge.
+- Amélioration : en ouvrant ou refermant des dossiers dans l’arborescence, la surbrillance reste sur le bon dossier.
+- Amélioration : quand vous changez ce que la liste affiche (favoris, collections, notes, étiquettes, sources) depuis le menu en haut, l’écran se met à jour de façon plus fiable.
+- Corrigé : certaines dates de favoris étaient fausses lorsque le fuseau horaire était noté comme `+0200` sans deux-points entre heures et minutes.
+- Corrigé : en finnois, ukrainien, danois et slovaque, des textes mélangés sont corrigés dans toute l’application.
+- Corrigé : la sauvegarde cloud automatique est reprogrammée de façon fiable après erreur et redémarrage. Voir Paramètres > Synchronisation cloud pour des conseils sur l’arrière-plan.
+
 ### Version 1.5.2 – 3 avril 2026
 
 - Pro : Connexion au PC n'est plus en bêta — application et navigateur repensés, plus fiable, indications d'adresse locale optionnelles lorsque le réseau le permet.
