@@ -5,7 +5,7 @@
 - Added: Gentler dark backgrounds for night use — pick one under Settings > Appearance > Dark background. This is separate from the optional pure-black AMOLED look.
 - Added: In Settings > Collections you can turn off the colored bar along the folder you have open in tree view. The tree catches up as soon as you leave Settings.
 - Added: Icon folder style — large tiles from your custom image or folder icon only, without bookmark collages.
-- Added: App icon shortcuts: add bookmark, Bookmarks, Collections, and Notes from a long-press on the launcher icon; if a tab is hidden in settings, Home opens instead.
+- Added: App icon shortcuts: add bookmark, Bookmarks, Collections, and Notes from a long-press on the launcher icon; if a shortcut’s tab is hidden in settings, the app opens the dashboard tab when it is enabled, otherwise the first main tab.
 - Added: Import from file: open backup and import files (ZIP, HTML, JSON, plain text, CSV) from file managers, downloads, or attachments; the app appears in Open with for supported types.
 - Improved: Opening and closing folders in the collection tree keeps the selection highlight on the folder you expect.
 - Improved: When you change what the list shows (bookmarks, collections, notes, tags, sources) from the menu at the top, the screen updates more reliably.
