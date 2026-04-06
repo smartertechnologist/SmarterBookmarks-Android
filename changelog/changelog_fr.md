@@ -2,11 +2,11 @@
 
 ### Version 1.5.3 – 6 avril 2026
 
-- Ajout : arrière-plans sombres plus doux pour le soir — à choisir dans Paramètres > Apparence > Arrière-plan sombre, en plus du noir pur AMOLED facultatif.
+- Ajout : arrière-plans sombres plus doux pour le soir - à choisir dans Paramètres > Apparence > Arrière-plan sombre, en plus du noir pur AMOLED facultatif.
 - Ajout : dans Paramètres > Collections, vous pouvez masquer la barre colorée le long du dossier ouvert dans l’arborescence ; la vue se met à jour dès que vous quittez les paramètres.
-- Ajout : style de dossier Icône — grandes vignettes avec votre image ou l’icône seulement, sans collages de favoris.
-- Ajout : raccourcis sur l’icône : ajouter un signet, Favoris, Collections et Notes depuis un appui long sur l’icône du lanceur ; si l’onglet visé est masqué dans les paramètres, l’app ouvre l’onglet tableau de bord lorsqu’il est activé, sinon le premier onglet principal.
-- Ajout : importer depuis un fichier : ouvrir des sauvegardes et fichiers d’import (ZIP, HTML, JSON, texte, CSV) depuis le gestionnaire de fichiers, Téléchargements ou des pièces jointes ; l’app apparaît dans Ouvrir avec pour les types pris en charge.
+- Ajout : style de dossier Icône - grandes vignettes avec votre image ou l’icône seulement, sans collages de favoris.
+- Ajout : raccourcis sur l’icône - ajouter un signet, Favoris, Collections et Notes depuis un appui long sur l’icône du lanceur ; si l’onglet visé est masqué dans les paramètres, l’app ouvre l’onglet tableau de bord lorsqu’il est activé, sinon le premier onglet principal.
+- Ajout : importer depuis un fichier - ouvrir des sauvegardes et fichiers d’import (ZIP, HTML, JSON, texte, CSV) depuis le gestionnaire de fichiers, Téléchargements ou des pièces jointes ; l’app apparaît dans Ouvrir avec pour les types pris en charge.
 - Amélioration : en ouvrant ou refermant des dossiers dans l’arborescence, la surbrillance reste sur le bon dossier.
 - Amélioration : quand vous changez ce que la liste affiche (favoris, collections, notes, étiquettes, sources) depuis le menu en haut, l’écran se met à jour de façon plus fiable.
 - Corrigé : certaines dates de favoris étaient fausses lorsque le fuseau horaire était noté comme `+0200` sans deux-points entre heures et minutes.
