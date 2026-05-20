@@ -1,5 +1,10 @@
 # Journal des modifications
 
+### Version 1.5.4 – 20 mai 2026
+
+- Corrigé : la confidentialité des collections verrouillées s'applique désormais aux sous-collections ; les signets dans une collection enfant d'une collection verrouillée sont masqués dans l'écran Signets et la recherche.
+- Corrigé : les aperçus dans la corbeille (signets, notes, étiquettes et autres éléments supprimés) s'affichent à nouveau correctement au lieu d'apparaître vides.
+
 ### Version 1.5.3 – 6 avril 2026
 
 - Ajout : arrière-plans sombres plus doux pour le soir - à choisir dans Paramètres > Apparence > Arrière-plan sombre, en plus du noir pur AMOLED facultatif.

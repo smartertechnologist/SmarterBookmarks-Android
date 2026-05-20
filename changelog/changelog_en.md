@@ -1,5 +1,10 @@
 # Changelog
 
+### Version 1.5.4 – May 20, 2026
+
+- Fixed: Locked-collection privacy now cascades to child collections, so bookmarks inside child collections of a locked collection are hidden in the Bookmarks screen and search.
+- Fixed: Trash previews for bookmarks, notes, tags, and other deleted items display correctly again instead of appearing empty.
+
 ### Version 1.5.3 – April 6, 2026
 
 - Added: Gentler dark backgrounds for night use - pick one under Settings > Appearance > Dark background. This is separate from the optional pure-black AMOLED look.
