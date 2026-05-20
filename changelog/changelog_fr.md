@@ -4,6 +4,9 @@
 
 - Corrigé : la confidentialité des collections verrouillées s'applique désormais aux sous-collections ; les signets dans une collection enfant d'une collection verrouillée sont masqués dans l'écran Signets et la recherche.
 - Corrigé : les aperçus dans la corbeille (signets, notes, étiquettes et autres éléments supprimés) s'affichent à nouveau correctement au lieu d'apparaître vides.
+- Amélioration : optimisation de l'utilisation de la mémoire lors du nettoyage des aperçus hors ligne pour éviter les plantages.
+- Corrigé : résolution d'un plantage potentiel lors du chargement des icônes si l'application était fermée ou lors d'un changement d'écran.
+- Corrigé : amélioration de la stabilité des URL pour les liens internes entre signets.
 
 ### Version 1.5.3 – 6 avril 2026
 

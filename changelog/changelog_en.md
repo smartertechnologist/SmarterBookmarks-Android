@@ -4,6 +4,9 @@
 
 - Fixed: Locked-collection privacy now cascades to child collections, so bookmarks inside child collections of a locked collection are hidden in the Bookmarks screen and search.
 - Fixed: Trash previews for bookmarks, notes, tags, and other deleted items display correctly again instead of appearing empty.
+- Improved: Optimized memory usage when pruning offline bookmark previews to prevent memory-related crashes.
+- Fixed: Resolved a potential crash when loading icons if the app was closed or navigating away.
+- Fixed: Improved URL stability for internal links between bookmarks.
 
 ### Version 1.5.3 – April 6, 2026
 
