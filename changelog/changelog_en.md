@@ -1,5 +1,22 @@
 # Changelog
 
+### Version 1.5.5 – May 30, 2026
+
+#### New
+
+- Browser Sync is out of beta, no longer requires Pro, and now syncs Android and Chrome bookmarks through Google Drive.
+- Save, update, remove, and organize pages from the Chrome extension.
+
+#### Browser Sync Improvements
+
+- Android and Chrome bookmark changes stay aligned more reliably, including creates, edits, moves, and deletes.
+- Chrome-synced bookmarks can bring richer page details and preview images when available.
+- Browser Sync settings make setup, sync status, history, and reset options easier to follow.
+
+#### Android Polish
+
+- Lists and tree views feel smoother, with a better fast scroller and quicker selection, expand, collapse, and pin updates.
+
 ### Version 1.5.4 – May 20, 2026
 
 - Fixed: Locked-collection privacy now cascades to child collections, so bookmarks inside child collections of a locked collection are hidden in the Bookmarks screen and search.
@@ -415,4 +432,3 @@
 - Added advanced search operators (Exact Match, Exclude, Regex) to refine search results
 - Added Boolean search filters (AND, OR) to specify relationships between search terms
 - Launched a Telegram channel to gather feedback and support the project
-

@@ -1,5 +1,22 @@
 # Journal des modifications
 
+### Version 1.5.5 – 30 mai 2026
+
+#### Nouveautés
+
+- Browser Sync sort de bêta, ne nécessite plus Pro et synchronise désormais les signets Android et Chrome via Google Drive.
+- Enregistrez, mettez à jour, supprimez et organisez des pages depuis l'extension Chrome.
+
+#### Améliorations de Browser Sync
+
+- Les changements de signets restent mieux alignés entre Android et Chrome, y compris les créations, modifications, déplacements et suppressions.
+- Les signets synchronisés depuis Chrome peuvent récupérer des détails de page et des images d'aperçu plus riches lorsque disponibles.
+- Les paramètres de Browser Sync rendent la configuration, l'état de synchronisation, l'historique et les options de réinitialisation plus faciles à suivre.
+
+#### Finition Android
+
+- Les listes et les vues en arborescence sont plus fluides, avec un meilleur défilement rapide et des mises à jour plus rapides pour la sélection, l'ouverture, la fermeture et l'épinglage.
+
 ### Version 1.5.4 – 20 mai 2026
 
 - Corrigé : la confidentialité des collections verrouillées s'applique désormais aux sous-collections ; les signets dans une collection enfant d'une collection verrouillée sont masqués dans l'écran Signets et la recherche.
