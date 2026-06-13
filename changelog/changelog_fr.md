@@ -4,17 +4,22 @@
 
 #### Nouveautés
 
-- Digest de signets : retrouvez vos signets enregistrés dans un digest clair avec résumés, descriptions, commentaires et navigation rapide.
+- Digest de signets : retrouvez vos signets enregistrés dans Catch Up, Explore et Rediscover, avec résumés, descriptions, commentaires, images, vidéos et navigation par balayage.
 
 #### Améliorations
 
 - Les listes de signets et les vues de collection peuvent maintenant afficher les commentaires des signets, avec des options pour préférer les commentaires, préférer les descriptions, afficher les deux et citer les aperçus de commentaires.
 - Le Digest reste à jour pendant la lecture, y compris après modification ou suppression de signets.
+- Les mises à jour des signets par IA sont plus efficaces et plus fiables.
+- Le Digest de signets affiche des aperçus plus riches pour les vidéos et liens multimédias enregistrés lorsqu’ils sont disponibles.
+- Le Digest de signets conserve les commandes de navigation dans la zone d’action inférieure pour une vue de lecture plus claire.
+- Le partage de cartes image contenant un lien peut maintenant créer un signet et conserver l’image partagée comme vignette.
 
 #### Corrigé
 
 - Amélioration de la modification des signets depuis le menu du navigateur intégré.
 - Correction de l'édition des notes avec le clavier ouvert afin que la saisie des étiquettes et les commandes de note restent accessibles pendant la frappe.
+- Correction d’un plantage lors de l’ouverture des Nouveautés sur les anciennes versions d’Android.
 
 ### Version 1.5.5 – 30 mai 2026
 

@@ -4,17 +4,22 @@
 
 #### New
 
-- Bookmark Digest: revisit saved bookmarks in a focused digest with summaries, descriptions, comments, and quick navigation.
+- Bookmark Digest: revisit saved bookmarks across Catch Up, Explore, and Rediscover with summaries, descriptions, comments, images, videos, and swipe navigation.
 
 #### Improvements
 
 - Bookmark lists and collection views can now show bookmark comments, with options to prefer comments, prefer descriptions, show both, and quote comment previews.
 - Digest stays up to date while reading, including bookmark edits and deleted items.
+- AI bookmark updates are more efficient and reliable.
+- Bookmark Digest shows richer previews for saved videos and media links when available.
+- Bookmark Digest keeps navigation controls in the bottom action area for a cleaner reading view.
+- Sharing image cards that include a link can now create a bookmark and keep the shared image as its thumbnail.
 
 #### Fixed
 
 - Improved bookmark editing from the in-app browser menu.
 - Fixed note editing with the keyboard open so tag entry and note controls stay reachable while typing.
+- Fixed a crash when opening What’s New on older Android versions.
 
 ### Version 1.5.5 – May 30, 2026
 
