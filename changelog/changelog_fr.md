@@ -1,6 +1,6 @@
 # Journal des modifications
 
-### Version 1.5.6 – juin 2026
+### Version 1.5.6 – 13 juin 2026
 
 #### Nouveautés
 

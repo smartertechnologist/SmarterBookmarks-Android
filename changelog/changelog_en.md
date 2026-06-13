@@ -1,6 +1,6 @@
 # Changelog
 
-### Version 1.5.6 – June 2026
+### Version 1.5.6 – June 13, 2026
 
 #### New
 
