@@ -4,12 +4,11 @@
 
 #### Nouveautés
 
-- Digest de signets : retrouvez vos signets enregistrés dans une vue de lecture claire avec résumés, descriptions, commentaires et navigation rapide.
+- Digest de signets : retrouvez vos signets enregistrés dans un digest clair avec résumés, descriptions, commentaires et navigation rapide.
 
 #### Améliorations
 
-- Les listes de signets et les vues de collection peuvent maintenant afficher les commentaires des signets.
-- De nouvelles options d'affichage permettent de préférer les commentaires, de préférer les descriptions, d'afficher les deux et de contrôler les aperçus de commentaires en citation.
+- Les listes de signets et les vues de collection peuvent maintenant afficher les commentaires des signets, avec des options pour préférer les commentaires, préférer les descriptions, afficher les deux et citer les aperçus de commentaires.
 - Le Digest reste à jour pendant la lecture, y compris après modification ou suppression de signets.
 
 #### Corrigé

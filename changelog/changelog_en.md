@@ -4,12 +4,11 @@
 
 #### New
 
-- Bookmark Digest: revisit saved bookmarks in a focused reading view with summaries, descriptions, comments, and quick navigation.
+- Bookmark Digest: revisit saved bookmarks in a focused digest with summaries, descriptions, comments, and quick navigation.
 
 #### Improvements
 
-- Bookmark lists and collection views can now show bookmark comments.
-- New comment display options let you prefer comments, prefer descriptions, show both, and control quoted comment previews.
+- Bookmark lists and collection views can now show bookmark comments, with options to prefer comments, prefer descriptions, show both, and quote comment previews.
 - Digest stays up to date while reading, including bookmark edits and deleted items.
 
 #### Fixed
