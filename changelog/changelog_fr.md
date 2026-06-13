@@ -1,5 +1,22 @@
 # Journal des modifications
 
+### Version 1.5.6 – juin 2026
+
+#### Nouveautés
+
+- Digest de signets : retrouvez vos signets enregistrés dans une vue de lecture claire avec résumés, descriptions, commentaires et navigation rapide.
+
+#### Améliorations
+
+- Les listes de signets et les vues de collection peuvent maintenant afficher les commentaires des signets.
+- De nouvelles options d'affichage permettent de préférer les commentaires, de préférer les descriptions, d'afficher les deux et de contrôler les aperçus de commentaires en citation.
+- Le Digest reste à jour pendant la lecture, y compris après modification ou suppression de signets.
+
+#### Corrigé
+
+- Amélioration de la modification des signets depuis le menu du navigateur intégré.
+- Correction de l'édition des notes avec le clavier ouvert afin que la saisie des étiquettes et les commandes de note restent accessibles pendant la frappe.
+
 ### Version 1.5.5 – 30 mai 2026
 
 #### Nouveautés

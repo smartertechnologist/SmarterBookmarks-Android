@@ -1,5 +1,22 @@
 # Changelog
 
+### Version 1.5.6 – June 2026
+
+#### New
+
+- Bookmark Digest: revisit saved bookmarks in a focused reading view with summaries, descriptions, comments, and quick navigation.
+
+#### Improvements
+
+- Bookmark lists and collection views can now show bookmark comments.
+- New comment display options let you prefer comments, prefer descriptions, show both, and control quoted comment previews.
+- Digest stays up to date while reading, including bookmark edits and deleted items.
+
+#### Fixed
+
+- Improved bookmark editing from the in-app browser menu.
+- Fixed note editing with the keyboard open so tag entry and note controls stay reachable while typing.
+
 ### Version 1.5.5 – May 30, 2026
 
 #### New
