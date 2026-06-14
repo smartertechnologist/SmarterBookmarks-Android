@@ -4,7 +4,7 @@
 
 #### Nouveautés
 
-- Digest de signets : retrouvez vos signets enregistrés dans Catch Up, Explore et Rediscover, avec résumés, descriptions, commentaires, images, vidéos et navigation par balayage.
+- Digest de signets : retrouvez vos signets enregistrés dans Catch Up, Explore et Rediscover, avec résumés, digests IA, descriptions, commentaires, images, vidéos et navigation par balayage.
 
 #### Améliorations
 

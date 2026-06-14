@@ -4,7 +4,7 @@
 
 #### New
 
-- Bookmark Digest: revisit saved bookmarks across Catch Up, Explore, and Rediscover with summaries, descriptions, comments, images, videos, and swipe navigation.
+- Bookmark Digest: revisit saved bookmarks across Catch Up, Explore, and Rediscover with summaries, AI digests, descriptions, comments, images, videos, and swipe navigation.
 
 #### Improvements
 
