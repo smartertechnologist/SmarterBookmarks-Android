@@ -1,5 +1,29 @@
 # Journal des modifications
 
+### Version 1.5.7 – 25 juin 2026
+
+#### Nouveautés
+
+- Surlignages dans le Digest : marquez des extraits utiles directement dans le Digest de signets pendant votre revue.
+- Écoute du Digest : écoutez les éléments du Digest avec la synthèse vocale, le surlignage de suivi et l’écoute automatique.
+- Attachez des notes existantes aux signets et liez les notes non attachées depuis l’écran Notes.
+
+#### Améliorations
+
+- Les listes de signets affichent maintenant des noms de site plus lisibles lorsqu’ils sont disponibles, au lieu de domaines bruts.
+- Le Digest de signets peut afficher des icônes de source et des lignes de source plus claires, avec un accès rapide au lien original et un réglage pour masquer les libellés de source.
+- Les icônes des menus contextuels sont maintenant affichées par défaut.
+- Le navigateur intégré et le mode lecteur peuvent mémoriser l’endroit où vous lisiez et restaurer votre position lorsque vous rouvrez des pages.
+- Détection des titres de signets améliorée sur les connexions lentes ou instables afin que les chargements de page échoués remplacent moins souvent les titres par des URL.
+- Les bulles flottantes sont plus fluides lors du déplacement, de l’ancrage aux bords et de la fermeture.
+
+#### Corrigé
+
+- Correction de la sélection des plages de surlignage afin que les petits surlignages ne remontent plus ou ne sélectionnent plus depuis le haut du contenu.
+- Correction des actions de rappel depuis les menus de signets dans le Digest et les vues de signets associées.
+- Correction du plein écran pour les vidéos intégrées dans le Digest de signets.
+- Correction de plusieurs plantages pouvant survenir avec les vues du navigateur, les feuilles inférieures, les réglages de synthèse vocale et les bulles flottantes.
+
 ### Version 1.5.6 – 13 juin 2026
 
 #### Nouveautés

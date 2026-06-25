@@ -1,5 +1,29 @@
 # Changelog
 
+### Version 1.5.7 – June 25, 2026
+
+#### New
+
+- Digest highlights: mark useful snippets directly inside Bookmark Digest while reviewing saved items.
+- Digest listening: listen to Digest items with text-to-speech, read-along highlights, and auto-listen.
+- Attach existing notes to bookmarks, and link unattached notes from the Notes screen.
+
+#### Improvements
+
+- Bookmark lists now show cleaner site names when available instead of raw domains.
+- Bookmark Digest can show source icons and cleaner source rows, with quick access to open the original link and a setting to hide source labels.
+- Popup menu icons are now shown by default.
+- The in-app browser and reader mode can remember where you were reading and restore your position when reopening pages.
+- Improved bookmark title detection on slow or unstable connections so failed page loads are less likely to replace titles with URLs.
+- Floating bubbles feel smoother when dragging, snapping to edges, and dismissing.
+
+#### Fixed
+
+- Fixed highlight range selection so small highlights no longer jump upward or select from the top of the content.
+- Fixed reminder actions from bookmark menus in Digest and related bookmark views.
+- Fixed embedded video fullscreen handling in Bookmark Digest.
+- Fixed several crashes that could happen when using browser views, bottom sheets, text-to-speech settings, and floating bubbles.
+
 ### Version 1.5.6 – June 13, 2026
 
 #### New
