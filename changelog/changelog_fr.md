@@ -1,5 +1,26 @@
 # Journal des modifications
 
+### Version 1.5.8 – 28 juin 2026
+
+#### Nouveautés
+
+- Navigateur intégré amélioré : commandes plus claires, page de démarrage utile, onglets, suggestions de recherche et accès plus rapide depuis les raccourcis.
+- URLs enregistrées plus propres : supprimez facultativement les paramètres de suivi des URLs de signets lors de l’enregistrement ou de la modification.
+
+#### Améliorations
+
+- La navigation par onglets n’est plus en bêta et est maintenant activée par défaut.
+- La recherche du navigateur inclut maintenant des suggestions du moteur de recherche et les signets enregistrés correspondants.
+- Les filtres de recherche respectent mieux les champs et la portée choisis, y compris les champs de signets et les filtres de recherche des collections.
+- Les images des détails de signets sont plus faciles à consulter, surtout les images verticales et les signets avec plusieurs images.
+- Les listes de signets peuvent afficher des titres plus longs, et la navigation inférieure peut rester visible pendant le défilement.
+- Les réglages du navigateur incluent maintenant des contrôles pour le balayage afin d’actualiser et le masquage automatique des barres du navigateur.
+
+#### Corrigé
+
+- Fiabilité améliorée lors de l’ouverture, de l’enregistrement, de la modification, du partage et de l’organisation des signets.
+- Amélioration de la navigation dans les collections, du scan QR, des onglets du navigateur, du retour arrière et de la stabilité du navigateur intégré.
+
 ### Version 1.5.7 – 25 juin 2026
 
 #### Nouveautés

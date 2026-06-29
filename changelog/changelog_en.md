@@ -1,5 +1,26 @@
 # Changelog
 
+### Version 1.5.8 – June 28, 2026
+
+#### New
+
+- Improved in-app browser: cleaner controls, a useful start page, browser tabs, search suggestions, and quicker access from shortcuts.
+- Cleaner saved URLs: optionally remove tracking parameters from bookmark URLs when saving or editing bookmarks.
+
+#### Improvements
+
+- Tabbed browsing is out of beta and is now enabled by default.
+- Browser search now includes provider suggestions and matching saved bookmarks.
+- Search filters now better respect the fields and scope you choose, including bookmark fields and collection search chips.
+- Bookmark detail images are easier to view, especially tall portrait images and bookmarks with multiple images.
+- Bookmark lists can show longer titles, and bottom navigation can stay visible while scrolling.
+- Browser settings now include controls for swipe-to-refresh and browser bar auto-hide.
+
+#### Fixed
+
+- Improved reliability when opening, saving, editing, sharing, and organizing bookmarks.
+- Improved collection navigation, QR scanning, browser tabs, back navigation, and in-app browser stability.
+
 ### Version 1.5.7 – June 25, 2026
 
 #### New
