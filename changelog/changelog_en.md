@@ -1,5 +1,21 @@
 # Changelog
 
+### Version 1.5.9 – July 7, 2026
+
+#### New
+
+- Tag filters in search: filter bookmarks and notes with visible tag chips, or type exact tag searches such as #Windows and #Inbox.
+
+#### Security
+
+- Search and Connect to PC now keep hidden bookmarks, hidden collection trees, and locked collection trees excluded from results.
+
+#### Improvements
+
+- Matching tag chips are highlighted in search results.
+- Tag filters follow the existing AND / OR search mode.
+- Search filters now behave more consistently across Bookmarks and Notes.
+
 ### Version 1.5.8 – June 28, 2026
 
 #### New

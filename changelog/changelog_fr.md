@@ -1,5 +1,21 @@
 # Journal des modifications
 
+### Version 1.5.9 – 7 juillet 2026
+
+#### Nouveautés
+
+- Filtres par étiquette dans la recherche : filtrez les signets et les notes avec des puces d’étiquettes visibles, ou saisissez des recherches exactes comme #Windows et #Inbox.
+
+#### Sécurité
+
+- La recherche et Connect to PC excluent désormais les signets masqués, les arborescences de collections masquées et les arborescences de collections verrouillées des résultats.
+
+#### Améliorations
+
+- Les puces d’étiquettes correspondantes sont surlignées dans les résultats de recherche.
+- Les filtres par étiquette suivent le mode de recherche AND / OR existant.
+- Les filtres de recherche se comportent maintenant de façon plus cohérente dans les Signets et les Notes.
+
 ### Version 1.5.8 – 28 juin 2026
 
 #### Nouveautés
