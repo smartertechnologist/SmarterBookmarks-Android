@@ -16,6 +16,13 @@
 - Les filtres par étiquette suivent le mode de recherche AND / OR existant.
 - Les filtres de recherche se comportent maintenant de façon plus cohérente dans les Signets et les Notes.
 
+#### Stabilité
+
+- Correction de plusieurs plantages lors de l’ouverture des menus, des listes déroulantes, des bulles flottantes, des widgets, de la facturation et de la synchronisation en arrière-plan.
+- Fiabilité améliorée de l’actualisation des widgets lorsque les données de signets ou de collections changent.
+- Planification des tâches en arrière-plan améliorée sur les appareils avec des états d’autorisation inhabituels.
+- La progression du chargement du navigateur intégré apparaît maintenant plus tôt sur les réseaux lents.
+
 ### Version 1.5.8 – 28 juin 2026
 
 #### Nouveautés

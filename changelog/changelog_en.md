@@ -16,6 +16,13 @@
 - Tag filters follow the existing AND / OR search mode.
 - Search filters now behave more consistently across Bookmarks and Notes.
 
+#### Stability
+
+- Fixed several crashes when opening menus, dropdowns, floating bubbles, widgets, billing, and background sync.
+- Improved widget refresh reliability when bookmark or collection data changes.
+- Improved background job scheduling on devices with unusual permission states.
+- In-app browser loading progress now appears sooner on slow networks.
+
 ### Version 1.5.8 – June 28, 2026
 
 #### New
