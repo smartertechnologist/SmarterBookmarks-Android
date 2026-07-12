@@ -1,5 +1,24 @@
 # Changelog
 
+### Version 1.6.0 – July 12, 2026
+
+#### New
+
+- Start Digest from regular and Smart Collections and review eligible bookmarks in Catch Up, Explore, and Rediscover.
+- Choose whether a collection Digest also includes eligible bookmarks from nested collections.
+
+#### Improvements
+
+- Smoother scrolling in large bookmark libraries, especially with large page sizes and bookmark details visible.
+- Monthly, Yearly, and Lifetime Pro plans now appear together with clearer billing terms and plan management.
+- Database settings now explain the difference between portable exports and complete restoration backups.
+
+#### Fixed
+
+- Improved HTML and CSV imports from file managers, cloud providers, and browser exports.
+- Preserved special characters and collection hierarchy during HTML export and import.
+- Improved large-file import handling and complete-backup recovery reliability.
+
 ### Version 1.5.9 – July 7, 2026
 
 #### New

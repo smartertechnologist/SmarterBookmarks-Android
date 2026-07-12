@@ -1,5 +1,24 @@
 # Journal des modifications
 
+### Version 1.6.0 – 12 juillet 2026
+
+#### Nouveautés
+
+- Lancez le Digest depuis des collections classiques ou intelligentes et parcourez les signets admissibles dans Catch Up, Explore et Rediscover.
+- Choisissez si le Digest d'une collection inclut également les signets admissibles de ses sous-collections.
+
+#### Améliorations
+
+- Défilement plus fluide dans les grandes bibliothèques de signets, notamment avec des pages volumineuses et les détails des signets affichés.
+- Les offres Pro mensuelle, annuelle et à vie apparaissent maintenant ensemble, avec des conditions de facturation et une gestion des offres plus claires.
+- Les réglages de la base de données expliquent maintenant la différence entre les exports portables et les sauvegardes complètes destinées à la restauration.
+
+#### Corrigé
+
+- Amélioration des imports HTML et CSV depuis les gestionnaires de fichiers, les services cloud et les exports de navigateurs.
+- Conservation des caractères spéciaux et de la hiérarchie des collections pendant l'export et l'import HTML.
+- Amélioration du traitement des fichiers volumineux et de la fiabilité de la restauration des sauvegardes complètes.
+
 ### Version 1.5.9 – 7 juillet 2026
 
 #### Nouveautés
