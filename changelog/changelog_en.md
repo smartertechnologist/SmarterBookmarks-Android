@@ -1,5 +1,24 @@
 # Changelog
 
+### Version 1.6.1 – July 29, 2026
+
+#### New
+
+- Reorder pinned bookmarks, collections, bookmarks inside collections, and notes with Move up and Move down.
+- Set up an empty dashboard in one tap with templates for essentials, library stats, or reminders.
+- Paste a website address when adding an RSS source to discover its advertised RSS or Atom feed.
+
+#### Improvements
+
+- RSS feeds now synchronize more reliably with explicit timeouts for slow responses.
+- A slow or unavailable feed no longer holds up unrelated feed downloads, and parser fallback no longer downloads the same feed twice.
+
+#### Fixed
+
+- Empty dashboards and list screens now keep the correct empty state and hide inapplicable secondary controls after navigation.
+- Source type selection and navigation now display consistently across compact phones, foldables, and tablets.
+- Reduced memory pressure during metadata refresh and browser tab use for better stability on memory-constrained devices.
+
 ### Version 1.6.0 – July 12, 2026
 
 #### New

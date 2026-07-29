@@ -1,5 +1,24 @@
 # Journal des modifications
 
+### Version 1.6.1 – 29 juillet 2026
+
+#### Nouveautés
+
+- Réorganisez les signets, collections, signets dans les collections et notes épinglés avec Monter et Descendre.
+- Configurez un tableau de bord vide en un geste avec des modèles pour l’essentiel, les statistiques de bibliothèque ou les rappels.
+- Collez l’adresse d’un site lors de l’ajout d’une source RSS pour découvrir son flux RSS ou Atom déclaré.
+
+#### Améliorations
+
+- Les flux RSS se synchronisent maintenant de manière plus fiable grâce à des délais d’attente explicites pour les réponses lentes.
+- Un flux lent ou indisponible ne retarde plus le téléchargement des autres flux, et l’analyse de secours ne télécharge plus deux fois le même flux.
+
+#### Corrigé
+
+- Les tableaux de bord et listes vides conservent maintenant leur état vide correct et masquent les commandes secondaires inutiles après la navigation.
+- La sélection du type de source et la navigation s’affichent désormais de façon cohérente sur les téléphones compacts, les appareils pliables et les tablettes.
+- Réduction de la pression mémoire pendant l’actualisation des métadonnées et l’utilisation des onglets du navigateur pour améliorer la stabilité sur les appareils à mémoire limitée.
+
 ### Version 1.6.0 – 12 juillet 2026
 
 #### Nouveautés
