@@ -1,5 +1,26 @@
 # Journal des modifications
 
+### Version 1.6.2 – 1 août 2026
+
+#### Nouveautés
+
+- Épinglez les sources RSS et Google Drive, puis réorganisez-les avec Monter et Descendre.
+- Archivez les sources dont vous n’avez plus besoin et restaurez-les plus tard depuis Sources archivées.
+- Interrogez Smartie sur les sources ou utilisez le mode Agent pour les ajouter, modifier, organiser, synchroniser, archiver, restaurer et supprimer via les contrôles validés de l’application.
+- Choisissez Gemini 3.6 Flash pour les conversations Smartie et les actions Agent.
+
+#### Améliorations
+
+- Les listes de sources proposent des actions, tris, états vides et mises en page plus clairs sur les téléphones, appareils pliables et tablettes.
+- La modification d’une source RSS explique mieux les adresses de sites et de flux, et valide les adresses modifiées avant la reconnexion.
+- Les réponses d’outils des nouveaux modèles Gemini conservent désormais les identifiants d’appel pour fiabiliser les actions en plusieurs étapes.
+
+#### Corrigé
+
+- Les nouveaux modèles Gemini sélectionnés ne reviennent plus silencieusement à Gemini 2.5 Flash.
+- Le passage entre les modes Ask et Agent actualise maintenant les outils disponibles tout en conservant le contexte de la conversation.
+- Les anciens résultats de détection RSS ne remplacent plus une adresse ou une connexion plus récente.
+
 ### Version 1.6.1 – 29 juillet 2026
 
 #### Nouveautés

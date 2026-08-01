@@ -1,5 +1,26 @@
 # Changelog
 
+### Version 1.6.2 – August 1, 2026
+
+#### New
+
+- Pin RSS and Google Drive sources, then arrange pinned sources with Move up and Move down.
+- Archive sources you no longer need and restore them later from Archived Sources.
+- Ask Smartie about source metadata, or use Agent mode to add, edit, organize, synchronize, archive, restore, and delete sources through the app’s validated workflows.
+- Choose Gemini 3.6 Flash for Smartie conversations and Agent actions.
+
+#### Improvements
+
+- Source lists now provide clearer actions, sorting, empty states, and layouts across phones, foldables, and tablets.
+- RSS source editing better explains website and feed URLs and validates changed URLs before reconnecting.
+- Newer Gemini tool responses now preserve function-call identifiers for more reliable multi-step actions.
+
+#### Fixed
+
+- Newer Gemini selections no longer silently fall back to Gemini 2.5 Flash.
+- Switching between Ask and Agent now refreshes Smartie’s available tools while keeping the conversation context.
+- Stale RSS discovery callbacks no longer replace a newer URL or connection result.
+
 ### Version 1.6.1 – July 29, 2026
 
 #### New
