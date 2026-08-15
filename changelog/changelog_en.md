@@ -1,15 +1,13 @@
 # Changelog
 
-### Version 1.6.3 – Upcoming
+### Version 1.6.3 – August 16, 2026
 
 #### New
 
 - Add a Digest widget to your Dashboard to start today’s Digest or continue from where you left off.
-- Save and review all tabs in the current browser window with the Browser Sync extension before adding them to Smarter Bookmarks.
 - Copy individual or selected bookmarks and complete collection trees as Markdown.
 - Choose how bookmarks open—in Smarter Bookmarks or a compatible installed app or browser—with bookmark preferences and domain rules taking priority over the default opening method.
-- Apply an existing bookmark template to the current matches in a Smart Collection.
-- Follow syncs, backups, imports, downloads, and other user-started work from the new Activity center.
+- Apply an existing bookmark template to bookmarks matched by a Smart Collection’s existing rules, with clearer template settings and bounded updates for large libraries.
 
 #### Improvements
 
@@ -21,7 +19,6 @@
 #### Fixed
 
 - Digest link fallbacks show the saved URL instead of repeating the domain when richer bookmark details are unavailable.
-- The Browser Sync popup remains compact without an unused blank area beside its content.
 
 ### Version 1.6.2 – August 1, 2026
 

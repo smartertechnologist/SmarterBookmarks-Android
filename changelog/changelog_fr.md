@@ -1,15 +1,13 @@
 # Journal des modifications
 
-### Version 1.6.3 – À venir
+### Version 1.6.3 – 16 août 2026
 
 #### Nouveautés
 
 - Ajoutez un widget Digest au tableau de bord pour démarrer le Digest du jour ou reprendre là où vous vous étiez arrêté.
-- Enregistrez et examinez tous les onglets de la fenêtre actuelle avec l’extension Browser Sync avant de les ajouter à Smarter Bookmarks.
 - Copiez au format Markdown un ou plusieurs signets, ainsi que des arborescences complètes de collections.
 - Choisissez comment ouvrir les signets — dans Smarter Bookmarks ou dans une application ou un navigateur compatible installé — avec priorité aux préférences du signet et aux règles du site sur la méthode d’ouverture par défaut.
-- Appliquez un modèle de signet existant aux résultats actuels d’une collection intelligente.
-- Suivez les synchronisations, sauvegardes, imports, téléchargements et autres opérations lancées par l’utilisateur depuis le nouveau centre d’activité.
+- Appliquez un modèle de signet existant aux signets correspondant aux règles actuelles d’une collection intelligente, avec des réglages de modèle plus clairs et des mises à jour par lots pour les grandes bibliothèques.
 
 #### Améliorations
 
@@ -21,7 +19,6 @@
 #### Corrigé
 
 - Dans le Digest, les liens de secours affichent l’adresse enregistrée au lieu de répéter le domaine lorsque les détails enrichis du signet sont indisponibles.
-- La fenêtre de Browser Sync reste compacte, sans espace vide inutilisé à côté de son contenu.
 
 ### Version 1.6.2 – 1 août 2026
 
