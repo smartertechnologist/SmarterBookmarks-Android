@@ -7,13 +7,13 @@
 - Add a Digest widget to your Dashboard to start today’s Digest or continue from where you left off.
 - Save and review all tabs in the current browser window with the Browser Sync extension before adding them to Smarter Bookmarks.
 - Copy individual or selected bookmarks and complete collection trees as Markdown.
-- Choose how bookmarks open—in Smarter Bookmarks or a compatible installed app or browser—with bookmark preferences and website rules taking priority over the default opening method.
+- Choose how bookmarks open—in Smarter Bookmarks or a compatible installed app or browser—with bookmark preferences and domain rules taking priority over the default opening method.
 - Apply an existing bookmark template to the current matches in a Smart Collection.
 - Follow syncs, backups, imports, downloads, and other user-started work from the new Activity center.
 
 #### Improvements
 
-- Review redirects found by Link Health Monitoring and choose which bookmark destinations to repair.
+- Check an individual bookmark’s health on demand, review redirects found by Bookmark Health Monitoring, and choose which destinations to repair.
 - Collection popup actions are grouped into shorter, clearer menus for status, sharing, organization, home-screen access, and other actions.
 - Markdown copying and collection exports use less memory and remain responsive with large bookmark libraries.
 - A unified opening-method sheet replaces separate external/open-with routes across bookmark menus and browser surfaces. Choose once or remember a choice for the bookmark, website, or default; unavailable apps fall back safely to the next opening rule.
