@@ -1,5 +1,28 @@
 # Journal des modifications
 
+### Version 1.6.3 – À venir
+
+#### Nouveautés
+
+- Ajoutez un widget Digest au tableau de bord pour démarrer le Digest du jour ou reprendre là où vous vous étiez arrêté.
+- Enregistrez et examinez tous les onglets de la fenêtre actuelle avec l’extension Browser Sync avant de les ajouter à Smarter Bookmarks.
+- Copiez au format Markdown un ou plusieurs signets, ainsi que des arborescences complètes de collections.
+- Choisissez comment ouvrir les signets — dans Smarter Bookmarks ou dans une application ou un navigateur compatible installé — avec priorité aux préférences du signet et aux règles du site sur la méthode d’ouverture par défaut.
+- Appliquez un modèle de signet existant aux résultats actuels d’une collection intelligente.
+- Suivez les synchronisations, sauvegardes, imports, téléchargements et autres opérations lancées par l’utilisateur depuis le nouveau centre d’activité.
+
+#### Améliorations
+
+- Examinez les redirections détectées par la surveillance de l’état des liens et choisissez les destinations de signets à corriger.
+- Les actions du menu contextuel des collections sont regroupées dans des menus plus courts et plus clairs pour l’état, le partage, l’organisation, l’écran d’accueil et les autres actions.
+- La copie Markdown et les exports de collections utilisent moins de mémoire et restent réactifs avec de grandes bibliothèques de signets.
+- Une feuille de méthode d’ouverture unifiée remplace les parcours séparés d’ouverture externe ou avec une application dans les menus des signets et les écrans du navigateur. Choisissez une seule fois ou mémorisez le choix pour le signet, le site ou le réglage par défaut ; les applications indisponibles passent sans risque à la règle suivante.
+
+#### Corrigé
+
+- Dans le Digest, les liens de secours affichent l’adresse enregistrée au lieu de répéter le domaine lorsque les détails enrichis du signet sont indisponibles.
+- La fenêtre de Browser Sync reste compacte, sans espace vide inutilisé à côté de son contenu.
+
 ### Version 1.6.2 – 1 août 2026
 
 #### Nouveautés
