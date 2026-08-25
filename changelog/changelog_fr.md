@@ -1,5 +1,13 @@
 # Journal des modifications
 
+### Version 1.6.4 – 25 août 2026
+
+#### Corrigé
+
+- Les descriptions, noms de sites et adresses des signets ne deviennent plus invisibles dans les collections et les sélecteurs après l’ouverture de l’application depuis un raccourci. Les détails existants n’étaient pas perdus.
+- La création d’une étiquette de note ne provoque plus de plantage sur les anciennes versions d’Android lorsque la fenêtre de suggestions se ferme.
+- Mise à jour des composants de connexion Google pour améliorer la fiabilité avec les versions récentes des services Google Play.
+
 ### Version 1.6.3 – 16 août 2026
 
 #### Nouveautés

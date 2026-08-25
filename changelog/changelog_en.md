@@ -1,5 +1,13 @@
 # Changelog
 
+### Version 1.6.4 – August 25, 2026
+
+#### Fixed
+
+- Bookmark descriptions, website names, and URLs no longer become invisible in collections and bookmark pickers after opening the app from a shortcut. Existing bookmark details were not lost.
+- Creating a note tag no longer crashes older Android devices when the suggestions popup is closing.
+- Updated Google sign-in components for improved reliability with newer Google Play services.
+
 ### Version 1.6.3 – August 16, 2026
 
 #### New
