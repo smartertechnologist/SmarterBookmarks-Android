@@ -1,5 +1,19 @@
 # Changelog
 
+### Version 1.6.5 – September 11, 2026
+
+#### New
+
+- Set a marker on a bookmark, collection, note, tag, or source, then return to it later with the surrounding items still visible.
+
+#### Improvements
+
+- Notes now support up to 100,000 characters, making it easier to keep long-form content together.
+
+#### Fixed
+
+- Markdown table text no longer overlaps when an expanded note is displayed in the Notes list.
+
 ### Version 1.6.4 – August 25, 2026
 
 #### Fixed

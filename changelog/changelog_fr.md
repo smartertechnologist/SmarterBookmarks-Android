@@ -1,5 +1,19 @@
 # Journal des modifications
 
+### Version 1.6.5 – 11 septembre 2026
+
+#### Nouveautés
+
+- Placez un marqueur sur un signet, une collection, une note, une étiquette ou une source, puis retrouvez-le plus tard tout en conservant les éléments environnants visibles.
+
+#### Améliorations
+
+- Les notes prennent désormais en charge jusqu’à 100 000 caractères, ce qui permet de conserver plus facilement les contenus détaillés dans une seule note.
+
+#### Corrigé
+
+- Le texte des tableaux Markdown ne se chevauche plus lorsqu’une note développée est affichée dans la liste des notes.
+
 ### Version 1.6.4 – 25 août 2026
 
 #### Corrigé
