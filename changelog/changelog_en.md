@@ -1,5 +1,35 @@
 # Changelog
 
+### Version 1.6.6 – October 1, 2026
+
+#### New
+
+- Filter bookmarks, collections, notes, tags and sources by date, with multiple date ranges and saved-search support.
+- Find bookmarks by topic with AI Search, explore similar bookmarks, and discover topic groups and possible duplicates.
+- Ask Smartie questions about your library with linked sources, and save prompts for reuse.
+- Create AI tasks from Smartie or the tasks screen to research now or on a schedule, with reports in a chat or the task itself. Choose Read-only, or use Pro Agent access for supported changes with Auto, Interactive, or Smart interaction. Task notifications also require Pro Agent access.
+- Get recurring research and Agent organization ideas from a sample of your visible library. Review your reading interests and edit each suggested prompt and schedule before saving. Agent ideas start with review before applying changes.
+- Automatically organize new bookmarks with rules for collections and tags, including previews and action history.
+- Manage tag aliases and groups, merge selected tags, and explore suggestions for related tags.
+- Use OpenAI alongside Gemini, choose models per AI feature, and select Compact or Enhanced on-device models.
+
+#### Improvements
+
+- Clearer menus, AI settings, and Smartie actions make common options easier to find.
+- Smartie can ask follow-up questions with choices or a written answer to clarify your request.
+- Open AI tasks directly to their latest report, with details and previous runs available separately.
+- Faster bookmark cleanup, with clearer progress and review controls.
+- AI features shows AI setup and Index setup first, followed by a unified feature list. AI Search finds bookmarks by meaning with semantic search.
+- Bookmark menus label suggestions as AI recommendations. Collection menus offer Suggest bookmarks directly.
+- AI Search remembers your mode and preserves your query when switching modes. Press Enter to search, and follow indexing progress and recovery in settings.
+- Recurring reminders follow calendar dates and preserve your selected local time. Optional precise timing helps bookmark reminders and expiry alerts arrive on time; Android may delay alerts without this access and scheduled AI tasks.
+
+#### Fixed
+
+- Gemini usage totals include all steps in a response, including tool calls.
+- Offline categorization works when bookmark-based training is disabled.
+- ZIP restore rebuilds pending reminder and expiry schedules. Startup also recovers missing reminder schedules while preserving working schedules and delivered occurrences.
+
 ### Version 1.6.5 – September 11, 2026
 
 #### New

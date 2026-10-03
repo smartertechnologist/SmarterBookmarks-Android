@@ -1,5 +1,35 @@
 # Journal des modifications
 
+### Version 1.6.6 – 1er octobre 2026
+
+#### Nouveautés
+
+- Filtrez les signets, collections, notes, étiquettes et sources par date, avec plusieurs plages de dates et la prise en charge des recherches enregistrées.
+- Retrouvez des signets par thème grâce à Recherche IA, explorez les signets similaires et découvrez des groupes de thèmes et des doublons possibles.
+- Posez des questions à Smartie sur votre bibliothèque avec des liens vers les sources, et enregistrez vos invites pour les réutiliser.
+- Créez des tâches IA depuis Smartie ou l’écran des tâches pour effectuer des recherches immédiatement ou selon un calendrier, avec des rapports dans une conversation ou dans la tâche elle-même. Choisissez Lecture seule, ou utilisez l’accès Agent Pro pour effectuer les modifications prises en charge avec les modes Auto, Interactif ou Smart. Les notifications des tâches nécessitent également l’accès Agent Pro.
+- Obtenez des idées récurrentes de recherche et d’organisation avec Agent à partir d’un échantillon de votre bibliothèque visible. Vérifiez vos centres d’intérêt et modifiez chaque consigne et calendrier avant l’enregistrement. Les idées Agent demandent une vérification avant d’appliquer les modifications.
+- Organisez automatiquement les nouveaux signets avec des règles pour les collections et les étiquettes, avec aperçu et historique des actions.
+- Gérez les alias et les groupes d’étiquettes, fusionnez les étiquettes sélectionnées et explorez les suggestions d’étiquettes associées.
+- Utilisez OpenAI aux côtés de Gemini, choisissez les modèles par fonctionnalité IA et sélectionnez les modèles locaux Compact ou Enhanced.
+
+#### Améliorations
+
+- Des menus, des réglages IA et des actions Smartie plus clairs facilitent l’accès aux options courantes.
+- Smartie peut poser des questions complémentaires avec des choix ou une réponse écrite pour préciser votre demande.
+- Ouvrez les tâches IA directement sur leur dernier rapport, avec les détails et les exécutions précédentes accessibles séparément.
+- Un nettoyage des signets plus rapide, avec une progression et des commandes de vérification plus claires.
+- Les fonctionnalités IA affichent d’abord les réglages IA et la configuration de l’index, puis une liste unifiée des fonctionnalités. Recherche IA trouve les signets par leur sens grâce à la recherche sémantique.
+- Les menus des signets regroupent les suggestions sous Recommandations IA. Les menus des collections proposent directement Suggérer des signets.
+- Recherche IA mémorise votre mode et conserve votre requête lorsque vous changez de mode. Appuyez sur Entrée pour rechercher et suivez la progression et la reprise de l’indexation dans les réglages.
+- Les rappels récurrents suivent les dates du calendrier et conservent l’heure locale choisie. Le déclenchement précis facultatif aide les rappels de signets et les alertes d’expiration à arriver à l’heure ; Android peut retarder les alertes sans cet accès ainsi que les tâches IA planifiées.
+
+#### Corrigé
+
+- Les totaux d’utilisation de Gemini incluent toutes les étapes d’une réponse, y compris les appels d’outils.
+- La catégorisation hors ligne fonctionne lorsque l’entraînement à partir des signets est désactivé.
+- La restauration ZIP rétablit les déclenchements des rappels et des expirations à venir. Le démarrage récupère également les rappels non planifiés tout en conservant les planifications fonctionnelles et les rappels déjà envoyés.
+
 ### Version 1.6.5 – 11 septembre 2026
 
 #### Nouveautés
