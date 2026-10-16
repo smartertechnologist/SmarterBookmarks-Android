@@ -1,119 +1,61 @@
-# SmarterBookmarks-Android
+# SmarterBookmarks for Android
 
-Official documentation for the SmarterBookmarks Android app
+Official documentation for saving, organizing and reading your bookmarked pages with SmarterBookmarks.
 
-## Introduction
+Save links, group them in collections, add tags, and return to articles with notes beside them. Start with one useful page and build a library you can find again.
 
-SmarterBookmarks lets you save your favorite bookmarks and return to them whenever you want.
+[Install the app](GETTINGSTARTED.md#installation) · [Browse all guides](GUIDES.md) · [Find a function](FEATURES.md) · [Look up a term](GLOSSARY.md)
 
-It is an advanced bookmark manager that lets you quickly save any digital content from any app or browser. With SmarterBookmarks, you can collect, organize, and read your favorite articles, blogs, web pages, or other digital content. You can also import existing bookmarks from other services/browsers.
+## Start with your first bookmark
 
-## Need help?
+These three guides follow the same recipe from saving to organizing. They work without sign-in, Pro or AI setup.
 
-- [Getting Started](GETTINGSTARTED.md)
+1. [Save your first bookmark](pages/SAVE.md): enter a link and check the saved result.
+2. [Find something you saved](pages/FIND.md): search for a word from its title.
+3. [Organize with collections and tags](pages/ORGANIZE.md): give the recipe a collection and a useful tag.
 
-## Features
+## Choose your next task
 
-### Collect bookmarks
+| What you want to do | Guide |
+| --- | --- |
+| Read, listen, highlight, or browse saved pages | [Reading](pages/READING.md) · [Browser and tabs](pages/BROWSER.md) · [Bookmark Digest](pages/DIGEST.md) |
+| Edit, organize, and maintain a larger library | [Bookmarks and collections](pages/BOOKMARKS.md) · [Tags](pages/TAGS.md) · [Notes](pages/NOTES.md) |
+| Save from Android, share cards, or add home-screen entries | [Sharing and shortcuts](pages/SHARING.md) |
+| Find app areas and customize your home view | [Navigation](pages/NAVIGATION.md) · [Dashboard](pages/DASHBOARD.md) · [Settings](pages/SETTINGS.md) |
+| Return to a bookmark at a chosen time | [Reminders](pages/REMINDERS.md) (Pro) |
+| Collect links from RSS or Google Drive | [Sources](pages/SOURCES.md) |
+| Control privacy, recovery, and data files | [Privacy and Trash](pages/PRIVACY.md) · [Backups and imports](pages/BACKUP.md) · [Data maintenance](pages/DATA.md) |
+| Use your library across devices or from a computer | [Cloud sync and Browser Sync](pages/SYNC.md) · [Connect to PC](pages/PC.md) |
+| Search by meaning and configure optional AI | [AI introduction](pages/AI.md) · [AI setup](pages/AI-SETUP.md) |
+| Keep AI conversations or run reusable/scheduled work | [Smartie](pages/SMARTIE.md) · [AI tasks](pages/AI-TASKS.md) |
 
-- Create and manage bookmarks (single or batch)
-- Collect bookmarks from browsers, other apps or sources like Google Drive or RSS
-- Organise bookmarks in nested collections
-- Collection folder styles: display collections as Icon or with Featured, Showcase, or Gallery image layouts (View options > Folder style)
-- Custom collection images: set a custom image per collection from your gallery or by pasting an image URL; collections without a custom image show bookmark images as dynamic collages
-- Save new bookmarks automatically (a pre-defined collection) or manually
-- Organize your bookmarks using Dashboard widgets for quicker access
-- Bottom navigation as an alternative to tabs for quick access to key areas
-- Scan QR codes to add bookmarks instantly
-- Group bookmarks by domain and date created
-- Enhanced article reader with improved offline support
+The [guide library](GUIDES.md#feature-references) groups the guides by what you want to do, from searching and organizing to reading, sharing and using AI.
 
-### Add metadata to your bookmarks
+## Find a control or term
 
-- Add notes, tags, and a comment field to your bookmarks
-- Markdown support for notes
-- Edit bookmark title, URL & description
-- Add favorite bookmarks, notes & collections
-- Pin bookmarks, notes & collections
-- Define states for your bookmarks for example *UNREAD/READ*, *PENDING/IN PROGRESS/DONE*, etc
-- Tag colors with customizable chip colors and outline preferences
-- Bookmark templates with pre-filled tags, collections, and statuses (Pro)
-- Option to set [dynamic bookmarks](pages/DYNAMIC.md) that auto-update based on specified criteria
-- Option to set bookmark expiry
-- Custom bookmark images and favicon support
-- Track usage statistics (opened count, last used date)
-- Bookmark health monitoring: check accessibility and detect broken links (Pro)
+- [App function index](FEATURES.md): where controls live, what they require, and which guides explain them.
+- [Glossary](GLOSSARY.md): feature names and alternate terms used in the app.
+- [Getting Started](GETTINGSTARTED.md): installation, general settings and basic troubleshooting.
 
-### Manage your data
+## Pro and optional AI
 
-- Archive bookmarks, notes & collections
-- [Powerful search](pages/SEARCH.md), saved searches, sorting, and advanced filtering
-- Rename collections and tags easily
-- Import bookmarks from your browser
-- Export bookmarks and collections to HTML, JSON, TXT, CSV, or PDF
-- ZIP database backup and restore
-- Multiple view options
-- Smartie AI assistant with 40+ actions, chat threads, and tag generation
-- Regular automated backups (Pro)
-- Export/import app settings
+Basic saving, keyword search, ordinary collections and tags work without Pro. Features such as [reminders](pages/REMINDERS.md), [Smart Collections](pages/SMART.md) and [Agent actions](pages/AI.md#organize-with-a-review-step) require the relevant Pro access. Each guide names its requirements where they matter.
 
-### Share & collaborate
+AI is optional. With an on-device model, indexing and AI Search do not need a provider API key. Cloud AI uses the configured provider and its API allowance, which is separate from app Pro access. Smartie's Ask mode and read-only tasks can run without Pro Agent access; Agent actions that change your library require it. See [AI setup](pages/AI.md#choose-the-setup-for-your-goal) before choosing a method.
 
-- Share bookmarks and notes
-- Share collections as JSON, HTML, TXT, or CSV
-- Browser Sync: sync bookmarks between the Chrome extension and your Android device (Pro)
-- Open bookmarks in-app as well as external apps
-- Open bookmarks in a floating bubble
-- Add bookmarks to your home screen
-- Add collections to your home screen as shortcuts or widgets
-- Web interface and Connect to PC for adding or managing bookmarks from desktop
+## Your library and data
 
-### Private & personal
-  
-- No sign-up required
-- No unnecessary permissions
-- Your data is stored ONLY on your device
-- Optionally secure the app using your device screen lock
-- Dark mode support
-- Optional cloud sync to Google Drive
-- Material Design 3 theme
-- AMOLED theme support
-- 18 languages supported
-- No ads
+Your library is stored on your Android device. Optional [Cloud sync](pages/SYNC.md#connect-android-devices-with-cloud-sync) stores library data with your chosen Google Drive or Dropbox account. [Backups and exports](pages/BACKUP.md) save files to a location you choose.
 
-## Pro features
+Cloud AI sends the data needed for the selected feature to its provider, including relevant bookmark information, chat messages, selected page text or submitted search queries. With an on-device model, indexing and AI Search process bookmark details and queries locally. The [AI guide](pages/AI.md#set-up-ai-search) explains the method and page-content choices.
 
-- [Connect to PC](pages/PC.md)
-- AI Agent Mode
-- Smartie AI Assistant (40+ actions, chat threads, @ context, streaming, Auto model)
-- [Smart Collections](pages/SMART.md)
-- [Locked Collections](pages/LOCKED.md)
-- Browser Sync (Chrome extension)
-- Bookmark Health Monitoring
-- Tabbed Browsing (Beta)
-- Bookmark Templates
-- Custom Pagination
-- Linked Bookmarks and Nested Linked Bookmarks
-- Reminders
-- Expiring Bookmark Notifications
-- Custom Bookmark Status
-- Unlimited Floating Bubbles
-- Premium Dashboard Widgets
-- Unlimited Saved Searches
-- Unlimited Highlights and Annotations
-- Content Search
-- Advanced Custom Sort
-- Page Bookmarks
-- Trash/Restore
-- Regular Backups
+## Get help and follow updates
 
-## Join Our Community
+For help with a specific issue, open **Settings → About → Send Feedback**. Describe what you tried, what happened, and what you expected. Review the email draft before sending it.
 
-Connect with us and stay updated by following our app's official channels:
+Follow the existing community channels:
 
 - [Facebook](https://web.facebook.com/smartertechnologist)
 - [Telegram](https://t.me/+b9WSFVyGW-lhZmY8)
 - [X](https://x.com/smartertechie)
 - [YouTube](https://www.youtube.com/@smartertechnologist)
-
-Join the conversation and be part of our growing community!

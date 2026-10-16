@@ -1,35 +1,30 @@
-# Connect to PC
+# Connect to PC over a local network
 
-Take your bookmarks to the next level with our Connect to PC Pro feature. This powerful upgrade lets you effortlessly access and manage your meticulously curated collection directly from your computer. Your bookmarks are always at your fingertips, no matter which device you're using.
+[Documentation home](../README.md) · [Guide library](../GUIDES.md)
 
-**Imagine this:** you're browsing on your phone and stumble upon an article you want to revisit later. With the Connect to PC feature, simply save it to SmarterBookmarks and then – bam! – it's readily available on your PC whenever you need it. No more frantically searching your phone history or relying on unreliable email hacks.
-
-## Features
-
-- **Local Wi-Fi Network:** Access bookmarks directly on your computer, no internet connection needed!
-- **Manage Your Data:** View & edit your saved bookmarks, archived content, and organized collections.
-- **Powerful Search:** Easily find what you're looking for within your bookmark collection.
-- **Seamless Navigation:** Utilize pagination for effortless browsing through your saved items.
-
-As outlined above, Connect to PC Pro offers a smooth and secure connection, ensuring your bookmarks stay organized and accessible across all your devices. Powerful search functionality and pagination let you navigate your collection with ease.
-
-The Connect to PC Pro feature in SmarterBookmarks lets you conveniently view and manage your saved content directly on your computer, all within your local Wi-Fi network. **No internet connection required!** 
+**Connect to PC** is a Pro feature that serves your phone's library to a computer browser over a reachable local network. It is a temporary connection to the phone, separate from [Cloud sync and Browser Sync](SYNC.md).
 
 ## How it works
 
-1. **Connect to the Same Wi-Fi:** Ensure both your mobile device and PC are connected to the same Wi-Fi network. Alternatively, you can create a mobile hotspot on your device and connect your PC to it.
+1. Connect the phone and computer to the same reachable Wi-Fi, or turn on the phone's hotspot and connect the computer to it.
+2. In SmarterBookmarks, open the main toolbar menu → **Connect to PC**.
+3. On the phone's connection screen, find the address for the network you are using. Enter the complete displayed URL, including its port, in the computer browser.
+4. On the phone, check the incoming device's connection request and choose **Accept** to permit it, or **Reject** to deny it.
+5. Use the computer page to view/manage the library. For a recognizable check, find **Tomato and chickpea curry** by its saved title and open its collection. Existing library search, editing, and pagination are provided by the local web interface.
+6. Return to the phone's Connect to PC screen and choose **Disconnect** when finished.
 
+An internet connection is not required for the local library connection itself. Opening live bookmarked websites or loading online content can still need network access. Keep the phone's connection active while using the computer session, and use **Disconnect** to end it.
 
+## Address controls and connection problems
 
-1. **Access App-Provided URL:** Open a web browser on your PC and navigate to the specific URL displayed within the SmarterBookmarks app.
+The screen offers Wi-Fi, local hostname, and hotspot addresses when available. **Copy** puts the chosen URL on the clipboard; **Share** sends it through Android. **Refresh** recalculates the addresses and retries hostname discovery after a network change. Buttons for unavailable addresses are disabled.
 
+If the Wi-Fi/hotspot section asks you to connect and refresh, do that before copying its URL. If the hostname address does not resolve, try the displayed numeric Wi-Fi address instead. Local hostname support depends on the network. Use the actual address shown on your phone rather than a fixed address from another person's example.
 
+If the computer cannot reach the phone, check that both are on the intended Wi-Fi/hotspot and that the phone still shows an available address. Refresh after switching networks, reload the computer page, and check the phone for the approval request. A network that isolates clients can prevent local access even when both devices show the same Wi-Fi name.
 
-1. **Approve the Connection:** A confirmation request will appear on your mobile device. Simply approve the request to establish the connection.
+The app may request notification access for the connection service. Its permission message opens Android app settings when access is missing. Grant the requested access if you want its service notification; device settings vary.
 
+**Disconnect** closes the approved connection and returns the phone to its address/connection view. It does not delete bookmarks or reset either cloud-sync feature. Use it explicitly at the end of the session.
 
-
-
-
-**Congratulations!** Your bookmarks are now accessible for viewing on your PC. Utilize the search function and pagination features to navigate your collection with ease.
-
+**Related:** [Backup before substantial edits](BACKUP.md) · [Data maintenance](DATA.md) · [Sharing and home-screen entries](SHARING.md).

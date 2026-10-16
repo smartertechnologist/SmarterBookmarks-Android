@@ -1,8 +1,8 @@
 # Dynamic Bookmarks
 
-You can create dynamic bookmarks that can be auto-updated based on the criteria you specify based on the URL.
+A dynamic bookmark follows a changing URL while keeping one saved bookmark. Use it to keep your place in a tutorial, comic, podcast series or other website. Set a URL pattern to control which pages can update it.
 
-This is especially useful if you do not want to create a lot of bookmarks about a particular topic when all you require is just **ONE** up-to-date bookmark. For example, comics, weekly podcasts, TV shows, documentation pages you last read, YouTube playlists, articles in blogs you last read, etc. This feature lets you track your journey through a website.
+To update the saved title, description or image instead, use [Refresh bookmark metadata](BOOKMARKS.md#refresh-and-reset-metadata).
 
 ## Creating/Setting a Dynamic Bookmark
 
@@ -24,9 +24,9 @@ This update will work because it matches the specified regex.
 #### Further example
 
 <p float="left">
-    <img src="../assets/8.png" alt="Creating a smart collection" width="300"/>
-    <img src="../assets/9.png" alt="List with a smart collection" width="300"/>
-    <img src="../assets/10.png" alt="Contents of a smart collection" width="300"/>
+    <img src="../assets/8.png" alt="New bookmark form with a Tutorialspoint SQL URL and the dynamic bookmark control" width="300"/>
+    <img src="../assets/9.png" alt="Set dynamic bookmark sheet with the stable URL prefix selected and Regex in the text-selection menu" width="300"/>
+    <img src="../assets/10.png" alt="Set dynamic bookmark sheet using Exact matching and a regular expression for the Tutorialspoint SQL URL prefix" width="300"/>
 </p>
 
 ## Removing a Dynamic Bookmark

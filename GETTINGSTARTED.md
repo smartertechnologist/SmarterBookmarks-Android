@@ -2,6 +2,14 @@
 
 Welcome to SmarterBookmarks! This guide will help you get started and make the most out of our app for organizing and managing your bookmarks.
 
+For a hands-on introduction, save a recipe to try later, find it again, then give it a home. These basic steps work without sign-in, AI setup, or Pro:
+
+1. [Save your first bookmark](pages/SAVE.md).
+2. [Find something you saved](pages/FIND.md).
+3. [Organize with collections and tags](pages/ORGANIZE.md).
+
+Continue with the [user guide library](GUIDES.md) for reading, notes, reminders, sources, AI, backup, and sync.
+
 ## Table of Contents
 
 1. [Installation](#installation)
@@ -18,53 +26,32 @@ SmarterBookmarks is available only on Android. Visit [Google Play](https://play.
 
 ## Adding Bookmarks
 
-Now that you have installed SmarterBookmarks, let's start adding bookmarks.
+Follow [Save your first bookmark](pages/SAVE.md) to save a page in the app[^1] and check that it appears in **Bookmarks**. Add other bookmark details[^2] when you need them.
 
-There are various ways to add bookmarks[^1]. The default way is through the app itself. To do this:
+<img src="assets/guides/save/bookmark-form.png" alt="New bookmark form with the BBC Good Food recipe URL and the title Tomato and chickpea curry entered" width="300"/>
 
-1. Open the app.
-2. On the "Bookmarks" tab, click on the "+" button.
-3. Enter the URL of the website you want to bookmark.
-4. Add a title and other bookmark info[^2] if desired.
-5. Click "Create."
-
-<p float="left">
-    <img src="assets/1.png" alt="Clicking the + button to add a bookmark" width="250"/>
-    <img src="assets/2.png" alt="Creating a bookmark" width="250"/>
-</p>
+*Enter an address and a title, then tap Create.* [View full-size image](assets/guides/save/bookmark-form.png).
 
 ## Organizing Bookmarks
 
-Keep your bookmarks organized for easy access:
+A **collection** groups related bookmarks. A **tag** labels a topic you can use across collections. Follow [Organize with collections and tags](pages/ORGANIZE.md) to try one of each.
 
-1. Create collections to categorize your bookmarks.
-2. [Smart Collections](pages/SMART.md) (Pro feature) allow you to specify a set of criteria for bookmarks to be contained in the collections, to make keeping track of bookmarks much easier
-3. Use tags to label bookmarks with keywords, making them easily searchable.
-<p float="left">
-    <img src="assets/6.png" alt="Sample collections" width="250"/>
-    <img src="assets/11.png" alt="Sample bookmarks" width="250"/>
-</p>
+For a collection that updates from rules, explore [Smart Collections](pages/SMART.md), a Pro feature.
 
 ## Searching and Filtering
 
-Efficiently find your bookmarks:
-
-1. Utilize the search bar to quickly locate specific bookmarks.
-2. Apply filters based on tags, status, pinned, or favorites.
+Start with [Find something you saved](pages/FIND.md) to search for a word from a bookmark's title. For more ways to narrow the results, see [Search and filtering](pages/SEARCH.md).
 
 ## Syncing Across Devices
 
-Access your bookmarks from any Android device or desktop:
-
-1. **Cloud sync:** Ensure you are logged in to the same Google account on all devices and enable cloud syncing in the app settings.
-2. **Browser Sync (Pro):** Sync bookmarks between the SmarterBookmarks Chrome extension and your Android device; changes sync automatically in both directions.
+Follow [Sync across devices and Chrome](pages/SYNC.md) to choose between cloud sync for your Android library and Browser Sync for the Chrome extension. Browser Sync is available to everyone. Keep a [backup](pages/BACKUP.md) before connecting an existing library or changing sync settings.
 
 ## Settings
 
 Explore additional features and customize your experience:
 
-1. Access the settings menu (e.g. from the More tab or the settings icon).
-2. Adjust preferences in categories such as Cloud Sync, Browser Sync, Database, Security, Search, Behavior, Appearance, AI Features (Smartie), Collections, Bookmarks, Notes, Support, Language, and About.
+1. Open the three-dot toolbar menu and choose **Settings**. Some screens group it under **More options**.
+2. Choose the area you want to change, such as **Cloud sync**, **Browser Sync**, **Database**, **AI features**, **Collections**, **Bookmarks**, or **Notes**. The [task guides](GUIDES.md) explain the relevant settings as you use them.
 
 ## Troubleshooting
 
@@ -73,12 +60,11 @@ Encountering issues? Here are some tips:
 - Check your internet connection.
 - Ensure you are using the latest version of the app.
 - If you need personalized assistance or have a specific issue that needs attention, you can request support via email:
-    1. Click on the "Send Feedback" option in the About section of the app's settings.
-    2. Provide a detailed description of the issue you are facing.
-    3. Click "Submit" to send a support request.
-    4. Our support team will get back to you via email as soon as possible.
+    1. Open **Settings → About → Send Feedback** and choose your email app.
+    2. Describe what you tried, what happened and what you expected.
+    3. Review the draft and its device information, then send it from your email app.
 
 That's it! You're all set to make the most of SmarterBookmarks. Happy bookmarking!
 
 [^1]: You can also add bookmarks by sharing links from other apps or by importing them via HTML exports from browsers
-[^2]: Bookmark info includes adding as a favorite, adding tags, adding to a collection, setting a status, adding a comment, applying a template (Pro), configuring how to auto-refresh bookmark metadata, adding a reminder (Pro feature), and setting a bookmark as [dynamic](pages/DYNAMIC.md).
+[^2]: Bookmark info includes adding as a favorite, adding tags, adding to a collection, setting a status, adding a comment, using a bookmark template (two templates free; Pro removes the limit), configuring how to auto-refresh bookmark metadata, adding a reminder (Pro feature), and setting a bookmark as [dynamic](pages/DYNAMIC.md).
