@@ -4,27 +4,18 @@
 
 #### New
 
-- Open an AI task’s conversation in Smartie and keep chatting.
-- Preview duplicate tag merges and extra-space removal, then confirm the changes.
-- Merge collections, including matching child collections, while keeping their items.
+- Continue AI task conversations in Smartie.
+- Preview tag merges and cleanup.
+- Merge collections and matching subcollections.
 
-#### Improvements
+#### Improved
 
-- AI settings show your chosen model, and related-tag suggestions explain any setup needed.
-- Classification settings explain automatic background changes and when Replace mode replaces existing collection assignments and tags.
-- Reminder buttons stay reachable, source schedules stay selected, and long Smart Collection rules are easier to read.
-- Digest shows when reading is complete and keeps Previous and Next reachable.
+- Clearer AI settings and easier reminder and Digest controls.
 
 #### Fixed
 
-- AI stops adding tags with extra spaces or repeated names.
-- Failed or cancelled backups no longer count as completed recovery copies, and backup completion supports storage providers without rename support.
-- Skip-duplicate restores preserve unrelated bookmarks with colliding IDs and restore their status assignments correctly.
-- Fixes improve offline sync edits, Trash recovery, saved status filters, list sorting, reminders and offline previews.
-- Importing and syncing avoid repeated collection copies.
-- Dashboard search opens at the top, and basic counters can be edited without Pro.
-- Widgets and Digest respect hidden and locked bookmarks.
-- Private browsing stays private, Page Bookmark menus avoid page buttons, Wi-Fi-only sync requires Wi-Fi, and AOL’s icon displays correctly.
+- Backup, restore, sync and shared-link issues.
+- Privacy, translation and other bug fixes.
 
 ### Version 1.6.6 – October 1, 2026
 

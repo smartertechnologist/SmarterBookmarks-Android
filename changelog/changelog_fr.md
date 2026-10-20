@@ -4,27 +4,18 @@
 
 #### Nouveautés
 
-- Ouvrez la conversation d’une tâche IA dans Smartie et poursuivez la discussion.
-- Prévisualisez les fusions d’étiquettes en double et la suppression des espaces superflus, puis confirmez les modifications.
-- Fusionnez les collections, y compris les collections enfants correspondantes, tout en conservant leurs éléments.
+- Poursuivez les conversations des tâches IA dans Smartie.
+- Prévisualisez la fusion et le nettoyage des étiquettes.
+- Fusionnez les collections et les sous-collections correspondantes.
 
 #### Améliorations
 
-- Les réglages IA affichent le modèle choisi et les suggestions d’étiquettes associées expliquent la configuration nécessaire.
-- Les réglages de classification expliquent les modifications automatiques en arrière-plan et quand le mode Remplacer remplace les affectations aux collections et les balises existantes.
-- Les boutons de rappel restent accessibles, les calendriers des sources restent sélectionnés et les longues règles de collections intelligentes sont plus lisibles.
-- Digest indique quand la lecture est terminée et garde Précédent et Suivant accessibles.
+- Réglages IA plus clairs et commandes de rappels et de Digest simplifiées.
 
 #### Corrigé
 
-- L’IA n’ajoute plus d’étiquettes avec des espaces superflus ou des noms répétés.
-- Les sauvegardes échouées ou annulées ne sont plus comptées comme des copies de restauration terminées. La finalisation des sauvegardes fonctionne aussi avec les fournisseurs de stockage sans prise en charge du renommage.
-- Les restaurations avec exclusion des doublons conservent les signets distincts dont les identifiants entrent en conflit et rétablissent correctement leurs statuts.
-- Des corrections améliorent la synchronisation des modifications hors ligne, la restauration depuis la corbeille, les filtres de statut enregistrés, le tri des listes, les rappels et les aperçus hors ligne.
-- Les imports et la synchronisation évitent les copies répétées de collections.
-- La recherche du tableau de bord s’ouvre en haut et les compteurs de base peuvent être modifiés sans Pro.
-- Les widgets et Digest respectent les signets masqués et verrouillés.
-- La navigation privée reste privée, les menus de signets de page évitent les boutons des pages, la synchronisation Wi-Fi uniquement exige le Wi-Fi et l’icône AOL s’affiche correctement.
+- Corrections des sauvegardes, restaurations, synchronisations et liens partagés.
+- Corrections de confidentialité, de traduction et autres bugs.
 
 ### Version 1.6.6 – 1er octobre 2026
 
