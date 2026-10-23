@@ -59,3 +59,5 @@ Follow the existing community channels:
 - [Telegram](https://t.me/+b9WSFVyGW-lhZmY8)
 - [X](https://x.com/smartertechie)
 - [YouTube](https://www.youtube.com/@smartertechnologist)
+
+Built by [Smart Mekiliuwa](https://x.com/mekiliuwa).
