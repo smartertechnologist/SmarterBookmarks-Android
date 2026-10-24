@@ -1,5 +1,30 @@
 # Changelog
 
+### Version 1.6.8 – October 24, 2026
+
+#### New
+
+- **Advanced** offers optional Quick Settings tiles to open a new bookmark draft, request cloud sync with your existing settings, or hide and show currently open floating bubbles.
+- Optional keyboard shortcuts on the main screen: **Ctrl+F** searches, **Ctrl+N** opens the New bookmark dialog, and **Escape** goes back. Enable URL dropping to review one or more URLs before saving, or opt in to **Save dropped URLs immediately** using your existing quick-save settings.
+- Optional **Predictive Back** previews navigation from the main screen and browser on supported devices.
+- Experimental **Assistant bookmark search** lets compatible assistants search visible, unlocked bookmarks while your device is unlocked. Enable it under Advanced. Requires Android 16 or later and an assistant that supports this app; enabling the setting alone does not connect an assistant.
+
+#### Improved
+
+- Settings are easier to find: Automation & Tasker and Deep Refresh Gesture are in **Advanced**; import tuning and custom-image export options are grouped in **Database**.
+- Permission help for Home screen shortcuts, widgets and floating bubbles, without extra prompts when access is already allowed.
+- Clearer confirmation dialogs and quick choices, with polished bottom sheets for forms and longer content.
+- Automatic page darkening remains the default. Use **Use original page colors** in the browser menu to remember an exception for an individual website. Private browsing choices stay within the private session.
+- Home screen widgets use less memory for bookmark images and icons.
+
+#### Fixed
+
+- Sharing a single link keeps the bookmark Name field visible, even when batch mode was previously enabled.
+- Fixed cloud sync failures with large libraries and when retrying a sync.
+- Automatic cloud sync catches up on missed runs, retries temporary failures, and keeps its schedule when you reopen the app.
+- Bookmark text no longer overlaps images in Home screen widgets.
+- Web highlights use the page’s text and background colors for readability and update when the website switches between light and dark themes.
+
 ### Version 1.6.7 – October 17, 2026
 
 #### New

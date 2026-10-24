@@ -1,5 +1,30 @@
 # Journal des modifications
 
+### Version 1.6.8 – 24 octobre 2026
+
+#### Nouveautés
+
+- La rubrique **Avancé** propose des tuiles facultatives dans les réglages rapides pour ouvrir un brouillon de signet, demander une synchronisation cloud avec vos réglages actuels ou masquer et afficher les bulles flottantes actuellement ouvertes.
+- Raccourcis clavier facultatifs sur l’écran principal : **Ctrl+F** recherche, **Ctrl+N** ouvre la boîte de dialogue Nouveau signet et **Échap** revient en arrière. Activez le dépôt d’URL pour en vérifier une ou plusieurs avant l’enregistrement, ou choisissez **Enregistrer immédiatement les URL déposées** selon vos réglages d’enregistrement rapide.
+- Le **Retour prédictif** facultatif prévisualise la navigation depuis l’écran principal et le navigateur sur les appareils compatibles.
+- La **recherche expérimentale de signets par l’assistant** permet aux assistants compatibles de rechercher les signets visibles et non verrouillés lorsque l’appareil est déverrouillé. Activez-la dans Avancé. Nécessite Android 16 ou une version ultérieure et un assistant prenant en charge cette application ; activer ce réglage ne connecte pas un assistant.
+
+#### Améliorations
+
+- Les réglages sont mieux regroupés : Automatisation et Tasker ainsi que le geste d’actualisation approfondie se trouvent dans **Avancé** ; les options de performances d’importation et d’exportation des images personnalisées sont dans **Base de données**.
+- Aide pour les autorisations des raccourcis, widgets et bulles flottantes, sans demandes supplémentaires lorsque l’accès est déjà autorisé.
+- Des confirmations et des choix rapides plus clairs, avec des panneaux améliorés pour les formulaires et les contenus plus longs.
+- L’assombrissement automatique des pages reste activé par défaut. L’option **Utiliser les couleurs originales de la page** du menu du navigateur permet de mémoriser une exception pour un site. En navigation privée, ces choix restent limités à la session privée.
+- Les widgets de l’écran d’accueil utilisent moins de mémoire pour les images et les icônes des signets.
+
+#### Corrigé
+
+- Le partage d’un seul lien conserve le champ Nom du signet visible, même si le mode par lots était activé auparavant.
+- Correction des échecs de synchronisation cloud avec les bibliothèques volumineuses et lors de nouvelles tentatives.
+- La synchronisation cloud automatique rattrape les synchronisations manquées, réessaie en cas d’échec temporaire et conserve sa planification lorsque vous rouvrez l’application.
+- Le texte des signets ne chevauche plus les images dans les widgets de l’écran d’accueil.
+- Les surlignages web utilisent les couleurs du texte et du fond de la page pour rester lisibles et se mettent à jour lorsque le site passe du thème clair au thème sombre, ou inversement.
+
 ### Version 1.6.7 – 17 octobre 2026
 
 #### Nouveautés
