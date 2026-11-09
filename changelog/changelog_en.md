@@ -1,5 +1,21 @@
 # Changelog
 
+### Version 1.6.9 – November 9, 2026
+
+#### New
+
+- Use OpenRouter with Smartie and AI tasks. Add your OpenRouter API key under **AI features → AI setup → Providers → OpenRouter**, then choose OpenRouter for Smartie. AI tasks follow your Smartie model choice.
+- Choose OpenRouter for bookmark summaries, AI Digest, and collection and tag suggestions.
+- Search for a compatible OpenRouter model by name, or choose **Auto** to let OpenRouter pick a model for each request.
+- Start a Smartie message with `/web` to search the web or read a page using OpenRouter.
+- Use OpenRouter to find bookmarks by meaning. After saving your OpenRouter API key, choose **OpenRouter** as the index method, then index your bookmarks and enable **AI Search**.
+- Search the latest Gemini and OpenAI models after adding your API key. The lists refresh when you open them.
+- Open **Classification history** in the AI classification settings to review automatic collection and tag changes. Undo changes for one bookmark or a whole batch while keeping later edits.
+
+#### Fixed
+
+- Fixed the transparent background on the expanded Smartie sheet.
+
 ### Version 1.6.8 – October 24, 2026
 
 #### New

@@ -1,5 +1,21 @@
 # Journal des modifications
 
+### Version 1.6.9 – 9 novembre 2026
+
+#### Nouveautés
+
+- Utilisez OpenRouter avec Smartie et les tâches IA. Ajoutez votre clé API OpenRouter dans **Fonctionnalités de l’IA → Configuration IA → Fournisseurs → OpenRouter**, puis sélectionnez OpenRouter pour Smartie. Les tâches IA utilisent le modèle choisi pour Smartie.
+- Choisissez OpenRouter pour les résumés de signets, le Digest IA et les suggestions de collections et d’étiquettes.
+- Recherchez un modèle OpenRouter compatible par son nom ou choisissez **Auto** pour laisser OpenRouter sélectionner un modèle pour chaque requête.
+- Commencez un message dans Smartie par `/web` pour effectuer une recherche sur le Web ou lire une page avec OpenRouter.
+- Utilisez OpenRouter pour rechercher des signets par leur sens. Après avoir enregistré votre clé API OpenRouter, choisissez **OpenRouter** comme méthode d’indexation, puis indexez vos signets et activez la **Recherche IA**.
+- Recherchez les derniers modèles Gemini et OpenAI après avoir ajouté votre clé API. Les listes sont actualisées à chaque ouverture.
+- Ouvrez l’**Historique de classification** dans les paramètres de classification de l’IA pour consulter les modifications automatiques des collections et des étiquettes. Annulez les modifications d’un signet ou de tout un lot en conservant vos modifications ultérieures.
+
+#### Corrigé
+
+- Correction du fond transparent lorsque le panneau Smartie est entièrement ouvert.
+
 ### Version 1.6.8 – 24 octobre 2026
 
 #### Nouveautés
