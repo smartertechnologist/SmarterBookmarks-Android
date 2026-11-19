@@ -2,12 +2,20 @@
 
 ### Version 1.6.10 – 19 novembre 2026
 
-#### Corrigé
+#### Synchronisation cloud
 
-- La synchronisation cloud automatique peut réessayer après un échec temporaire de téléchargement sur Google Drive ou Dropbox. En cas d’échec du téléchargement, elle s’arrête avant d’envoyer une sauvegarde incomplète.
-- La vérification de la connexion à Dropbox ne lance plus le renouvellement du jeton sur le thread principal de l’interface.
-- Lors de l’enregistrement ou de l’actualisation d’un signet, le titre et la description déjà récupérés sont conservés si la page affichée ne fournit pas de remplacement. Les liens et les images aux adresses relatives utilisent l’adresse de destination.
-- Le calcul de l’espace occupé par les aperçus hors ligne utilise moins de mémoire pour les grandes bibliothèques sur Android 8 et versions ultérieures.
+- Amélioration de la synchronisation des signets, des signets épinglés et des collections.
+- La synchronisation utilise moins de mémoire et évite certains envois inutiles.
+- Amélioration des commandes, de l’affichage de la progression, des nouvelles tentatives automatiques et des vérifications de connexion à Dropbox.
+
+#### Smartie
+
+- Amélioration de la recherche de signets et des messages d’erreur Gemini.
+
+#### Signets
+
+- Amélioration de l’enregistrement et de l’actualisation des signets.
+- Réduction de la consommation de mémoire lors du calcul de l’espace des aperçus hors ligne sur Android 8 et versions ultérieures.
 
 ### Version 1.6.9 – 9 novembre 2026
 
