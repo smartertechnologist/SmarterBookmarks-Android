@@ -1,5 +1,14 @@
 # Changelog
 
+### Version 1.6.10 – November 19, 2026
+
+#### Fixed
+
+- Automatic Cloud Sync can retry temporary Google Drive or Dropbox download failures. A failed download stops the sync before it can upload an incomplete backup.
+- Checking Dropbox sign-in status no longer starts a token refresh on the screen’s main thread.
+- Saving or refreshing a bookmark keeps its fetched title and description when the rendered page has no replacement. Relative links and images in rendered pages resolve against the destination URL.
+- Checking offline preview storage uses less memory for large libraries on Android 8 and later.
+
 ### Version 1.6.9 – November 9, 2026
 
 #### New
